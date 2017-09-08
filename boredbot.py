@@ -201,7 +201,10 @@ class boredbot():
     cur = None
     cry = None
     for arg in text.split(' '):
-      if (arg[0] == '-'):
+      output(">>>>>%s<<<<<" % arg)
+      if (arg == ''):
+        continue
+      elif (arg[0] == '-'):
         #this is a -CUR
         if arg[1:].upper() in cur_list:
           cur = arg[1:].upper()
@@ -218,12 +221,15 @@ class boredbot():
     else:
       items = self.get_crypto(cur, 1, cry)
       head = 'Current list price of %s' % cry
+    
+    if (items == None):
+      self.puts_notice(nick, "Unable to process request, unable to find bitcoin currency.")
+    else:
       self.puts_notice(nick, "*** %s (AUD) ***" % head)
       self.puts_notice(nick, "\x16SYM    NAME                MARKET CAP         PRICE(AUD)              SUPPLY     1HR      1D      7D\x16")
       for item in items:
         self.puts_notice(nick, "{0:6} {1:19} ${2:16,.0f}  $ {3:11,.4f} {4:16,.0f}  {5:6}  {6:6}  {7:6}".format(item['symbol'], item['name'], float(item['market_cap_aud']), float(item['price_aud']), float(item['total_supply']), float(item['percent_change_1h']), float(item['percent_change_24h']), float(item['percent_change_7d'])))
       self.puts_notice(nick, "*** End of List ***")
-
 
   # puts_data(<socket>, <data>) - puts data to the socket, converts it to bytes from string
   def puts_data(self, data):
@@ -295,17 +301,14 @@ class boredbot():
       
       return items
     else:
-      http = urllib.request.urlopen('https://api.coinmarketcap.com/v1/ticker/%s/?convert=%s' % (cry, cur))
-      html = http.read().decode('utf-8')
-      items = json.loads(html)
+      try:
+        http = urllib.request.urlopen('https://api.coinmarketcap.com/v1/ticker/%s/?convert=%s' % (cry, cur))
+        html = http.read().decode('utf-8')
+        items = json.loads(html)
+      except urllib.request.HTTPError as err:
+        return None
       
       return items
-      
-#    else:
-#      http = urllib.request.urlopen('https://api.coinmarketcap.com/v1/ticker/%s/?convert=%s' % (cry, cur))
-#      html = http.readlines()
-#      output(html)
-    
     
   
   #########################################################################################################

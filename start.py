@@ -8,7 +8,7 @@ from boredbot import *
 
 
 CONFIG = {
-  'server': 'stable.nictitate.net',
+  'server': 'irc.austnet.org',
   'port': 6667,
   'nick': 'cryptobot',
   'ident': 'crypto',
