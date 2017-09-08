@@ -1,4 +1,4 @@
-cryptobot.md
+cryptobot.py
 
 A simple IRC bot to pull crypto currencies.
 
@@ -17,5 +17,6 @@ Usage:
 - This will pull just information about bitcoin, in AUD
 
 The -AUD/USD/etc can be used with other options like so:
+
 .crypto -USD bitcoin
 - Will pull bitcoin detail in USD
