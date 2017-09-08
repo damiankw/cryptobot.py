@@ -201,7 +201,6 @@ class boredbot():
     cur = None
     cry = None
     for arg in text.split(' '):
-      output(">>>>>%s<<<<<" % arg)
       if (arg == ''):
         continue
       elif (arg[0] == '-'):
