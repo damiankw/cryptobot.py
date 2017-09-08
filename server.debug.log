@@ -1,0 +1,220 @@
+[08/09/2017 20:59:26]  <- NICK cryptobot
+[08/09/2017 20:59:26]  <- USER crypto 0 * :a crypto currency bot
+[08/09/2017 20:59:26]  -> :stable.nictitate.net NOTICE Auth :*** Looking up your hostname...
+[08/09/2017 20:59:26]  -> :stable.nictitate.net NOTICE Auth :*** Found your hostname (local.damian.id.au)
+[08/09/2017 20:59:27]  -> :stable.nictitate.net NOTICE Auth :Welcome to nictitate!
+[08/09/2017 20:59:27]  -> :stable.nictitate.net 001 cryptobot :Welcome to the nictitate IRC Network cryptobot!crypto@local.damian.id.au
+[08/09/2017 20:59:27]  <- PROTOCTL NAMESX
+[08/09/2017 20:59:27]  <- PROTOCTL UHNAMES
+[08/09/2017 20:59:27]  <- JOIN #nerdhacks
+[08/09/2017 20:59:27]  -> :stable.nictitate.net 002 cryptobot :Your host is stable.nictitate.net, running version InspIRCd-2.0
+[08/09/2017 20:59:27]  -> :stable.nictitate.net 003 cryptobot :This server was created 17:21:34 Sep  8 2017
+[08/09/2017 20:59:27]  -> :stable.nictitate.net 004 cryptobot stable.nictitate.net InspIRCd-2.0 iosw biklmnopstv bklov
+[08/09/2017 20:59:27]  -> :stable.nictitate.net 005 cryptobot AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,l,imnpst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 MAXPARA=32 :are supported by this server
+[08/09/2017 20:59:27]  -> :stable.nictitate.net 005 cryptobot MAXTARGETS=20 MODES=20 NETWORK=nictitate NICKLEN=32 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+[08/09/2017 20:59:27]  -> :stable.nictitate.net 042 cryptobot 00AAAAABP :your unique ID
+[08/09/2017 20:59:27]  -> :stable.nictitate.net 375 cryptobot :stable.nictitate.net message of the day
+[08/09/2017 20:59:27]  -> :stable.nictitate.net 376 cryptobot :End of message of the day.
+[08/09/2017 20:59:27]  -> :stable.nictitate.net 251 cryptobot :There are 2 users and 0 invisible on 1 servers
+[08/09/2017 20:59:27]  -> :stable.nictitate.net 252 cryptobot 1 :operator(s) online
+[08/09/2017 20:59:27]  -> :stable.nictitate.net 254 cryptobot 3 :channels formed
+[08/09/2017 20:59:27]  -> :stable.nictitate.net 255 cryptobot :I have 2 clients and 0 servers
+[08/09/2017 20:59:27]  -> :stable.nictitate.net 265 cryptobot :Current Local Users: 2  Max: 2
+[08/09/2017 20:59:27]  -> :stable.nictitate.net 266 cryptobot :Current Global Users: 2  Max: 2
+[08/09/2017 20:59:27]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[08/09/2017 20:59:29]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[08/09/2017 20:59:31]  -> :cryptobot!crypto@local.damian.id.au JOIN :#nerdhacks
+[08/09/2017 20:59:31]  <- MODE #nerdhacks 
+[08/09/2017 20:59:31]  -> :stable.nictitate.net 353 cryptobot = #nerdhacks :@cryptobot 
+[08/09/2017 21:02:15]  <- NICK cryptobot
+[08/09/2017 21:02:15]  <- USER crypto 0 * :a crypto currency bot
+[08/09/2017 21:02:15]  -> :stable.nictitate.net NOTICE Auth :*** Looking up your hostname...
+[08/09/2017 21:02:15]  -> :stable.nictitate.net NOTICE Auth :*** Found your hostname (local.damian.id.au) -- cached
+[08/09/2017 21:02:16]  -> :stable.nictitate.net NOTICE Auth :Welcome to nictitate!
+[08/09/2017 21:02:16]  -> :stable.nictitate.net 001 cryptobot :Welcome to the nictitate IRC Network cryptobot!crypto@local.damian.id.au
+[08/09/2017 21:02:16]  <- PROTOCTL NAMESX
+[08/09/2017 21:02:16]  <- PROTOCTL UHNAMES
+[08/09/2017 21:02:16]  <- JOIN #nerdhacks
+[08/09/2017 21:02:16]  -> :stable.nictitate.net 002 cryptobot :Your host is stable.nictitate.net, running version InspIRCd-2.0
+[08/09/2017 21:02:16]  -> :stable.nictitate.net 003 cryptobot :This server was created 17:21:34 Sep  8 2017
+[08/09/2017 21:02:16]  -> :stable.nictitate.net 004 cryptobot stable.nictitate.net InspIRCd-2.0 iosw biklmnopstv bklov
+[08/09/2017 21:02:16]  -> :stable.nictitate.net 005 cryptobot AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,l,imnpst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 MAXPARA=32 :are supported by this server
+[08/09/2017 21:02:16]  -> :stable.nictitate.net 005 cryptobot MAXTARGETS=20 MODES=20 NETWORK=nictitate NICKLEN=32 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+[08/09/2017 21:02:16]  -> :stable.nictitate.net 042 cryptobot 00AAAAABQ :your unique ID
+[08/09/2017 21:02:16]  -> :stable.nictitate.net 375 cryptobot :stable.nictitate.net message of the day
+[08/09/2017 21:02:16]  -> :stable.nictitate.net 376 cryptobot :End of message of the day.
+[08/09/2017 21:02:16]  -> :stable.nictitate.net 251 cryptobot :There are 2 users and 0 invisible on 1 servers
+[08/09/2017 21:02:16]  -> :stable.nictitate.net 252 cryptobot 1 :operator(s) online
+[08/09/2017 21:02:16]  -> :stable.nictitate.net 254 cryptobot 3 :channels formed
+[08/09/2017 21:02:16]  -> :stable.nictitate.net 255 cryptobot :I have 2 clients and 0 servers
+[08/09/2017 21:02:16]  -> :stable.nictitate.net 265 cryptobot :Current Local Users: 2  Max: 2
+[08/09/2017 21:02:16]  -> :stable.nictitate.net 266 cryptobot :Current Global Users: 2  Max: 2
+[08/09/2017 21:02:16]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[08/09/2017 21:02:18]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[08/09/2017 21:02:20]  -> :cryptobot!crypto@local.damian.id.au JOIN :#nerdhacks
+[08/09/2017 21:02:20]  <- MODE #nerdhacks 
+[08/09/2017 21:02:20]  -> :stable.nictitate.net 353 cryptobot = #nerdhacks :@cryptobot 
+[08/09/2017 21:02:20]  -> :stable.nictitate.net 366 cryptobot #nerdhacks :End of /NAMES list.
+[08/09/2017 21:02:22]  -> :stable.nictitate.net 324 cryptobot #nerdhacks +nt
+[08/09/2017 21:02:22]  -> :stable.nictitate.net 329 cryptobot #nerdhacks 1504868540
+[08/09/2017 21:02:29]  -> :damian!damian@local.damian.id.au JOIN :#nerdhacks
+[08/09/2017 21:04:19]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.quit
+[08/09/2017 21:04:21]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :asdf
+[08/09/2017 21:04:23]  -> PING :stable.nictitate.net
+[08/09/2017 21:04:23]  <- PONG :stable.nictitate.net
+[08/09/2017 21:04:24]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :why you no quit
+[08/09/2017 21:04:25]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.exit
+[08/09/2017 21:04:26]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.die
+[08/09/2017 21:04:26]  <- QUIT :damian said to quit! ()
+[08/09/2017 21:04:26]  -> ERROR :Closing link: (crypto@local.damian.id.au) [Quit: damian said to quit! ()]
+[08/09/2017 21:04:32]  <- NICK cryptobot
+[08/09/2017 21:04:32]  <- USER crypto 0 * :a crypto currency bot
+[08/09/2017 21:04:32]  -> :stable.nictitate.net NOTICE Auth :*** Looking up your hostname...
+[08/09/2017 21:04:32]  -> :stable.nictitate.net NOTICE Auth :*** Found your hostname (local.damian.id.au)
+[08/09/2017 21:04:33]  -> :stable.nictitate.net NOTICE Auth :Welcome to nictitate!
+[08/09/2017 21:04:33]  -> :stable.nictitate.net 001 cryptobot :Welcome to the nictitate IRC Network cryptobot!crypto@local.damian.id.au
+[08/09/2017 21:04:33]  <- PROTOCTL NAMESX
+[08/09/2017 21:04:33]  <- PROTOCTL UHNAMES
+[08/09/2017 21:04:33]  <- JOIN #nerdhacks
+[08/09/2017 21:04:33]  -> :stable.nictitate.net 002 cryptobot :Your host is stable.nictitate.net, running version InspIRCd-2.0
+[08/09/2017 21:04:33]  -> :stable.nictitate.net 003 cryptobot :This server was created 17:21:34 Sep  8 2017
+[08/09/2017 21:04:33]  -> :stable.nictitate.net 004 cryptobot stable.nictitate.net InspIRCd-2.0 iosw biklmnopstv bklov
+[08/09/2017 21:04:33]  -> :stable.nictitate.net 005 cryptobot AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,l,imnpst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 MAXPARA=32 :are supported by this server
+[08/09/2017 21:04:33]  -> :stable.nictitate.net 005 cryptobot MAXTARGETS=20 MODES=20 NETWORK=nictitate NICKLEN=32 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+[08/09/2017 21:04:33]  -> :stable.nictitate.net 042 cryptobot 00AAAAABR :your unique ID
+[08/09/2017 21:04:33]  -> :stable.nictitate.net 375 cryptobot :stable.nictitate.net message of the day
+[08/09/2017 21:04:33]  -> :stable.nictitate.net 376 cryptobot :End of message of the day.
+[08/09/2017 21:04:33]  -> :stable.nictitate.net 251 cryptobot :There are 2 users and 0 invisible on 1 servers
+[08/09/2017 21:04:33]  -> :stable.nictitate.net 252 cryptobot 1 :operator(s) online
+[08/09/2017 21:04:33]  -> :stable.nictitate.net 254 cryptobot 4 :channels formed
+[08/09/2017 21:04:33]  -> :stable.nictitate.net 255 cryptobot :I have 2 clients and 0 servers
+[08/09/2017 21:04:33]  -> :stable.nictitate.net 265 cryptobot :Current Local Users: 2  Max: 2
+[08/09/2017 21:04:33]  -> :stable.nictitate.net 266 cryptobot :Current Global Users: 2  Max: 2
+[08/09/2017 21:04:33]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[08/09/2017 21:04:35]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[08/09/2017 21:04:37]  -> :cryptobot!crypto@local.damian.id.au JOIN :#nerdhacks
+[08/09/2017 21:04:37]  <- MODE #nerdhacks 
+[08/09/2017 21:04:37]  -> :stable.nictitate.net 353 cryptobot = #nerdhacks :damian cryptobot 
+[08/09/2017 21:04:37]  -> :stable.nictitate.net 366 cryptobot #nerdhacks :End of /NAMES list.
+[08/09/2017 21:04:39]  -> :stable.nictitate.net 324 cryptobot #nerdhacks +nt
+[08/09/2017 21:04:39]  -> :stable.nictitate.net 329 cryptobot #nerdhacks 1504868540
+[08/09/2017 21:05:03]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.stats
+[08/09/2017 21:05:03]  <- PRIVMSG #nerdhacks :nick: ['damian', 'cryptobot']
+[08/09/2017 21:05:03]  <- PRIVMSG #nerdhacks :chan: ['#nerdhacks']
+[08/09/2017 21:05:03]  <- PRIVMSG #nerdhacks :nickchan: ['cryptobot,#nerdhacks', 'damian,#nerdhacks']
+[08/09/2017 21:05:03]  <- PRIVMSG #nerdhacks :server: {'server': 'stable.nictitate.net', 'modes': {'o': '@', 'v': '+'}, 'network': 'nictitate'}
+[08/09/2017 21:05:03]  <- PRIVMSG #nerdhacks :bot: {'host': '', 'user': '', 'nick': 'cryptobot'}
+[08/09/2017 21:05:03]  <- PRIVMSG #nerdhacks :-------------------------------------------------------------------
+[08/09/2017 21:07:09]  -> PING :stable.nictitate.net
+[08/09/2017 21:07:09]  <- PONG :stable.nictitate.net
+[08/09/2017 21:09:10]  -> PING :stable.nictitate.net
+[08/09/2017 21:09:10]  <- PONG :stable.nictitate.net
+[08/09/2017 21:09:46]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.die
+[08/09/2017 21:09:46]  <- QUIT :damian said to quit! ()
+[08/09/2017 21:09:46]  -> ERROR :Closing link: (crypto@local.damian.id.au) [Quit: damian said to quit! ()]
+[08/09/2017 21:10:11]  <- NICK cryptobot
+[08/09/2017 21:10:11]  <- USER crypto 0 * :a crypto currency bot
+[08/09/2017 21:10:11]  -> :stable.nictitate.net NOTICE Auth :*** Looking up your hostname...
+[08/09/2017 21:10:11]  -> :stable.nictitate.net NOTICE Auth :*** Found your hostname (local.damian.id.au)
+[08/09/2017 21:10:12]  -> :stable.nictitate.net NOTICE Auth :Welcome to nictitate!
+[08/09/2017 21:10:12]  -> :stable.nictitate.net 001 cryptobot :Welcome to the nictitate IRC Network cryptobot!crypto@local.damian.id.au
+[08/09/2017 21:10:12]  <- PROTOCTL NAMESX
+[08/09/2017 21:10:12]  <- PROTOCTL UHNAMES
+[08/09/2017 21:10:12]  <- JOIN #nerdhacks
+[08/09/2017 21:10:12]  -> :stable.nictitate.net 002 cryptobot :Your host is stable.nictitate.net, running version InspIRCd-2.0
+[08/09/2017 21:10:12]  -> :stable.nictitate.net 003 cryptobot :This server was created 17:21:34 Sep  8 2017
+[08/09/2017 21:10:12]  -> :stable.nictitate.net 004 cryptobot stable.nictitate.net InspIRCd-2.0 iosw biklmnopstv bklov
+[08/09/2017 21:10:12]  -> :stable.nictitate.net 005 cryptobot AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,l,imnpst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 MAXPARA=32 :are supported by this server
+[08/09/2017 21:10:12]  -> :stable.nictitate.net 005 cryptobot MAXTARGETS=20 MODES=20 NETWORK=nictitate NICKLEN=32 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+[08/09/2017 21:10:12]  -> :stable.nictitate.net 042 cryptobot 00AAAAABS :your unique ID
+[08/09/2017 21:10:12]  -> :stable.nictitate.net 375 cryptobot :stable.nictitate.net message of the day
+[08/09/2017 21:10:12]  -> :stable.nictitate.net 376 cryptobot :End of message of the day.
+[08/09/2017 21:10:12]  -> :stable.nictitate.net 251 cryptobot :There are 2 users and 0 invisible on 1 servers
+[08/09/2017 21:10:12]  -> :stable.nictitate.net 252 cryptobot 1 :operator(s) online
+[08/09/2017 21:10:12]  -> :stable.nictitate.net 254 cryptobot 4 :channels formed
+[08/09/2017 21:10:12]  -> :stable.nictitate.net 255 cryptobot :I have 2 clients and 0 servers
+[08/09/2017 21:10:12]  -> :stable.nictitate.net 265 cryptobot :Current Local Users: 2  Max: 2
+[08/09/2017 21:10:12]  -> :stable.nictitate.net 266 cryptobot :Current Global Users: 2  Max: 2
+[08/09/2017 21:10:12]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[08/09/2017 21:10:14]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[08/09/2017 21:10:16]  -> :cryptobot!crypto@local.damian.id.au JOIN :#nerdhacks
+[08/09/2017 21:10:16]  <- MODE #nerdhacks 
+[08/09/2017 21:10:16]  -> :stable.nictitate.net 353 cryptobot = #nerdhacks :damian cryptobot 
+[08/09/2017 21:10:16]  -> :stable.nictitate.net 366 cryptobot #nerdhacks :End of /NAMES list.
+[08/09/2017 21:10:17]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.stats
+[08/09/2017 21:10:17]  <- PRIVMSG #nerdhacks :nick: ['cryptobot', 'damian']
+[08/09/2017 21:10:17]  <- PRIVMSG #nerdhacks :chan: ['#nerdhacks']
+[08/09/2017 21:10:17]  <- PRIVMSG #nerdhacks :nickchan: ['cryptobot,#nerdhacks', 'damian,#nerdhacks']
+[08/09/2017 21:10:17]  <- PRIVMSG #nerdhacks :server: {'server': 'stable.nictitate.net', 'modes': {'v': '+', 'o': '@'}, 'network': 'nictitate'}
+[08/09/2017 21:10:17]  <- PRIVMSG #nerdhacks :bot: {'nick': 'cryptobot', 'host': '', 'user': ''}
+[08/09/2017 21:10:17]  <- PRIVMSG #nerdhacks :-------------------------------------------------------------------
+[08/09/2017 21:10:18]  -> :stable.nictitate.net 324 cryptobot #nerdhacks +nt
+[08/09/2017 21:10:18]  -> :stable.nictitate.net 329 cryptobot #nerdhacks 1504868540
+[08/09/2017 21:10:38]  <- who cryptobot
+[08/09/2017 21:10:38]  -> :stable.nictitate.net 352 cryptobot #nerdhacks crypto local.damian.id.au stable.nictitate.net cryptobot H :0 a crypto currency bot
+[08/09/2017 21:10:38]  -> :stable.nictitate.net 315 cryptobot cryptobot :End of /WHO list.
+[08/09/2017 21:10:41]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.stats
+[08/09/2017 21:10:41]  <- PRIVMSG #nerdhacks :nick: ['cryptobot', 'damian']
+[08/09/2017 21:10:41]  <- PRIVMSG #nerdhacks :chan: ['#nerdhacks']
+[08/09/2017 21:10:41]  <- PRIVMSG #nerdhacks :nickchan: ['cryptobot,#nerdhacks', 'damian,#nerdhacks']
+[08/09/2017 21:10:41]  <- PRIVMSG #nerdhacks :server: {'server': 'stable.nictitate.net', 'modes': {'v': '+', 'o': '@'}, 'network': 'nictitate'}
+[08/09/2017 21:10:41]  <- PRIVMSG #nerdhacks :bot: {'nick': 'cryptobot', 'host': 'local.damian.id.au', 'user': 'crypto'}
+[08/09/2017 21:10:41]  <- PRIVMSG #nerdhacks :-------------------------------------------------------------------
+[08/09/2017 21:12:47]  -> PING :stable.nictitate.net
+[08/09/2017 21:12:47]  <- PONG :stable.nictitate.net
+[08/09/2017 21:13:29]  <- .die
+[08/09/2017 21:13:29]  -> :stable.nictitate.net 421 cryptobot .DIE :Unknown command
+[08/09/2017 21:13:30]  <- die
+[08/09/2017 21:13:30]  -> :stable.nictitate.net 481 cryptobot :Permission Denied - You do not have the required operator privileges
+[08/09/2017 21:13:36]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.die
+[08/09/2017 21:13:36]  <- QUIT :damian said to quit! ()
+[08/09/2017 21:13:36]  -> ERROR :Closing link: (crypto@local.damian.id.au) [Quit: damian said to quit! ()]
+[08/09/2017 21:13:39]  <- NICK cryptobot
+[08/09/2017 21:13:39]  <- USER crypto 0 * :a crypto currency bot
+[08/09/2017 21:13:39]  -> :stable.nictitate.net NOTICE Auth :*** Looking up your hostname...
+[08/09/2017 21:13:39]  -> :stable.nictitate.net NOTICE Auth :*** Found your hostname (local.damian.id.au) -- cached
+[08/09/2017 21:13:40]  -> :stable.nictitate.net NOTICE Auth :Welcome to nictitate!
+[08/09/2017 21:13:40]  -> :stable.nictitate.net 001 cryptobot :Welcome to the nictitate IRC Network cryptobot!crypto@local.damian.id.au
+[08/09/2017 21:13:40]  <- PROTOCTL NAMESX
+[08/09/2017 21:13:40]  <- PROTOCTL UHNAMES
+[08/09/2017 21:13:40]  <- JOIN #nerdhacks
+[08/09/2017 21:13:40]  -> :stable.nictitate.net 002 cryptobot :Your host is stable.nictitate.net, running version InspIRCd-2.0
+[08/09/2017 21:13:40]  -> :stable.nictitate.net 003 cryptobot :This server was created 17:21:34 Sep  8 2017
+[08/09/2017 21:13:40]  -> :stable.nictitate.net 004 cryptobot stable.nictitate.net InspIRCd-2.0 iosw biklmnopstv bklov
+[08/09/2017 21:13:40]  -> :stable.nictitate.net 005 cryptobot AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,l,imnpst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 MAXPARA=32 :are supported by this server
+[08/09/2017 21:13:40]  -> :stable.nictitate.net 005 cryptobot MAXTARGETS=20 MODES=20 NETWORK=nictitate NICKLEN=32 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+[08/09/2017 21:13:40]  -> :stable.nictitate.net 042 cryptobot 00AAAAABT :your unique ID
+[08/09/2017 21:13:40]  -> :stable.nictitate.net 375 cryptobot :stable.nictitate.net message of the day
+[08/09/2017 21:13:40]  -> :stable.nictitate.net 376 cryptobot :End of message of the day.
+[08/09/2017 21:13:40]  -> :stable.nictitate.net 251 cryptobot :There are 2 users and 0 invisible on 1 servers
+[08/09/2017 21:13:40]  -> :stable.nictitate.net 252 cryptobot 1 :operator(s) online
+[08/09/2017 21:13:40]  -> :stable.nictitate.net 254 cryptobot 4 :channels formed
+[08/09/2017 21:13:40]  -> :stable.nictitate.net 255 cryptobot :I have 2 clients and 0 servers
+[08/09/2017 21:13:40]  -> :stable.nictitate.net 265 cryptobot :Current Local Users: 2  Max: 2
+[08/09/2017 21:13:40]  -> :stable.nictitate.net 266 cryptobot :Current Global Users: 2  Max: 2
+[08/09/2017 21:13:40]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[08/09/2017 21:13:42]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[08/09/2017 21:13:44]  -> :cryptobot!crypto@local.damian.id.au JOIN :#nerdhacks
+[08/09/2017 21:13:44]  <- MODE #nerdhacks 
+[08/09/2017 21:13:44]  -> :stable.nictitate.net 353 cryptobot = #nerdhacks :damian cryptobot 
+[08/09/2017 21:13:44]  <- WHO damian
+[08/09/2017 21:13:44]  <- WHO cryptobot
+[08/09/2017 21:13:44]  -> :stable.nictitate.net 366 cryptobot #nerdhacks :End of /NAMES list.
+[08/09/2017 21:13:45]  -> :stable.nictitate.net 324 cryptobot #nerdhacks +nt
+[08/09/2017 21:13:46]  -> :stable.nictitate.net 329 cryptobot #nerdhacks 1504868540
+[08/09/2017 21:13:46]  -> :stable.nictitate.net 352 cryptobot #opers damian local.damian.id.au stable.nictitate.net damian H*@ :0 damian
+[08/09/2017 21:13:47]  -> :stable.nictitate.net 315 cryptobot damian :End of /WHO list.
+[08/09/2017 21:13:47]  -> :stable.nictitate.net 352 cryptobot #nerdhacks crypto local.damian.id.au stable.nictitate.net cryptobot H :0 a crypto currency bot
+[08/09/2017 21:13:48]  -> :stable.nictitate.net 315 cryptobot cryptobot :End of /WHO list.
+[08/09/2017 21:13:48]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.stats
+[08/09/2017 21:13:48]  <- PRIVMSG #nerdhacks :nick: ['damian', 'cryptobot']
+[08/09/2017 21:13:48]  <- PRIVMSG #nerdhacks :chan: ['#nerdhacks']
+[08/09/2017 21:13:48]  <- PRIVMSG #nerdhacks :nickchan: ['damian,#nerdhacks', 'cryptobot,#nerdhacks']
+[08/09/2017 21:13:48]  <- PRIVMSG #nerdhacks :server: {'modes': {'o': '@', 'v': '+'}, 'network': 'nictitate', 'server': 'stable.nictitate.net'}
+[08/09/2017 21:13:48]  <- PRIVMSG #nerdhacks :bot: {'user': 'crypto', 'host': 'local.damian.id.au', 'nick': 'cryptobot'}
+[08/09/2017 21:13:48]  <- PRIVMSG #nerdhacks :-------------------------------------------------------------------
+[08/09/2017 21:14:08]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.asdf
+[08/09/2017 21:14:21]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.listchan
+[08/09/2017 21:15:39]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.die
+[08/09/2017 21:15:39]  <- QUIT :damian said to quit! ()
+[08/09/2017 21:15:39]  -> ERROR :Closing link: (crypto@local.damian.id.au) [Quit: damian said to quit! ()]
