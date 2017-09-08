@@ -1,220 +1,1654 @@
-[08/09/2017 20:59:26]  <- NICK cryptobot
-[08/09/2017 20:59:26]  <- USER crypto 0 * :a crypto currency bot
-[08/09/2017 20:59:26]  -> :stable.nictitate.net NOTICE Auth :*** Looking up your hostname...
-[08/09/2017 20:59:26]  -> :stable.nictitate.net NOTICE Auth :*** Found your hostname (local.damian.id.au)
-[08/09/2017 20:59:27]  -> :stable.nictitate.net NOTICE Auth :Welcome to nictitate!
-[08/09/2017 20:59:27]  -> :stable.nictitate.net 001 cryptobot :Welcome to the nictitate IRC Network cryptobot!crypto@local.damian.id.au
-[08/09/2017 20:59:27]  <- PROTOCTL NAMESX
-[08/09/2017 20:59:27]  <- PROTOCTL UHNAMES
-[08/09/2017 20:59:27]  <- JOIN #nerdhacks
-[08/09/2017 20:59:27]  -> :stable.nictitate.net 002 cryptobot :Your host is stable.nictitate.net, running version InspIRCd-2.0
-[08/09/2017 20:59:27]  -> :stable.nictitate.net 003 cryptobot :This server was created 17:21:34 Sep  8 2017
-[08/09/2017 20:59:27]  -> :stable.nictitate.net 004 cryptobot stable.nictitate.net InspIRCd-2.0 iosw biklmnopstv bklov
-[08/09/2017 20:59:27]  -> :stable.nictitate.net 005 cryptobot AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,l,imnpst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 MAXPARA=32 :are supported by this server
-[08/09/2017 20:59:27]  -> :stable.nictitate.net 005 cryptobot MAXTARGETS=20 MODES=20 NETWORK=nictitate NICKLEN=32 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
-[08/09/2017 20:59:27]  -> :stable.nictitate.net 042 cryptobot 00AAAAABP :your unique ID
-[08/09/2017 20:59:27]  -> :stable.nictitate.net 375 cryptobot :stable.nictitate.net message of the day
-[08/09/2017 20:59:27]  -> :stable.nictitate.net 376 cryptobot :End of message of the day.
-[08/09/2017 20:59:27]  -> :stable.nictitate.net 251 cryptobot :There are 2 users and 0 invisible on 1 servers
-[08/09/2017 20:59:27]  -> :stable.nictitate.net 252 cryptobot 1 :operator(s) online
-[08/09/2017 20:59:27]  -> :stable.nictitate.net 254 cryptobot 3 :channels formed
-[08/09/2017 20:59:27]  -> :stable.nictitate.net 255 cryptobot :I have 2 clients and 0 servers
-[08/09/2017 20:59:27]  -> :stable.nictitate.net 265 cryptobot :Current Local Users: 2  Max: 2
-[08/09/2017 20:59:27]  -> :stable.nictitate.net 266 cryptobot :Current Global Users: 2  Max: 2
-[08/09/2017 20:59:27]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
-[08/09/2017 20:59:29]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
-[08/09/2017 20:59:31]  -> :cryptobot!crypto@local.damian.id.au JOIN :#nerdhacks
-[08/09/2017 20:59:31]  <- MODE #nerdhacks 
-[08/09/2017 20:59:31]  -> :stable.nictitate.net 353 cryptobot = #nerdhacks :@cryptobot 
-[08/09/2017 21:02:15]  <- NICK cryptobot
-[08/09/2017 21:02:15]  <- USER crypto 0 * :a crypto currency bot
-[08/09/2017 21:02:15]  -> :stable.nictitate.net NOTICE Auth :*** Looking up your hostname...
-[08/09/2017 21:02:15]  -> :stable.nictitate.net NOTICE Auth :*** Found your hostname (local.damian.id.au) -- cached
-[08/09/2017 21:02:16]  -> :stable.nictitate.net NOTICE Auth :Welcome to nictitate!
-[08/09/2017 21:02:16]  -> :stable.nictitate.net 001 cryptobot :Welcome to the nictitate IRC Network cryptobot!crypto@local.damian.id.au
-[08/09/2017 21:02:16]  <- PROTOCTL NAMESX
-[08/09/2017 21:02:16]  <- PROTOCTL UHNAMES
-[08/09/2017 21:02:16]  <- JOIN #nerdhacks
-[08/09/2017 21:02:16]  -> :stable.nictitate.net 002 cryptobot :Your host is stable.nictitate.net, running version InspIRCd-2.0
-[08/09/2017 21:02:16]  -> :stable.nictitate.net 003 cryptobot :This server was created 17:21:34 Sep  8 2017
-[08/09/2017 21:02:16]  -> :stable.nictitate.net 004 cryptobot stable.nictitate.net InspIRCd-2.0 iosw biklmnopstv bklov
-[08/09/2017 21:02:16]  -> :stable.nictitate.net 005 cryptobot AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,l,imnpst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 MAXPARA=32 :are supported by this server
-[08/09/2017 21:02:16]  -> :stable.nictitate.net 005 cryptobot MAXTARGETS=20 MODES=20 NETWORK=nictitate NICKLEN=32 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
-[08/09/2017 21:02:16]  -> :stable.nictitate.net 042 cryptobot 00AAAAABQ :your unique ID
-[08/09/2017 21:02:16]  -> :stable.nictitate.net 375 cryptobot :stable.nictitate.net message of the day
-[08/09/2017 21:02:16]  -> :stable.nictitate.net 376 cryptobot :End of message of the day.
-[08/09/2017 21:02:16]  -> :stable.nictitate.net 251 cryptobot :There are 2 users and 0 invisible on 1 servers
-[08/09/2017 21:02:16]  -> :stable.nictitate.net 252 cryptobot 1 :operator(s) online
-[08/09/2017 21:02:16]  -> :stable.nictitate.net 254 cryptobot 3 :channels formed
-[08/09/2017 21:02:16]  -> :stable.nictitate.net 255 cryptobot :I have 2 clients and 0 servers
-[08/09/2017 21:02:16]  -> :stable.nictitate.net 265 cryptobot :Current Local Users: 2  Max: 2
-[08/09/2017 21:02:16]  -> :stable.nictitate.net 266 cryptobot :Current Global Users: 2  Max: 2
-[08/09/2017 21:02:16]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
-[08/09/2017 21:02:18]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
-[08/09/2017 21:02:20]  -> :cryptobot!crypto@local.damian.id.au JOIN :#nerdhacks
-[08/09/2017 21:02:20]  <- MODE #nerdhacks 
-[08/09/2017 21:02:20]  -> :stable.nictitate.net 353 cryptobot = #nerdhacks :@cryptobot 
-[08/09/2017 21:02:20]  -> :stable.nictitate.net 366 cryptobot #nerdhacks :End of /NAMES list.
-[08/09/2017 21:02:22]  -> :stable.nictitate.net 324 cryptobot #nerdhacks +nt
-[08/09/2017 21:02:22]  -> :stable.nictitate.net 329 cryptobot #nerdhacks 1504868540
-[08/09/2017 21:02:29]  -> :damian!damian@local.damian.id.au JOIN :#nerdhacks
-[08/09/2017 21:04:19]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.quit
-[08/09/2017 21:04:21]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :asdf
-[08/09/2017 21:04:23]  -> PING :stable.nictitate.net
-[08/09/2017 21:04:23]  <- PONG :stable.nictitate.net
-[08/09/2017 21:04:24]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :why you no quit
-[08/09/2017 21:04:25]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.exit
-[08/09/2017 21:04:26]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.die
-[08/09/2017 21:04:26]  <- QUIT :damian said to quit! ()
-[08/09/2017 21:04:26]  -> ERROR :Closing link: (crypto@local.damian.id.au) [Quit: damian said to quit! ()]
-[08/09/2017 21:04:32]  <- NICK cryptobot
-[08/09/2017 21:04:32]  <- USER crypto 0 * :a crypto currency bot
-[08/09/2017 21:04:32]  -> :stable.nictitate.net NOTICE Auth :*** Looking up your hostname...
-[08/09/2017 21:04:32]  -> :stable.nictitate.net NOTICE Auth :*** Found your hostname (local.damian.id.au)
-[08/09/2017 21:04:33]  -> :stable.nictitate.net NOTICE Auth :Welcome to nictitate!
-[08/09/2017 21:04:33]  -> :stable.nictitate.net 001 cryptobot :Welcome to the nictitate IRC Network cryptobot!crypto@local.damian.id.au
-[08/09/2017 21:04:33]  <- PROTOCTL NAMESX
-[08/09/2017 21:04:33]  <- PROTOCTL UHNAMES
-[08/09/2017 21:04:33]  <- JOIN #nerdhacks
-[08/09/2017 21:04:33]  -> :stable.nictitate.net 002 cryptobot :Your host is stable.nictitate.net, running version InspIRCd-2.0
-[08/09/2017 21:04:33]  -> :stable.nictitate.net 003 cryptobot :This server was created 17:21:34 Sep  8 2017
-[08/09/2017 21:04:33]  -> :stable.nictitate.net 004 cryptobot stable.nictitate.net InspIRCd-2.0 iosw biklmnopstv bklov
-[08/09/2017 21:04:33]  -> :stable.nictitate.net 005 cryptobot AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,l,imnpst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 MAXPARA=32 :are supported by this server
-[08/09/2017 21:04:33]  -> :stable.nictitate.net 005 cryptobot MAXTARGETS=20 MODES=20 NETWORK=nictitate NICKLEN=32 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
-[08/09/2017 21:04:33]  -> :stable.nictitate.net 042 cryptobot 00AAAAABR :your unique ID
-[08/09/2017 21:04:33]  -> :stable.nictitate.net 375 cryptobot :stable.nictitate.net message of the day
-[08/09/2017 21:04:33]  -> :stable.nictitate.net 376 cryptobot :End of message of the day.
-[08/09/2017 21:04:33]  -> :stable.nictitate.net 251 cryptobot :There are 2 users and 0 invisible on 1 servers
-[08/09/2017 21:04:33]  -> :stable.nictitate.net 252 cryptobot 1 :operator(s) online
-[08/09/2017 21:04:33]  -> :stable.nictitate.net 254 cryptobot 4 :channels formed
-[08/09/2017 21:04:33]  -> :stable.nictitate.net 255 cryptobot :I have 2 clients and 0 servers
-[08/09/2017 21:04:33]  -> :stable.nictitate.net 265 cryptobot :Current Local Users: 2  Max: 2
-[08/09/2017 21:04:33]  -> :stable.nictitate.net 266 cryptobot :Current Global Users: 2  Max: 2
-[08/09/2017 21:04:33]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
-[08/09/2017 21:04:35]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
-[08/09/2017 21:04:37]  -> :cryptobot!crypto@local.damian.id.au JOIN :#nerdhacks
-[08/09/2017 21:04:37]  <- MODE #nerdhacks 
-[08/09/2017 21:04:37]  -> :stable.nictitate.net 353 cryptobot = #nerdhacks :damian cryptobot 
-[08/09/2017 21:04:37]  -> :stable.nictitate.net 366 cryptobot #nerdhacks :End of /NAMES list.
-[08/09/2017 21:04:39]  -> :stable.nictitate.net 324 cryptobot #nerdhacks +nt
-[08/09/2017 21:04:39]  -> :stable.nictitate.net 329 cryptobot #nerdhacks 1504868540
-[08/09/2017 21:05:03]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.stats
-[08/09/2017 21:05:03]  <- PRIVMSG #nerdhacks :nick: ['damian', 'cryptobot']
-[08/09/2017 21:05:03]  <- PRIVMSG #nerdhacks :chan: ['#nerdhacks']
-[08/09/2017 21:05:03]  <- PRIVMSG #nerdhacks :nickchan: ['cryptobot,#nerdhacks', 'damian,#nerdhacks']
-[08/09/2017 21:05:03]  <- PRIVMSG #nerdhacks :server: {'server': 'stable.nictitate.net', 'modes': {'o': '@', 'v': '+'}, 'network': 'nictitate'}
-[08/09/2017 21:05:03]  <- PRIVMSG #nerdhacks :bot: {'host': '', 'user': '', 'nick': 'cryptobot'}
-[08/09/2017 21:05:03]  <- PRIVMSG #nerdhacks :-------------------------------------------------------------------
-[08/09/2017 21:07:09]  -> PING :stable.nictitate.net
-[08/09/2017 21:07:09]  <- PONG :stable.nictitate.net
-[08/09/2017 21:09:10]  -> PING :stable.nictitate.net
-[08/09/2017 21:09:10]  <- PONG :stable.nictitate.net
-[08/09/2017 21:09:46]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.die
-[08/09/2017 21:09:46]  <- QUIT :damian said to quit! ()
-[08/09/2017 21:09:46]  -> ERROR :Closing link: (crypto@local.damian.id.au) [Quit: damian said to quit! ()]
-[08/09/2017 21:10:11]  <- NICK cryptobot
-[08/09/2017 21:10:11]  <- USER crypto 0 * :a crypto currency bot
-[08/09/2017 21:10:11]  -> :stable.nictitate.net NOTICE Auth :*** Looking up your hostname...
-[08/09/2017 21:10:11]  -> :stable.nictitate.net NOTICE Auth :*** Found your hostname (local.damian.id.au)
-[08/09/2017 21:10:12]  -> :stable.nictitate.net NOTICE Auth :Welcome to nictitate!
-[08/09/2017 21:10:12]  -> :stable.nictitate.net 001 cryptobot :Welcome to the nictitate IRC Network cryptobot!crypto@local.damian.id.au
-[08/09/2017 21:10:12]  <- PROTOCTL NAMESX
-[08/09/2017 21:10:12]  <- PROTOCTL UHNAMES
-[08/09/2017 21:10:12]  <- JOIN #nerdhacks
-[08/09/2017 21:10:12]  -> :stable.nictitate.net 002 cryptobot :Your host is stable.nictitate.net, running version InspIRCd-2.0
-[08/09/2017 21:10:12]  -> :stable.nictitate.net 003 cryptobot :This server was created 17:21:34 Sep  8 2017
-[08/09/2017 21:10:12]  -> :stable.nictitate.net 004 cryptobot stable.nictitate.net InspIRCd-2.0 iosw biklmnopstv bklov
-[08/09/2017 21:10:12]  -> :stable.nictitate.net 005 cryptobot AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,l,imnpst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 MAXPARA=32 :are supported by this server
-[08/09/2017 21:10:12]  -> :stable.nictitate.net 005 cryptobot MAXTARGETS=20 MODES=20 NETWORK=nictitate NICKLEN=32 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
-[08/09/2017 21:10:12]  -> :stable.nictitate.net 042 cryptobot 00AAAAABS :your unique ID
-[08/09/2017 21:10:12]  -> :stable.nictitate.net 375 cryptobot :stable.nictitate.net message of the day
-[08/09/2017 21:10:12]  -> :stable.nictitate.net 376 cryptobot :End of message of the day.
-[08/09/2017 21:10:12]  -> :stable.nictitate.net 251 cryptobot :There are 2 users and 0 invisible on 1 servers
-[08/09/2017 21:10:12]  -> :stable.nictitate.net 252 cryptobot 1 :operator(s) online
-[08/09/2017 21:10:12]  -> :stable.nictitate.net 254 cryptobot 4 :channels formed
-[08/09/2017 21:10:12]  -> :stable.nictitate.net 255 cryptobot :I have 2 clients and 0 servers
-[08/09/2017 21:10:12]  -> :stable.nictitate.net 265 cryptobot :Current Local Users: 2  Max: 2
-[08/09/2017 21:10:12]  -> :stable.nictitate.net 266 cryptobot :Current Global Users: 2  Max: 2
-[08/09/2017 21:10:12]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
-[08/09/2017 21:10:14]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
-[08/09/2017 21:10:16]  -> :cryptobot!crypto@local.damian.id.au JOIN :#nerdhacks
-[08/09/2017 21:10:16]  <- MODE #nerdhacks 
-[08/09/2017 21:10:16]  -> :stable.nictitate.net 353 cryptobot = #nerdhacks :damian cryptobot 
-[08/09/2017 21:10:16]  -> :stable.nictitate.net 366 cryptobot #nerdhacks :End of /NAMES list.
-[08/09/2017 21:10:17]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.stats
-[08/09/2017 21:10:17]  <- PRIVMSG #nerdhacks :nick: ['cryptobot', 'damian']
-[08/09/2017 21:10:17]  <- PRIVMSG #nerdhacks :chan: ['#nerdhacks']
-[08/09/2017 21:10:17]  <- PRIVMSG #nerdhacks :nickchan: ['cryptobot,#nerdhacks', 'damian,#nerdhacks']
-[08/09/2017 21:10:17]  <- PRIVMSG #nerdhacks :server: {'server': 'stable.nictitate.net', 'modes': {'v': '+', 'o': '@'}, 'network': 'nictitate'}
-[08/09/2017 21:10:17]  <- PRIVMSG #nerdhacks :bot: {'nick': 'cryptobot', 'host': '', 'user': ''}
-[08/09/2017 21:10:17]  <- PRIVMSG #nerdhacks :-------------------------------------------------------------------
-[08/09/2017 21:10:18]  -> :stable.nictitate.net 324 cryptobot #nerdhacks +nt
-[08/09/2017 21:10:18]  -> :stable.nictitate.net 329 cryptobot #nerdhacks 1504868540
-[08/09/2017 21:10:38]  <- who cryptobot
-[08/09/2017 21:10:38]  -> :stable.nictitate.net 352 cryptobot #nerdhacks crypto local.damian.id.au stable.nictitate.net cryptobot H :0 a crypto currency bot
-[08/09/2017 21:10:38]  -> :stable.nictitate.net 315 cryptobot cryptobot :End of /WHO list.
-[08/09/2017 21:10:41]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.stats
-[08/09/2017 21:10:41]  <- PRIVMSG #nerdhacks :nick: ['cryptobot', 'damian']
-[08/09/2017 21:10:41]  <- PRIVMSG #nerdhacks :chan: ['#nerdhacks']
-[08/09/2017 21:10:41]  <- PRIVMSG #nerdhacks :nickchan: ['cryptobot,#nerdhacks', 'damian,#nerdhacks']
-[08/09/2017 21:10:41]  <- PRIVMSG #nerdhacks :server: {'server': 'stable.nictitate.net', 'modes': {'v': '+', 'o': '@'}, 'network': 'nictitate'}
-[08/09/2017 21:10:41]  <- PRIVMSG #nerdhacks :bot: {'nick': 'cryptobot', 'host': 'local.damian.id.au', 'user': 'crypto'}
-[08/09/2017 21:10:41]  <- PRIVMSG #nerdhacks :-------------------------------------------------------------------
-[08/09/2017 21:12:47]  -> PING :stable.nictitate.net
-[08/09/2017 21:12:47]  <- PONG :stable.nictitate.net
-[08/09/2017 21:13:29]  <- .die
-[08/09/2017 21:13:29]  -> :stable.nictitate.net 421 cryptobot .DIE :Unknown command
-[08/09/2017 21:13:30]  <- die
-[08/09/2017 21:13:30]  -> :stable.nictitate.net 481 cryptobot :Permission Denied - You do not have the required operator privileges
-[08/09/2017 21:13:36]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.die
-[08/09/2017 21:13:36]  <- QUIT :damian said to quit! ()
-[08/09/2017 21:13:36]  -> ERROR :Closing link: (crypto@local.damian.id.au) [Quit: damian said to quit! ()]
-[08/09/2017 21:13:39]  <- NICK cryptobot
-[08/09/2017 21:13:39]  <- USER crypto 0 * :a crypto currency bot
-[08/09/2017 21:13:39]  -> :stable.nictitate.net NOTICE Auth :*** Looking up your hostname...
-[08/09/2017 21:13:39]  -> :stable.nictitate.net NOTICE Auth :*** Found your hostname (local.damian.id.au) -- cached
-[08/09/2017 21:13:40]  -> :stable.nictitate.net NOTICE Auth :Welcome to nictitate!
-[08/09/2017 21:13:40]  -> :stable.nictitate.net 001 cryptobot :Welcome to the nictitate IRC Network cryptobot!crypto@local.damian.id.au
-[08/09/2017 21:13:40]  <- PROTOCTL NAMESX
-[08/09/2017 21:13:40]  <- PROTOCTL UHNAMES
-[08/09/2017 21:13:40]  <- JOIN #nerdhacks
-[08/09/2017 21:13:40]  -> :stable.nictitate.net 002 cryptobot :Your host is stable.nictitate.net, running version InspIRCd-2.0
-[08/09/2017 21:13:40]  -> :stable.nictitate.net 003 cryptobot :This server was created 17:21:34 Sep  8 2017
-[08/09/2017 21:13:40]  -> :stable.nictitate.net 004 cryptobot stable.nictitate.net InspIRCd-2.0 iosw biklmnopstv bklov
-[08/09/2017 21:13:40]  -> :stable.nictitate.net 005 cryptobot AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,l,imnpst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 MAXPARA=32 :are supported by this server
-[08/09/2017 21:13:40]  -> :stable.nictitate.net 005 cryptobot MAXTARGETS=20 MODES=20 NETWORK=nictitate NICKLEN=32 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
-[08/09/2017 21:13:40]  -> :stable.nictitate.net 042 cryptobot 00AAAAABT :your unique ID
-[08/09/2017 21:13:40]  -> :stable.nictitate.net 375 cryptobot :stable.nictitate.net message of the day
-[08/09/2017 21:13:40]  -> :stable.nictitate.net 376 cryptobot :End of message of the day.
-[08/09/2017 21:13:40]  -> :stable.nictitate.net 251 cryptobot :There are 2 users and 0 invisible on 1 servers
-[08/09/2017 21:13:40]  -> :stable.nictitate.net 252 cryptobot 1 :operator(s) online
-[08/09/2017 21:13:40]  -> :stable.nictitate.net 254 cryptobot 4 :channels formed
-[08/09/2017 21:13:40]  -> :stable.nictitate.net 255 cryptobot :I have 2 clients and 0 servers
-[08/09/2017 21:13:40]  -> :stable.nictitate.net 265 cryptobot :Current Local Users: 2  Max: 2
-[08/09/2017 21:13:40]  -> :stable.nictitate.net 266 cryptobot :Current Global Users: 2  Max: 2
-[08/09/2017 21:13:40]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
-[08/09/2017 21:13:42]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
-[08/09/2017 21:13:44]  -> :cryptobot!crypto@local.damian.id.au JOIN :#nerdhacks
-[08/09/2017 21:13:44]  <- MODE #nerdhacks 
-[08/09/2017 21:13:44]  -> :stable.nictitate.net 353 cryptobot = #nerdhacks :damian cryptobot 
-[08/09/2017 21:13:44]  <- WHO damian
-[08/09/2017 21:13:44]  <- WHO cryptobot
-[08/09/2017 21:13:44]  -> :stable.nictitate.net 366 cryptobot #nerdhacks :End of /NAMES list.
-[08/09/2017 21:13:45]  -> :stable.nictitate.net 324 cryptobot #nerdhacks +nt
-[08/09/2017 21:13:46]  -> :stable.nictitate.net 329 cryptobot #nerdhacks 1504868540
-[08/09/2017 21:13:46]  -> :stable.nictitate.net 352 cryptobot #opers damian local.damian.id.au stable.nictitate.net damian H*@ :0 damian
-[08/09/2017 21:13:47]  -> :stable.nictitate.net 315 cryptobot damian :End of /WHO list.
-[08/09/2017 21:13:47]  -> :stable.nictitate.net 352 cryptobot #nerdhacks crypto local.damian.id.au stable.nictitate.net cryptobot H :0 a crypto currency bot
-[08/09/2017 21:13:48]  -> :stable.nictitate.net 315 cryptobot cryptobot :End of /WHO list.
-[08/09/2017 21:13:48]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.stats
-[08/09/2017 21:13:48]  <- PRIVMSG #nerdhacks :nick: ['damian', 'cryptobot']
-[08/09/2017 21:13:48]  <- PRIVMSG #nerdhacks :chan: ['#nerdhacks']
-[08/09/2017 21:13:48]  <- PRIVMSG #nerdhacks :nickchan: ['damian,#nerdhacks', 'cryptobot,#nerdhacks']
-[08/09/2017 21:13:48]  <- PRIVMSG #nerdhacks :server: {'modes': {'o': '@', 'v': '+'}, 'network': 'nictitate', 'server': 'stable.nictitate.net'}
-[08/09/2017 21:13:48]  <- PRIVMSG #nerdhacks :bot: {'user': 'crypto', 'host': 'local.damian.id.au', 'nick': 'cryptobot'}
-[08/09/2017 21:13:48]  <- PRIVMSG #nerdhacks :-------------------------------------------------------------------
-[08/09/2017 21:14:08]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.asdf
-[08/09/2017 21:14:21]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.listchan
-[08/09/2017 21:15:39]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.die
-[08/09/2017 21:15:39]  <- QUIT :damian said to quit! ()
-[08/09/2017 21:15:39]  -> ERROR :Closing link: (crypto@local.damian.id.au) [Quit: damian said to quit! ()]
+[09/09/2017 00:33:09]  <- NICK cryptobot
+[09/09/2017 00:33:09]  <- USER crypto 0 * :a crypto currency bot
+[09/09/2017 00:33:09]  -> :stable.nictitate.net NOTICE Auth :*** Looking up your hostname...
+[09/09/2017 00:33:09]  -> :stable.nictitate.net NOTICE Auth :*** Found your hostname (local.damian.id.au)
+[09/09/2017 00:33:10]  -> :stable.nictitate.net NOTICE Auth :Welcome to nictitate!
+[09/09/2017 00:33:10]  -> :stable.nictitate.net 001 cryptobot :Welcome to the nictitate IRC Network cryptobot!crypto@local.damian.id.au
+[09/09/2017 00:33:10]  <- PROTOCTL NAMESX
+[09/09/2017 00:33:10]  <- PROTOCTL UHNAMES
+[09/09/2017 00:33:10]  <- JOIN #nerdhacks
+[09/09/2017 00:33:10]  -> :stable.nictitate.net 002 cryptobot :Your host is stable.nictitate.net, running version InspIRCd-2.0
+[09/09/2017 00:33:10]  -> :stable.nictitate.net 003 cryptobot :This server was created 17:21:34 Sep  8 2017
+[09/09/2017 00:33:10]  -> :stable.nictitate.net 004 cryptobot stable.nictitate.net InspIRCd-2.0 iosw biklmnopstv bklov
+[09/09/2017 00:33:10]  -> :stable.nictitate.net 005 cryptobot AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,l,imnpst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 MAXPARA=32 :are supported by this server
+[09/09/2017 00:33:10]  -> :stable.nictitate.net 005 cryptobot MAXTARGETS=20 MODES=20 NETWORK=nictitate NICKLEN=32 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+[09/09/2017 00:33:10]  -> :stable.nictitate.net 042 cryptobot 00AAAAADG :your unique ID
+[09/09/2017 00:33:10]  -> :stable.nictitate.net 375 cryptobot :stable.nictitate.net message of the day
+[09/09/2017 00:33:10]  -> :stable.nictitate.net 376 cryptobot :End of message of the day.
+[09/09/2017 00:33:10]  -> :stable.nictitate.net 251 cryptobot :There are 2 users and 1 invisible on 1 servers
+[09/09/2017 00:33:10]  -> :stable.nictitate.net 252 cryptobot 1 :operator(s) online
+[09/09/2017 00:33:10]  -> :stable.nictitate.net 254 cryptobot 5 :channels formed
+[09/09/2017 00:33:10]  -> :stable.nictitate.net 255 cryptobot :I have 3 clients and 0 servers
+[09/09/2017 00:33:10]  -> :stable.nictitate.net 265 cryptobot :Current Local Users: 3  Max: 3
+[09/09/2017 00:33:10]  -> :stable.nictitate.net 266 cryptobot :Current Global Users: 3  Max: 3
+[09/09/2017 00:33:10]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 00:33:12]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 00:33:14]  -> :cryptobot!crypto@local.damian.id.au JOIN :#nerdhacks
+[09/09/2017 00:33:14]  <- MODE #nerdhacks 
+[09/09/2017 00:33:14]  -> :stable.nictitate.net 353 cryptobot = #nerdhacks :damian steven cryptobot 
+[09/09/2017 00:33:14]  <- WHO damian
+[09/09/2017 00:33:14]  <- WHO steven
+[09/09/2017 00:33:14]  <- WHO cryptobot
+[09/09/2017 00:33:14]  -> :stable.nictitate.net 366 cryptobot #nerdhacks :End of /NAMES list.
+[09/09/2017 00:33:15]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.crypto
+[09/09/2017 00:33:16]  <- NOTICE damian :SYM    NAME              MARKET CAP       PRICE(AUD)    SUPPLY         1HR    1D     7D
+[09/09/2017 00:33:16]  <- NOTICE damian :BTC    Bitcoin           $ 86292100798.0  $   5213.29      16552337.0  -7.19  -8.77  -12.04
+[09/09/2017 00:33:16]  -> :stable.nictitate.net 324 cryptobot #nerdhacks +nt
+[09/09/2017 00:33:16]  <- NOTICE damian :ETH    Ethereum          $ 33672816755.0  $    356.32      94500803.0  -9.29  -12.57  -25.67
+[09/09/2017 00:33:16]  <- NOTICE damian :BCH    Bitcoin Cash      $ 11768466062.0  $    710.33      16567700.0  -10.17  -12.08  -5.44
+[09/09/2017 00:33:16]  -> :stable.nictitate.net 329 cryptobot #nerdhacks 1504868540
+[09/09/2017 00:33:16]  <- NOTICE damian :XRP    Ripple            $  9780523158.0  $      0.26   99994523265.0  -6.5   -7.9   -17.53
+[09/09/2017 00:33:16]  <- NOTICE damian :LTC    Litecoin          $  4272841315.0  $     80.86      52839207.0  -13.12  -18.1  -16.71
+[09/09/2017 00:33:16]  <- NOTICE damian :DASH   Dash              $  2984677322.0  $    395.57       7545206.0  -10.03  -7.15  -16.47
+[09/09/2017 00:33:16]  <- NOTICE damian :XEM    NEM               $  2936224760.0  $      0.33    8999999999.0  -9.43  -11.07  -19.26
+[09/09/2017 00:33:16]  <- NOTICE damian :XMR    Monero            $  2125409132.0  $    141.19      15053577.0  -7.5   -4.68  -19.61
+[09/09/2017 00:33:16]  <- NOTICE damian :ETC    Ethereum Classic  $  1776184161.0  $     18.63      95317073.0  -11.05  -16.9  -21.08
+[09/09/2017 00:33:16]  <- NOTICE damian :MIOTA  IOTA              $  1690443626.0  $      0.61    2779530283.0  -17.15  -29.05  -41.5
+[09/09/2017 00:33:16]  <- NOTICE damian :NEO    NEO               $  1558634987.0  $     31.17     100000000.0  -9.91  -18.11  -20.75
+[09/09/2017 00:33:16]  <- NOTICE damian :OMG    OmiseGO           $  1357815073.0  $     13.81     140245398.0  -9.13  -14.55  -8.15
+[09/09/2017 00:33:16]  <- NOTICE damian :BCC    BitConnect        $  1046066951.0  $    157.38       7677547.0  -6.45  -7.75  -7.46
+[09/09/2017 00:33:16]  <- NOTICE damian :QTUM   Qtum              $   912644262.0  $     15.47     100000000.0  -11.11  1.73   -27.95
+[09/09/2017 00:33:16]  <- NOTICE damian :LSK    Lisk              $   894154639.0  $      7.99     111971700.0  -13.24  -12.74  -15.86
+[09/09/2017 00:33:16]  <- NOTICE damian :*** End of List ***
+[09/09/2017 00:33:17]  -> :stable.nictitate.net 352 cryptobot #opers damian local.damian.id.au stable.nictitate.net damian H*@ :0 damian
+[09/09/2017 00:33:17]  -> :stable.nictitate.net 315 cryptobot damian :End of /WHO list.
+[09/09/2017 00:33:18]  -> :stable.nictitate.net 352 cryptobot #nerdhacks steven CPE-1-122-210-35.wwl9.wel.bigpond.net.au stable.nictitate.net steven H :0 steven
+[09/09/2017 00:33:18]  -> :stable.nictitate.net 315 cryptobot steven :End of /WHO list.
+[09/09/2017 00:33:19]  -> :stable.nictitate.net 352 cryptobot #nerdhacks crypto local.damian.id.au stable.nictitate.net cryptobot H :0 a crypto currency bot
+[09/09/2017 00:33:19]  -> :stable.nictitate.net 315 cryptobot cryptobot :End of /WHO list.
+[09/09/2017 00:33:57]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.die
+[09/09/2017 00:33:57]  <- QUIT :damian said to quit! ()
+[09/09/2017 00:33:57]  -> ERROR :Closing link: (crypto@local.damian.id.au) [Quit: damian said to quit! ()]
+[09/09/2017 00:34:02]  <- NICK cryptobot
+[09/09/2017 00:34:02]  <- USER crypto 0 * :a crypto currency bot
+[09/09/2017 00:34:02]  -> :stable.nictitate.net NOTICE Auth :*** Looking up your hostname...
+[09/09/2017 00:34:02]  -> :stable.nictitate.net NOTICE Auth :*** Found your hostname (local.damian.id.au) -- cached
+[09/09/2017 00:34:03]  -> :stable.nictitate.net NOTICE Auth :Welcome to nictitate!
+[09/09/2017 00:34:03]  -> :stable.nictitate.net 001 cryptobot :Welcome to the nictitate IRC Network cryptobot!crypto@local.damian.id.au
+[09/09/2017 00:34:03]  <- PROTOCTL NAMESX
+[09/09/2017 00:34:03]  <- PROTOCTL UHNAMES
+[09/09/2017 00:34:03]  <- JOIN #nerdhacks
+[09/09/2017 00:34:03]  -> :stable.nictitate.net 002 cryptobot :Your host is stable.nictitate.net, running version InspIRCd-2.0
+[09/09/2017 00:34:03]  -> :stable.nictitate.net 003 cryptobot :This server was created 17:21:34 Sep  8 2017
+[09/09/2017 00:34:03]  -> :stable.nictitate.net 004 cryptobot stable.nictitate.net InspIRCd-2.0 iosw biklmnopstv bklov
+[09/09/2017 00:34:03]  -> :stable.nictitate.net 005 cryptobot AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,l,imnpst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 MAXPARA=32 :are supported by this server
+[09/09/2017 00:34:03]  -> :stable.nictitate.net 005 cryptobot MAXTARGETS=20 MODES=20 NETWORK=nictitate NICKLEN=32 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+[09/09/2017 00:34:03]  -> :stable.nictitate.net 042 cryptobot 00AAAAADH :your unique ID
+[09/09/2017 00:34:03]  -> :stable.nictitate.net 375 cryptobot :stable.nictitate.net message of the day
+[09/09/2017 00:34:03]  -> :stable.nictitate.net 376 cryptobot :End of message of the day.
+[09/09/2017 00:34:03]  -> :stable.nictitate.net 251 cryptobot :There are 2 users and 1 invisible on 1 servers
+[09/09/2017 00:34:03]  -> :stable.nictitate.net 252 cryptobot 1 :operator(s) online
+[09/09/2017 00:34:03]  -> :stable.nictitate.net 254 cryptobot 5 :channels formed
+[09/09/2017 00:34:03]  -> :stable.nictitate.net 255 cryptobot :I have 3 clients and 0 servers
+[09/09/2017 00:34:03]  -> :stable.nictitate.net 265 cryptobot :Current Local Users: 3  Max: 3
+[09/09/2017 00:34:03]  -> :stable.nictitate.net 266 cryptobot :Current Global Users: 3  Max: 3
+[09/09/2017 00:34:03]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 00:34:05]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 00:34:07]  -> :cryptobot!crypto@local.damian.id.au JOIN :#nerdhacks
+[09/09/2017 00:34:07]  <- MODE #nerdhacks 
+[09/09/2017 00:34:07]  -> :stable.nictitate.net 353 cryptobot = #nerdhacks :damian steven cryptobot 
+[09/09/2017 00:34:07]  <- WHO damian
+[09/09/2017 00:34:07]  <- WHO steven
+[09/09/2017 00:34:07]  <- WHO cryptobot
+[09/09/2017 00:34:07]  -> :stable.nictitate.net 366 cryptobot #nerdhacks :End of /NAMES list.
+[09/09/2017 00:34:08]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.crypto
+[09/09/2017 00:34:08]  <- NOTICE damian :SYM    NAME              MARKET CAP       PRICE(AUD)    SUPPLY         1HR    1D     7D
+[09/09/2017 00:34:08]  <- NOTICE damian :BTC    Bitcoin           $ 86292100798.0  $   5213.29      16552337.0  -7.19   -8.77   -12.04
+[09/09/2017 00:34:08]  <- NOTICE damian :ETH    Ethereum          $ 33672816755.0  $    356.32      94500803.0  -9.29   -12.57  -25.67
+[09/09/2017 00:34:08]  <- NOTICE damian :BCH    Bitcoin Cash      $ 11768466062.0  $    710.33      16567700.0  -10.17  -12.08  -5.44 
+[09/09/2017 00:34:08]  <- NOTICE damian :XRP    Ripple            $  9780523158.0  $      0.26   99994523265.0  -6.5    -7.9    -17.53
+[09/09/2017 00:34:08]  <- NOTICE damian :LTC    Litecoin          $  4272841315.0  $     80.86      52839207.0  -13.12  -18.1   -16.71
+[09/09/2017 00:34:08]  <- NOTICE damian :DASH   Dash              $  2984677322.0  $    395.57       7545206.0  -10.03  -7.15   -16.47
+[09/09/2017 00:34:08]  <- NOTICE damian :XEM    NEM               $  2936224760.0  $      0.33    8999999999.0  -9.43   -11.07  -19.26
+[09/09/2017 00:34:08]  <- NOTICE damian :XMR    Monero            $  2125409132.0  $    141.19      15053577.0  -7.5    -4.68   -19.61
+[09/09/2017 00:34:08]  <- NOTICE damian :ETC    Ethereum Classic  $  1776184161.0  $     18.63      95317073.0  -11.05  -16.9   -21.08
+[09/09/2017 00:34:08]  <- NOTICE damian :MIOTA  IOTA              $  1690443626.0  $      0.61    2779530283.0  -17.15  -29.05  -41.5 
+[09/09/2017 00:34:08]  <- NOTICE damian :NEO    NEO               $  1558634987.0  $     31.17     100000000.0  -9.91   -18.11  -20.75
+[09/09/2017 00:34:08]  <- NOTICE damian :OMG    OmiseGO           $  1357815073.0  $     13.81     140245398.0  -9.13   -14.55  -8.15 
+[09/09/2017 00:34:08]  <- NOTICE damian :BCC    BitConnect        $  1046066951.0  $    157.38       7677547.0  -6.45   -7.75   -7.46 
+[09/09/2017 00:34:08]  <- NOTICE damian :QTUM   Qtum              $   912644262.0  $     15.47     100000000.0  -11.11  1.73    -27.95
+[09/09/2017 00:34:08]  <- NOTICE damian :LSK    Lisk              $   894154639.0  $      7.99     111971700.0  -13.24  -12.74  -15.86
+[09/09/2017 00:34:08]  <- NOTICE damian :*** End of List ***
+[09/09/2017 00:34:09]  -> :stable.nictitate.net 324 cryptobot #nerdhacks +nt
+[09/09/2017 00:34:09]  -> :stable.nictitate.net 329 cryptobot #nerdhacks 1504868540
+[09/09/2017 00:34:10]  -> :stable.nictitate.net 352 cryptobot #opers damian local.damian.id.au stable.nictitate.net damian H*@ :0 damian
+[09/09/2017 00:34:10]  -> :stable.nictitate.net 315 cryptobot damian :End of /WHO list.
+[09/09/2017 00:34:11]  -> :stable.nictitate.net 352 cryptobot #nerdhacks steven CPE-1-122-210-35.wwl9.wel.bigpond.net.au stable.nictitate.net steven H :0 steven
+[09/09/2017 00:34:11]  -> :stable.nictitate.net 315 cryptobot steven :End of /WHO list.
+[09/09/2017 00:34:12]  -> :stable.nictitate.net 352 cryptobot #nerdhacks crypto local.damian.id.au stable.nictitate.net cryptobot H :0 a crypto currency bot
+[09/09/2017 00:34:12]  -> :stable.nictitate.net 315 cryptobot cryptobot :End of /WHO list.
+[09/09/2017 00:34:43]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.die
+[09/09/2017 00:34:43]  <- QUIT :damian said to quit! ()
+[09/09/2017 00:34:43]  -> ERROR :Closing link: (crypto@local.damian.id.au) [Quit: damian said to quit! ()]
+[09/09/2017 00:34:44]  <- print("{0:5} {1:10} {2:10}".format("ABC", "1231238.0", "123123.0012312"))
+[09/09/2017 00:34:46]  <- NICK cryptobot
+[09/09/2017 00:34:46]  <- USER crypto 0 * :a crypto currency bot
+[09/09/2017 00:34:46]  -> :stable.nictitate.net NOTICE Auth :*** Looking up your hostname...
+[09/09/2017 00:34:46]  -> :stable.nictitate.net NOTICE Auth :*** Found your hostname (local.damian.id.au) -- cached
+[09/09/2017 00:34:47]  -> :stable.nictitate.net NOTICE Auth :Welcome to nictitate!
+[09/09/2017 00:34:47]  -> :stable.nictitate.net 001 cryptobot :Welcome to the nictitate IRC Network cryptobot!crypto@local.damian.id.au
+[09/09/2017 00:34:47]  <- PROTOCTL NAMESX
+[09/09/2017 00:34:47]  <- PROTOCTL UHNAMES
+[09/09/2017 00:34:47]  <- JOIN #nerdhacks
+[09/09/2017 00:34:47]  -> :stable.nictitate.net 002 cryptobot :Your host is stable.nictitate.net, running version InspIRCd-2.0
+[09/09/2017 00:34:47]  -> :stable.nictitate.net 003 cryptobot :This server was created 17:21:34 Sep  8 2017
+[09/09/2017 00:34:47]  -> :stable.nictitate.net 004 cryptobot stable.nictitate.net InspIRCd-2.0 iosw biklmnopstv bklov
+[09/09/2017 00:34:47]  -> :stable.nictitate.net 005 cryptobot AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,l,imnpst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 MAXPARA=32 :are supported by this server
+[09/09/2017 00:34:47]  -> :stable.nictitate.net 005 cryptobot MAXTARGETS=20 MODES=20 NETWORK=nictitate NICKLEN=32 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+[09/09/2017 00:34:47]  -> :stable.nictitate.net 042 cryptobot 00AAAAADI :your unique ID
+[09/09/2017 00:34:47]  -> :stable.nictitate.net 375 cryptobot :stable.nictitate.net message of the day
+[09/09/2017 00:34:47]  -> :stable.nictitate.net 376 cryptobot :End of message of the day.
+[09/09/2017 00:34:47]  -> :stable.nictitate.net 251 cryptobot :There are 2 users and 1 invisible on 1 servers
+[09/09/2017 00:34:47]  -> :stable.nictitate.net 252 cryptobot 1 :operator(s) online
+[09/09/2017 00:34:47]  -> :stable.nictitate.net 254 cryptobot 5 :channels formed
+[09/09/2017 00:34:47]  -> :stable.nictitate.net 255 cryptobot :I have 3 clients and 0 servers
+[09/09/2017 00:34:47]  -> :stable.nictitate.net 265 cryptobot :Current Local Users: 3  Max: 3
+[09/09/2017 00:34:47]  -> :stable.nictitate.net 266 cryptobot :Current Global Users: 3  Max: 3
+[09/09/2017 00:34:47]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 00:34:49]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 00:34:51]  -> :cryptobot!crypto@local.damian.id.au JOIN :#nerdhacks
+[09/09/2017 00:34:51]  <- MODE #nerdhacks 
+[09/09/2017 00:34:51]  -> :stable.nictitate.net 353 cryptobot = #nerdhacks :damian steven cryptobot 
+[09/09/2017 00:34:51]  <- WHO damian
+[09/09/2017 00:34:51]  <- WHO steven
+[09/09/2017 00:34:51]  <- WHO cryptobot
+[09/09/2017 00:34:51]  -> :stable.nictitate.net 366 cryptobot #nerdhacks :End of /NAMES list.
+[09/09/2017 00:34:52]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.crypto
+[09/09/2017 00:34:52]  <- NOTICE damian :SYM    NAME              MARKET CAP       PRICE(AUD)    SUPPLY         1HR    1D     7D
+[09/09/2017 00:34:52]  <- NOTICE damian :BTC    Bitcoin           $ 86292100798.0  $   5213.29      16552337.0   -7.19  -8.77   -12.04
+[09/09/2017 00:34:52]  <- NOTICE damian :ETH    Ethereum          $ 34335050800.0  $    363.33      94500803.0   -6.54  -10.86  -24.21
+[09/09/2017 00:34:52]  <- NOTICE damian :BCH    Bitcoin Cash      $ 11768466062.0  $    710.33      16567700.0  -10.17  -12.08  -5.44 
+[09/09/2017 00:34:52]  <- NOTICE damian :XRP    Ripple            $  9948615992.0  $      0.26   99994523265.0   -4.27  -6.35   -16.11
+[09/09/2017 00:34:52]  <- NOTICE damian :LTC    Litecoin          $  4463205780.0  $     84.47      52839207.0   -9.25  -14.45  -13.0 
+[09/09/2017 00:34:52]  <- NOTICE damian :DASH   Dash              $  3008795889.0  $    398.77       7545206.0   -8.62  -6.43   -15.79
+[09/09/2017 00:34:52]  <- NOTICE damian :XEM    NEM               $  2951953227.0  $      0.33    8999999999.0   -8.22  -10.59  -18.83
+[09/09/2017 00:34:52]  <- NOTICE damian :XMR    Monero            $  2144322466.0  $    142.45      15053577.0   -5.68  -3.82   -18.93
+[09/09/2017 00:34:52]  <- NOTICE damian :ETC    Ethereum Classic  $  1843426612.0  $     19.34      95317073.0   -6.18  -13.73  -18.18
+[09/09/2017 00:34:52]  <- NOTICE damian :MIOTA  IOTA              $  1690443626.0  $      0.61    2779530283.0  -17.15  -29.05  -41.5 
+[09/09/2017 00:34:52]  <- NOTICE damian :NEO    NEO               $  1558634987.0  $     31.17     100000000.0   -9.91  -18.11  -20.75
+[09/09/2017 00:34:52]  <- NOTICE damian :OMG    OmiseGO           $  1357815073.0  $     13.81     140245398.0   -9.13  -14.55  -8.15 
+[09/09/2017 00:34:52]  <- NOTICE damian :BCC    BitConnect        $  1046066951.0  $    157.38       7677547.0   -6.45  -7.75   -7.46 
+[09/09/2017 00:34:52]  <- NOTICE damian :LSK    Lisk              $   917821727.0  $       8.2     111971700.0  -10.39  -10.41  -13.6 
+[09/09/2017 00:34:52]  <- NOTICE damian :QTUM   Qtum              $   912644262.0  $     15.47     100000000.0  -11.11  1.73    -27.95
+[09/09/2017 00:34:52]  <- NOTICE damian :*** End of List ***
+[09/09/2017 00:34:53]  -> :stable.nictitate.net 324 cryptobot #nerdhacks +nt
+[09/09/2017 00:34:53]  -> :stable.nictitate.net 329 cryptobot #nerdhacks 1504868540
+[09/09/2017 00:34:54]  -> :stable.nictitate.net 352 cryptobot #opers damian local.damian.id.au stable.nictitate.net damian H*@ :0 damian
+[09/09/2017 00:34:54]  -> :stable.nictitate.net 315 cryptobot damian :End of /WHO list.
+[09/09/2017 00:34:55]  -> :stable.nictitate.net 352 cryptobot #nerdhacks steven CPE-1-122-210-35.wwl9.wel.bigpond.net.au stable.nictitate.net steven H :0 steven
+[09/09/2017 00:34:55]  -> :stable.nictitate.net 315 cryptobot steven :End of /WHO list.
+[09/09/2017 00:34:56]  -> :stable.nictitate.net 352 cryptobot #nerdhacks crypto local.damian.id.au stable.nictitate.net cryptobot H :0 a crypto currency bot
+[09/09/2017 00:34:56]  -> :stable.nictitate.net 315 cryptobot cryptobot :End of /WHO list.
+[09/09/2017 00:36:11]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.die
+[09/09/2017 00:36:11]  <- QUIT :damian said to quit! ()
+[09/09/2017 00:36:11]  -> ERROR :Closing link: (crypto@local.damian.id.au) [Quit: damian said to quit! ()]
+[09/09/2017 00:36:34]  <- NICK cryptobot
+[09/09/2017 00:36:34]  <- USER crypto 0 * :a crypto currency bot
+[09/09/2017 00:36:34]  -> :stable.nictitate.net NOTICE Auth :*** Looking up your hostname...
+[09/09/2017 00:36:34]  -> :stable.nictitate.net NOTICE Auth :*** Found your hostname (local.damian.id.au) -- cached
+[09/09/2017 00:36:35]  -> :stable.nictitate.net NOTICE Auth :Welcome to nictitate!
+[09/09/2017 00:36:35]  -> :stable.nictitate.net 001 cryptobot :Welcome to the nictitate IRC Network cryptobot!crypto@local.damian.id.au
+[09/09/2017 00:36:35]  <- PROTOCTL NAMESX
+[09/09/2017 00:36:35]  <- PROTOCTL UHNAMES
+[09/09/2017 00:36:35]  <- JOIN #nerdhacks
+[09/09/2017 00:36:35]  -> :stable.nictitate.net 002 cryptobot :Your host is stable.nictitate.net, running version InspIRCd-2.0
+[09/09/2017 00:36:35]  -> :stable.nictitate.net 003 cryptobot :This server was created 17:21:34 Sep  8 2017
+[09/09/2017 00:36:35]  -> :stable.nictitate.net 004 cryptobot stable.nictitate.net InspIRCd-2.0 iosw biklmnopstv bklov
+[09/09/2017 00:36:35]  -> :stable.nictitate.net 005 cryptobot AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,l,imnpst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 MAXPARA=32 :are supported by this server
+[09/09/2017 00:36:35]  -> :stable.nictitate.net 005 cryptobot MAXTARGETS=20 MODES=20 NETWORK=nictitate NICKLEN=32 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+[09/09/2017 00:36:35]  -> :stable.nictitate.net 042 cryptobot 00AAAAADJ :your unique ID
+[09/09/2017 00:36:35]  -> :stable.nictitate.net 375 cryptobot :stable.nictitate.net message of the day
+[09/09/2017 00:36:35]  -> :stable.nictitate.net 376 cryptobot :End of message of the day.
+[09/09/2017 00:36:35]  -> :stable.nictitate.net 251 cryptobot :There are 2 users and 1 invisible on 1 servers
+[09/09/2017 00:36:35]  -> :stable.nictitate.net 252 cryptobot 1 :operator(s) online
+[09/09/2017 00:36:35]  -> :stable.nictitate.net 254 cryptobot 5 :channels formed
+[09/09/2017 00:36:35]  -> :stable.nictitate.net 255 cryptobot :I have 3 clients and 0 servers
+[09/09/2017 00:36:35]  -> :stable.nictitate.net 265 cryptobot :Current Local Users: 3  Max: 3
+[09/09/2017 00:36:35]  -> :stable.nictitate.net 266 cryptobot :Current Global Users: 3  Max: 3
+[09/09/2017 00:36:35]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 00:36:37]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 00:36:39]  -> :cryptobot!crypto@local.damian.id.au JOIN :#nerdhacks
+[09/09/2017 00:36:39]  <- MODE #nerdhacks 
+[09/09/2017 00:36:39]  -> :stable.nictitate.net 353 cryptobot = #nerdhacks :damian steven cryptobot 
+[09/09/2017 00:36:39]  <- WHO damian
+[09/09/2017 00:36:39]  <- WHO steven
+[09/09/2017 00:36:39]  <- WHO cryptobot
+[09/09/2017 00:36:39]  -> :stable.nictitate.net 366 cryptobot #nerdhacks :End of /NAMES list.
+[09/09/2017 00:36:41]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.die
+[09/09/2017 00:36:41]  <- QUIT :damian said to quit! ()
+[09/09/2017 00:36:41]  -> :stable.nictitate.net 324 cryptobot #nerdhacks +nt
+[09/09/2017 00:36:41]  -> :stable.nictitate.net 329 cryptobot #nerdhacks 1504868540
+[09/09/2017 00:36:42]  -> :stable.nictitate.net 352 cryptobot #opers damian local.damian.id.au stable.nictitate.net damian H*@ :0 damian
+[09/09/2017 00:36:42]  -> :stable.nictitate.net 315 cryptobot damian :End of /WHO list.
+[09/09/2017 00:36:43]  -> :stable.nictitate.net 352 cryptobot #nerdhacks steven CPE-1-122-210-35.wwl9.wel.bigpond.net.au stable.nictitate.net steven H :0 steven
+[09/09/2017 00:36:43]  -> :stable.nictitate.net 315 cryptobot steven :End of /WHO list.
+[09/09/2017 00:36:44]  -> :stable.nictitate.net 352 cryptobot #nerdhacks crypto local.damian.id.au stable.nictitate.net cryptobot H :0 a crypto currency bot
+[09/09/2017 00:36:44]  -> :stable.nictitate.net 315 cryptobot cryptobot :End of /WHO list.
+[09/09/2017 00:36:45]  -> ERROR :Closing link: (crypto@local.damian.id.au) [Quit: damian said to quit! ()]
+[09/09/2017 00:36:49]  <- NICK cryptobot
+[09/09/2017 00:36:49]  <- USER crypto 0 * :a crypto currency bot
+[09/09/2017 00:36:49]  -> :stable.nictitate.net NOTICE Auth :*** Looking up your hostname...
+[09/09/2017 00:36:49]  -> :stable.nictitate.net NOTICE Auth :*** Found your hostname (local.damian.id.au) -- cached
+[09/09/2017 00:36:50]  -> :stable.nictitate.net NOTICE Auth :Welcome to nictitate!
+[09/09/2017 00:36:50]  -> :stable.nictitate.net 001 cryptobot :Welcome to the nictitate IRC Network cryptobot!crypto@local.damian.id.au
+[09/09/2017 00:36:50]  <- PROTOCTL NAMESX
+[09/09/2017 00:36:50]  <- PROTOCTL UHNAMES
+[09/09/2017 00:36:50]  <- JOIN #nerdhacks
+[09/09/2017 00:36:50]  -> :stable.nictitate.net 002 cryptobot :Your host is stable.nictitate.net, running version InspIRCd-2.0
+[09/09/2017 00:36:50]  -> :stable.nictitate.net 003 cryptobot :This server was created 17:21:34 Sep  8 2017
+[09/09/2017 00:36:50]  -> :stable.nictitate.net 004 cryptobot stable.nictitate.net InspIRCd-2.0 iosw biklmnopstv bklov
+[09/09/2017 00:36:50]  -> :stable.nictitate.net 005 cryptobot AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,l,imnpst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 MAXPARA=32 :are supported by this server
+[09/09/2017 00:36:50]  -> :stable.nictitate.net 005 cryptobot MAXTARGETS=20 MODES=20 NETWORK=nictitate NICKLEN=32 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+[09/09/2017 00:36:50]  -> :stable.nictitate.net 042 cryptobot 00AAAAADK :your unique ID
+[09/09/2017 00:36:50]  -> :stable.nictitate.net 375 cryptobot :stable.nictitate.net message of the day
+[09/09/2017 00:36:50]  -> :stable.nictitate.net 376 cryptobot :End of message of the day.
+[09/09/2017 00:36:50]  -> :stable.nictitate.net 251 cryptobot :There are 2 users and 1 invisible on 1 servers
+[09/09/2017 00:36:50]  -> :stable.nictitate.net 252 cryptobot 1 :operator(s) online
+[09/09/2017 00:36:50]  -> :stable.nictitate.net 254 cryptobot 5 :channels formed
+[09/09/2017 00:36:50]  -> :stable.nictitate.net 255 cryptobot :I have 3 clients and 0 servers
+[09/09/2017 00:36:50]  -> :stable.nictitate.net 265 cryptobot :Current Local Users: 3  Max: 3
+[09/09/2017 00:36:50]  -> :stable.nictitate.net 266 cryptobot :Current Global Users: 3  Max: 3
+[09/09/2017 00:36:50]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 00:36:52]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 00:36:54]  -> :cryptobot!crypto@local.damian.id.au JOIN :#nerdhacks
+[09/09/2017 00:36:54]  <- MODE #nerdhacks 
+[09/09/2017 00:36:54]  -> :stable.nictitate.net 353 cryptobot = #nerdhacks :damian steven cryptobot 
+[09/09/2017 00:36:54]  <- WHO damian
+[09/09/2017 00:36:54]  <- WHO steven
+[09/09/2017 00:36:54]  <- WHO cryptobot
+[09/09/2017 00:36:54]  -> :stable.nictitate.net 366 cryptobot #nerdhacks :End of /NAMES list.
+[09/09/2017 00:36:56]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.crypto
+[09/09/2017 00:36:56]  -> :stable.nictitate.net 324 cryptobot #nerdhacks +nt
+[09/09/2017 00:36:56]  -> :stable.nictitate.net 329 cryptobot #nerdhacks 1504868540
+[09/09/2017 00:36:57]  -> :stable.nictitate.net 352 cryptobot #opers damian local.damian.id.au stable.nictitate.net damian H*@ :0 damian
+[09/09/2017 00:36:57]  -> :stable.nictitate.net 315 cryptobot damian :End of /WHO list.
+[09/09/2017 00:36:57]  <- NOTICE damian :SYM    NAME              MARKET CAP       PRICE(AUD)           SUPPLY     1HR     1D     7D
+[09/09/2017 00:36:57]  <- NOTICE damian :BTC    Bitcoin           $ 86872070529.0  $   5248.33      16552337.0   -6.56   -8.16  -11.47
+[09/09/2017 00:36:57]  <- NOTICE damian :ETH    Ethereum          $ 34335050800.0  $    363.33      94500803.0   -6.54  -10.86  -24.21
+[09/09/2017 00:36:57]  <- NOTICE damian :BCH    Bitcoin Cash      $ 12202916717.0  $    736.55      16567700.0    -6.3   -8.82   -1.99
+[09/09/2017 00:36:57]  <- NOTICE damian :XRP    Ripple            $  9948615992.0  $      0.26   99994523265.0   -4.27   -6.35  -16.11
+[09/09/2017 00:36:57]  <- NOTICE damian :LTC    Litecoin          $  4463205780.0  $     84.47      52839207.0   -9.25  -14.45   -13.0
+[09/09/2017 00:36:57]  <- NOTICE damian :DASH   Dash              $  3008795889.0  $    398.77       7545206.0   -8.62   -6.43  -15.79
+[09/09/2017 00:36:57]  <- NOTICE damian :XEM    NEM               $  2951953227.0  $      0.33    8999999999.0   -8.22  -10.59  -18.83
+[09/09/2017 00:36:57]  <- NOTICE damian :XMR    Monero            $  2144322466.0  $    142.45      15053577.0   -5.68   -3.82  -18.93
+[09/09/2017 00:36:57]  <- NOTICE damian :ETC    Ethereum Classic  $  1843426612.0  $     19.34      95317073.0   -6.18  -13.73  -18.18
+[09/09/2017 00:36:57]  <- NOTICE damian :MIOTA  IOTA              $  1751776774.0  $      0.63    2779530283.0  -12.43  -26.47  -39.34
+[09/09/2017 00:36:57]  <- NOTICE damian :NEO    NEO               $  1538221550.0  $     30.76     100000000.0   -8.93  -19.03  -21.78
+[09/09/2017 00:36:57]  <- NOTICE damian :OMG    OmiseGO           $  1378187274.0  $     14.02     140245398.0   -7.01  -13.26   -6.76
+[09/09/2017 00:36:57]  <- NOTICE damian :BCC    BitConnect        $  1046181795.0  $     157.4       7677547.0   -6.18   -7.74   -7.47
+[09/09/2017 00:36:57]  <- NOTICE damian :QTUM   Qtum              $   922685723.0  $     15.64     100000000.0   -9.34    2.63  -27.16
+[09/09/2017 00:36:57]  <- NOTICE damian :LSK    Lisk              $   917821727.0  $       8.2     111971700.0  -10.39  -10.41   -13.6
+[09/09/2017 00:36:57]  <- NOTICE damian :*** End of List ***
+[09/09/2017 00:36:58]  -> :stable.nictitate.net 352 cryptobot #nerdhacks steven CPE-1-122-210-35.wwl9.wel.bigpond.net.au stable.nictitate.net steven H :0 steven
+[09/09/2017 00:36:58]  -> :stable.nictitate.net 315 cryptobot steven :End of /WHO list.
+[09/09/2017 00:36:59]  -> :stable.nictitate.net 352 cryptobot #nerdhacks crypto local.damian.id.au stable.nictitate.net cryptobot H :0 a crypto currency bot
+[09/09/2017 00:36:59]  -> :stable.nictitate.net 315 cryptobot cryptobot :End of /WHO list.
+[09/09/2017 00:37:41]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.die
+[09/09/2017 00:37:41]  <- QUIT :damian said to quit! ()
+[09/09/2017 00:37:41]  -> ERROR :Closing link: (crypto@local.damian.id.au) [Quit: damian said to quit! ()]
+[09/09/2017 00:37:43]  <- NICK cryptobot
+[09/09/2017 00:37:43]  <- USER crypto 0 * :a crypto currency bot
+[09/09/2017 00:37:43]  -> :stable.nictitate.net NOTICE Auth :*** Looking up your hostname...
+[09/09/2017 00:37:43]  -> :stable.nictitate.net NOTICE Auth :*** Found your hostname (local.damian.id.au) -- cached
+[09/09/2017 00:37:44]  -> :stable.nictitate.net NOTICE Auth :Welcome to nictitate!
+[09/09/2017 00:37:44]  -> :stable.nictitate.net 001 cryptobot :Welcome to the nictitate IRC Network cryptobot!crypto@local.damian.id.au
+[09/09/2017 00:37:44]  <- PROTOCTL NAMESX
+[09/09/2017 00:37:44]  <- PROTOCTL UHNAMES
+[09/09/2017 00:37:44]  <- JOIN #nerdhacks
+[09/09/2017 00:37:44]  -> :stable.nictitate.net 002 cryptobot :Your host is stable.nictitate.net, running version InspIRCd-2.0
+[09/09/2017 00:37:44]  -> :stable.nictitate.net 003 cryptobot :This server was created 17:21:34 Sep  8 2017
+[09/09/2017 00:37:44]  -> :stable.nictitate.net 004 cryptobot stable.nictitate.net InspIRCd-2.0 iosw biklmnopstv bklov
+[09/09/2017 00:37:44]  -> :stable.nictitate.net 005 cryptobot AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,l,imnpst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 MAXPARA=32 :are supported by this server
+[09/09/2017 00:37:44]  -> :stable.nictitate.net 005 cryptobot MAXTARGETS=20 MODES=20 NETWORK=nictitate NICKLEN=32 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+[09/09/2017 00:37:44]  -> :stable.nictitate.net 042 cryptobot 00AAAAADL :your unique ID
+[09/09/2017 00:37:44]  -> :stable.nictitate.net 375 cryptobot :stable.nictitate.net message of the day
+[09/09/2017 00:37:44]  -> :stable.nictitate.net 376 cryptobot :End of message of the day.
+[09/09/2017 00:37:44]  -> :stable.nictitate.net 251 cryptobot :There are 2 users and 1 invisible on 1 servers
+[09/09/2017 00:37:44]  -> :stable.nictitate.net 252 cryptobot 1 :operator(s) online
+[09/09/2017 00:37:44]  -> :stable.nictitate.net 254 cryptobot 5 :channels formed
+[09/09/2017 00:37:44]  -> :stable.nictitate.net 255 cryptobot :I have 3 clients and 0 servers
+[09/09/2017 00:37:44]  -> :stable.nictitate.net 265 cryptobot :Current Local Users: 3  Max: 3
+[09/09/2017 00:37:44]  -> :stable.nictitate.net 266 cryptobot :Current Global Users: 3  Max: 3
+[09/09/2017 00:37:44]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 00:37:46]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 00:37:48]  -> :cryptobot!crypto@local.damian.id.au JOIN :#nerdhacks
+[09/09/2017 00:37:48]  <- MODE #nerdhacks 
+[09/09/2017 00:37:48]  -> :stable.nictitate.net 353 cryptobot = #nerdhacks :damian steven cryptobot 
+[09/09/2017 00:37:48]  <- WHO damian
+[09/09/2017 00:37:48]  <- WHO steven
+[09/09/2017 00:37:48]  <- WHO cryptobot
+[09/09/2017 00:37:48]  -> :stable.nictitate.net 366 cryptobot #nerdhacks :End of /NAMES list.
+[09/09/2017 00:37:49]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.crypto
+[09/09/2017 00:37:49]  <- NOTICE damian :*** Top 15 list of cryptocurrencies (AUD) ***
+[09/09/2017 00:37:49]  <- NOTICE damian :SYM    NAME              MARKET CAP       PRICE(AUD)           SUPPLY     1HR      1D      7D
+[09/09/2017 00:37:49]  <- NOTICE damian :BTC    Bitcoin           $ 86872070529.0  $   5248.33      16552337.0   -6.56   -8.16  -11.47
+[09/09/2017 00:37:49]  <- NOTICE damian :ETH    Ethereum          $ 34335050800.0  $    363.33      94500803.0   -6.54  -10.86  -24.21
+[09/09/2017 00:37:49]  <- NOTICE damian :BCH    Bitcoin Cash      $ 12202916717.0  $    736.55      16567700.0    -6.3   -8.82   -1.99
+[09/09/2017 00:37:49]  <- NOTICE damian :XRP    Ripple            $  9948615992.0  $      0.26   99994523265.0   -4.27   -6.35  -16.11
+[09/09/2017 00:37:49]  <- NOTICE damian :LTC    Litecoin          $  4463205780.0  $     84.47      52839207.0   -9.25  -14.45   -13.0
+[09/09/2017 00:37:49]  <- NOTICE damian :DASH   Dash              $  3008795889.0  $    398.77       7545206.0   -8.62   -6.43  -15.79
+[09/09/2017 00:37:49]  <- NOTICE damian :XEM    NEM               $  2951953227.0  $      0.33    8999999999.0   -8.22  -10.59  -18.83
+[09/09/2017 00:37:49]  <- NOTICE damian :XMR    Monero            $  2144322466.0  $    142.45      15053577.0   -5.68   -3.82  -18.93
+[09/09/2017 00:37:49]  <- NOTICE damian :ETC    Ethereum Classic  $  1843426612.0  $     19.34      95317073.0   -6.18  -13.73  -18.18
+[09/09/2017 00:37:49]  <- NOTICE damian :MIOTA  IOTA              $  1751776774.0  $      0.63    2779530283.0  -12.43  -26.47  -39.34
+[09/09/2017 00:37:49]  <- NOTICE damian :NEO    NEO               $  1538221550.0  $     30.76     100000000.0   -8.93  -19.03  -21.78
+[09/09/2017 00:37:49]  <- NOTICE damian :OMG    OmiseGO           $  1378187274.0  $     14.02     140245398.0   -7.01  -13.26   -6.76
+[09/09/2017 00:37:49]  <- NOTICE damian :BCC    BitConnect        $  1046181795.0  $     157.4       7677547.0   -6.18   -7.74   -7.47
+[09/09/2017 00:37:49]  <- NOTICE damian :QTUM   Qtum              $   922685723.0  $     15.64     100000000.0   -9.34    2.63  -27.16
+[09/09/2017 00:37:49]  <- NOTICE damian :LSK    Lisk              $   917821727.0  $       8.2     111971700.0  -10.39  -10.41   -13.6
+[09/09/2017 00:37:49]  <- NOTICE damian :*** End of List ***
+[09/09/2017 00:37:50]  -> :stable.nictitate.net 324 cryptobot #nerdhacks +nt
+[09/09/2017 00:37:50]  -> :stable.nictitate.net 329 cryptobot #nerdhacks 1504868540
+[09/09/2017 00:37:51]  -> :stable.nictitate.net 352 cryptobot #opers damian local.damian.id.au stable.nictitate.net damian H*@ :0 damian
+[09/09/2017 00:37:51]  -> :stable.nictitate.net 315 cryptobot damian :End of /WHO list.
+[09/09/2017 00:37:52]  -> :stable.nictitate.net 352 cryptobot #nerdhacks steven CPE-1-122-210-35.wwl9.wel.bigpond.net.au stable.nictitate.net steven H :0 steven
+[09/09/2017 00:37:52]  -> :stable.nictitate.net 315 cryptobot steven :End of /WHO list.
+[09/09/2017 00:37:53]  -> :stable.nictitate.net 352 cryptobot #nerdhacks crypto local.damian.id.au stable.nictitate.net cryptobot H :0 a crypto currency bot
+[09/09/2017 00:37:53]  -> :stable.nictitate.net 315 cryptobot cryptobot :End of /WHO list.
+[09/09/2017 00:39:50]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.die
+[09/09/2017 00:39:50]  <- QUIT :damian said to quit! ()
+[09/09/2017 00:39:50]  -> ERROR :Closing link: (crypto@local.damian.id.au) [Quit: damian said to quit! ()]
+[09/09/2017 00:50:38]  <- NICK cryptobot
+[09/09/2017 00:50:38]  <- USER crypto 0 * :a crypto currency bot
+[09/09/2017 00:50:38]  -> :stable.nictitate.net NOTICE Auth :*** Looking up your hostname...
+[09/09/2017 00:50:39]  -> :stable.nictitate.net NOTICE Auth :*** Found your hostname (local.damian.id.au)
+[09/09/2017 00:50:39]  -> :stable.nictitate.net NOTICE Auth :Welcome to nictitate!
+[09/09/2017 00:50:39]  -> :stable.nictitate.net 001 cryptobot :Welcome to the nictitate IRC Network cryptobot!crypto@local.damian.id.au
+[09/09/2017 00:50:39]  <- PROTOCTL NAMESX
+[09/09/2017 00:50:39]  <- PROTOCTL UHNAMES
+[09/09/2017 00:50:39]  <- JOIN #nerdhacks
+[09/09/2017 00:50:39]  -> :stable.nictitate.net 002 cryptobot :Your host is stable.nictitate.net, running version InspIRCd-2.0
+[09/09/2017 00:50:39]  -> :stable.nictitate.net 003 cryptobot :This server was created 17:21:34 Sep  8 2017
+[09/09/2017 00:50:39]  -> :stable.nictitate.net 004 cryptobot stable.nictitate.net InspIRCd-2.0 iosw biklmnopstv bklov
+[09/09/2017 00:50:39]  -> :stable.nictitate.net 005 cryptobot AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,l,imnpst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 MAXPARA=32 :are supported by this server
+[09/09/2017 00:50:39]  -> :stable.nictitate.net 005 cryptobot MAXTARGETS=20 MODES=20 NETWORK=nictitate NICKLEN=32 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+[09/09/2017 00:50:39]  -> :stable.nictitate.net 042 cryptobot 00AAAAADM :your unique ID
+[09/09/2017 00:50:39]  -> :stable.nictitate.net 375 cryptobot :stable.nictitate.net message of the day
+[09/09/2017 00:50:39]  -> :stable.nictitate.net 376 cryptobot :End of message of the day.
+[09/09/2017 00:50:39]  -> :stable.nictitate.net 251 cryptobot :There are 2 users and 1 invisible on 1 servers
+[09/09/2017 00:50:39]  -> :stable.nictitate.net 252 cryptobot 1 :operator(s) online
+[09/09/2017 00:50:39]  -> :stable.nictitate.net 254 cryptobot 5 :channels formed
+[09/09/2017 00:50:39]  -> :stable.nictitate.net 255 cryptobot :I have 3 clients and 0 servers
+[09/09/2017 00:50:39]  -> :stable.nictitate.net 265 cryptobot :Current Local Users: 3  Max: 3
+[09/09/2017 00:50:39]  -> :stable.nictitate.net 266 cryptobot :Current Global Users: 3  Max: 3
+[09/09/2017 00:50:39]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 00:50:41]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 00:50:43]  -> :cryptobot!crypto@local.damian.id.au JOIN :#nerdhacks
+[09/09/2017 00:50:43]  <- MODE #nerdhacks 
+[09/09/2017 00:50:43]  -> :stable.nictitate.net 353 cryptobot = #nerdhacks :damian steven cryptobot 
+[09/09/2017 00:50:43]  <- WHO damian
+[09/09/2017 00:50:43]  <- WHO steven
+[09/09/2017 00:50:43]  <- WHO cryptobot
+[09/09/2017 00:50:43]  -> :stable.nictitate.net 366 cryptobot #nerdhacks :End of /NAMES list.
+[09/09/2017 00:50:43]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.crypto
+[09/09/2017 00:50:44]  <- NOTICE damian :*** Top 15 list of cryptocurrencies (AUD) ***
+[09/09/2017 00:50:44]  <- NOTICE damian :SYM    NAME              MARKET CAP       PRICE(AUD)           SUPPLY     1HR      1D      7D
+[09/09/2017 00:50:44]  <- NOTICE damian :BTC    Bitcoin           $87,718,214,617  $     5,299      16,552,412   -3.64   -7.28  -10.65
+[09/09/2017 00:50:44]  <- NOTICE damian :ETH    Ethereum          $34,635,267,464  $       367      94,501,141   -3.73  -10.11  -23.54
+[09/09/2017 00:50:44]  <- NOTICE damian :BCH    Bitcoin Cash      $12,097,547,920  $       730      16,567,725   -4.39   -9.49   -2.94
+[09/09/2017 00:50:44]  <- NOTICE damian :XRP    Ripple            $10,064,889,666  $         0  99,994,523,265   -1.61    -5.3  -15.12
+[09/09/2017 00:50:44]  <- NOTICE damian :LTC    Litecoin          $ 4,496,516,512  $        85      52,839,357   -3.53  -13.86  -12.72
+[09/09/2017 00:50:44]  <- NOTICE damian :DASH   Dash              $ 3,131,405,797  $       415       7,545,242    -2.0   -2.67  -12.38
+[09/09/2017 00:50:44]  <- NOTICE damian :XEM    NEM               $ 3,003,304,003  $         0   8,999,999,999   -3.82   -9.08  -17.42
+[09/09/2017 00:50:44]  <- NOTICE damian :XMR    Monero            $ 2,193,229,708  $       146      15,053,628   -1.24   -1.56  -17.15
+[09/09/2017 00:50:44]  <- NOTICE damian :ETC    Ethereum Classic  $ 1,814,600,966  $        19      95,317,476   -5.21  -15.03  -19.89
+[09/09/2017 00:50:44]  <- NOTICE damian :MIOTA  IOTA              $ 1,801,432,644  $         1   2,779,530,283   -5.78  -24.37  -37.51
+[09/09/2017 00:50:44]  <- NOTICE damian :NEO    NEO               $ 1,593,982,074  $        32     100,000,000   -1.73  -15.59  -18.91
+[09/09/2017 00:50:44]  <- NOTICE damian :OMG    OmiseGO           $ 1,411,530,221  $        14     140,245,398   -1.46  -11.26   -4.45
+[09/09/2017 00:50:44]  <- NOTICE damian :BCC    BitConnect        $ 1,056,443,713  $       159       7,677,649   -3.23   -6.83   -6.62
+[09/09/2017 00:50:44]  <- NOTICE damian :LSK    Lisk              $   939,687,656  $         8     111,972,300   -3.49   -8.18  -11.51
+[09/09/2017 00:50:44]  <- NOTICE damian :QTUM   Qtum              $   936,601,046  $        16     100,000,000    -3.6    3.82  -26.08
+[09/09/2017 00:50:44]  <- NOTICE damian :*** End of List ***
+[09/09/2017 00:50:45]  -> :stable.nictitate.net 324 cryptobot #nerdhacks +nt
+[09/09/2017 00:50:45]  -> :stable.nictitate.net 329 cryptobot #nerdhacks 1504868540
+[09/09/2017 00:50:46]  -> :stable.nictitate.net 352 cryptobot #opers damian local.damian.id.au stable.nictitate.net damian H*@ :0 damian
+[09/09/2017 00:50:46]  -> :stable.nictitate.net 315 cryptobot damian :End of /WHO list.
+[09/09/2017 00:50:47]  -> :stable.nictitate.net 352 cryptobot #nerdhacks steven CPE-1-122-210-35.wwl9.wel.bigpond.net.au stable.nictitate.net steven H :0 steven
+[09/09/2017 00:50:47]  -> :stable.nictitate.net 315 cryptobot steven :End of /WHO list.
+[09/09/2017 00:50:48]  -> :stable.nictitate.net 352 cryptobot #nerdhacks crypto local.damian.id.au stable.nictitate.net cryptobot H :0 a crypto currency bot
+[09/09/2017 00:50:48]  -> :stable.nictitate.net 315 cryptobot cryptobot :End of /WHO list.
+[09/09/2017 00:51:39]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.die
+[09/09/2017 00:51:39]  <- QUIT :damian said to quit! ()
+[09/09/2017 00:51:39]  -> ERROR :Closing link: (crypto@local.damian.id.au) [Quit: damian said to quit! ()]
+[09/09/2017 00:51:42]  <- NICK cryptobot
+[09/09/2017 00:51:42]  <- USER crypto 0 * :a crypto currency bot
+[09/09/2017 00:51:42]  -> :stable.nictitate.net NOTICE Auth :*** Looking up your hostname...
+[09/09/2017 00:51:42]  -> :stable.nictitate.net NOTICE Auth :*** Found your hostname (local.damian.id.au) -- cached
+[09/09/2017 00:51:44]  -> :stable.nictitate.net NOTICE Auth :Welcome to nictitate!
+[09/09/2017 00:51:44]  -> :stable.nictitate.net 001 cryptobot :Welcome to the nictitate IRC Network cryptobot!crypto@local.damian.id.au
+[09/09/2017 00:51:44]  <- PROTOCTL NAMESX
+[09/09/2017 00:51:44]  <- PROTOCTL UHNAMES
+[09/09/2017 00:51:44]  <- JOIN #nerdhacks
+[09/09/2017 00:51:44]  -> :stable.nictitate.net 002 cryptobot :Your host is stable.nictitate.net, running version InspIRCd-2.0
+[09/09/2017 00:51:44]  -> :stable.nictitate.net 003 cryptobot :This server was created 17:21:34 Sep  8 2017
+[09/09/2017 00:51:44]  -> :stable.nictitate.net 004 cryptobot stable.nictitate.net InspIRCd-2.0 iosw biklmnopstv bklov
+[09/09/2017 00:51:44]  -> :stable.nictitate.net 005 cryptobot AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,l,imnpst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 MAXPARA=32 :are supported by this server
+[09/09/2017 00:51:44]  -> :stable.nictitate.net 005 cryptobot MAXTARGETS=20 MODES=20 NETWORK=nictitate NICKLEN=32 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+[09/09/2017 00:51:44]  -> :stable.nictitate.net 042 cryptobot 00AAAAADN :your unique ID
+[09/09/2017 00:51:44]  -> :stable.nictitate.net 375 cryptobot :stable.nictitate.net message of the day
+[09/09/2017 00:51:44]  -> :stable.nictitate.net 376 cryptobot :End of message of the day.
+[09/09/2017 00:51:44]  -> :stable.nictitate.net 251 cryptobot :There are 2 users and 1 invisible on 1 servers
+[09/09/2017 00:51:44]  -> :stable.nictitate.net 252 cryptobot 1 :operator(s) online
+[09/09/2017 00:51:44]  -> :stable.nictitate.net 254 cryptobot 5 :channels formed
+[09/09/2017 00:51:44]  -> :stable.nictitate.net 255 cryptobot :I have 3 clients and 0 servers
+[09/09/2017 00:51:44]  -> :stable.nictitate.net 265 cryptobot :Current Local Users: 3  Max: 3
+[09/09/2017 00:51:44]  -> :stable.nictitate.net 266 cryptobot :Current Global Users: 3  Max: 3
+[09/09/2017 00:51:44]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 00:51:45]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 00:51:47]  -> :cryptobot!crypto@local.damian.id.au JOIN :#nerdhacks
+[09/09/2017 00:51:47]  <- MODE #nerdhacks 
+[09/09/2017 00:51:47]  -> :stable.nictitate.net 353 cryptobot = #nerdhacks :damian steven cryptobot 
+[09/09/2017 00:51:47]  <- WHO damian
+[09/09/2017 00:51:47]  <- WHO steven
+[09/09/2017 00:51:47]  <- WHO cryptobot
+[09/09/2017 00:51:47]  -> :stable.nictitate.net 366 cryptobot #nerdhacks :End of /NAMES list.
+[09/09/2017 00:51:49]  -> :stable.nictitate.net 324 cryptobot #nerdhacks +nt
+[09/09/2017 00:51:49]  -> :stable.nictitate.net 329 cryptobot #nerdhacks 1504868540
+[09/09/2017 00:51:50]  -> :stable.nictitate.net 352 cryptobot #opers damian local.damian.id.au stable.nictitate.net damian H*@ :0 damian
+[09/09/2017 00:51:50]  -> :stable.nictitate.net 315 cryptobot damian :End of /WHO list.
+[09/09/2017 00:51:51]  -> :stable.nictitate.net 352 cryptobot #nerdhacks steven CPE-1-122-210-35.wwl9.wel.bigpond.net.au stable.nictitate.net steven H :0 steven
+[09/09/2017 00:51:51]  -> :stable.nictitate.net 315 cryptobot steven :End of /WHO list.
+[09/09/2017 00:51:52]  -> :stable.nictitate.net 352 cryptobot #nerdhacks crypto local.damian.id.au stable.nictitate.net cryptobot H :0 a crypto currency bot
+[09/09/2017 00:51:52]  -> :stable.nictitate.net 315 cryptobot cryptobot :End of /WHO list.
+[09/09/2017 00:51:55]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.crypto
+[09/09/2017 00:51:56]  <- NOTICE damian :*** Top 15 list of cryptocurrencies (AUD) ***
+[09/09/2017 00:51:56]  <- NOTICE damian :SYM    NAME                  MARKET CAP         PRICE(AUD)           SUPPLY     1HR      1D      7D
+[09/09/2017 00:51:56]  <- NOTICE damian :BTC    Bitcoin             $  87,718,214,617  $       5,299      16,552,412   -3.64   -7.28  -10.65
+[09/09/2017 00:51:56]  <- NOTICE damian :ETH    Ethereum            $  34,635,267,464  $         367      94,501,141   -3.73  -10.11  -23.54
+[09/09/2017 00:51:56]  <- NOTICE damian :BCH    Bitcoin Cash        $  12,097,547,920  $         730      16,567,725   -4.39   -9.49   -2.94
+[09/09/2017 00:51:56]  <- NOTICE damian :XRP    Ripple              $  10,064,889,666  $           0  99,994,523,265   -1.61    -5.3  -15.12
+[09/09/2017 00:51:56]  <- NOTICE damian :LTC    Litecoin            $   4,496,516,512  $          85      52,839,357   -3.53  -13.86  -12.72
+[09/09/2017 00:51:56]  <- NOTICE damian :DASH   Dash                $   3,131,405,797  $         415       7,545,242    -2.0   -2.67  -12.38
+[09/09/2017 00:51:56]  <- NOTICE damian :XEM    NEM                 $   3,003,304,003  $           0   8,999,999,999   -3.82   -9.08  -17.42
+[09/09/2017 00:51:56]  <- NOTICE damian :XMR    Monero              $   2,193,229,708  $         146      15,053,628   -1.24   -1.56  -17.15
+[09/09/2017 00:51:56]  <- NOTICE damian :ETC    Ethereum Classic    $   1,814,600,966  $          19      95,317,476   -5.21  -15.03  -19.89
+[09/09/2017 00:51:56]  <- NOTICE damian :MIOTA  IOTA                $   1,801,432,644  $           1   2,779,530,283   -5.78  -24.37  -37.51
+[09/09/2017 00:51:56]  <- NOTICE damian :NEO    NEO                 $   1,593,982,074  $          32     100,000,000   -1.73  -15.59  -18.91
+[09/09/2017 00:51:56]  <- NOTICE damian :OMG    OmiseGO             $   1,411,530,221  $          14     140,245,398   -1.46  -11.26   -4.45
+[09/09/2017 00:51:56]  <- NOTICE damian :BCC    BitConnect          $   1,056,443,713  $         159       7,677,649   -3.23   -6.83   -6.62
+[09/09/2017 00:51:56]  <- NOTICE damian :LSK    Lisk                $     939,687,656  $           8     111,972,300   -3.49   -8.18  -11.51
+[09/09/2017 00:51:56]  <- NOTICE damian :QTUM   Qtum                $     936,601,046  $          16     100,000,000    -3.6    3.82  -26.08
+[09/09/2017 00:51:56]  <- NOTICE damian :*** End of List ***
+[09/09/2017 00:52:28]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.die
+[09/09/2017 00:52:28]  <- QUIT :damian said to quit! ()
+[09/09/2017 00:52:28]  -> ERROR :Closing link: (crypto@local.damian.id.au) [Quit: damian said to quit! ()]
+[09/09/2017 00:52:31]  <- NICK cryptobot
+[09/09/2017 00:52:31]  <- USER crypto 0 * :a crypto currency bot
+[09/09/2017 00:52:31]  -> :stable.nictitate.net NOTICE Auth :*** Looking up your hostname...
+[09/09/2017 00:52:31]  -> :stable.nictitate.net NOTICE Auth :*** Found your hostname (local.damian.id.au) -- cached
+[09/09/2017 00:52:32]  -> :stable.nictitate.net NOTICE Auth :Welcome to nictitate!
+[09/09/2017 00:52:32]  -> :stable.nictitate.net 001 cryptobot :Welcome to the nictitate IRC Network cryptobot!crypto@local.damian.id.au
+[09/09/2017 00:52:32]  <- PROTOCTL NAMESX
+[09/09/2017 00:52:32]  <- PROTOCTL UHNAMES
+[09/09/2017 00:52:32]  <- JOIN #nerdhacks
+[09/09/2017 00:52:32]  -> :stable.nictitate.net 002 cryptobot :Your host is stable.nictitate.net, running version InspIRCd-2.0
+[09/09/2017 00:52:32]  -> :stable.nictitate.net 003 cryptobot :This server was created 17:21:34 Sep  8 2017
+[09/09/2017 00:52:32]  -> :stable.nictitate.net 004 cryptobot stable.nictitate.net InspIRCd-2.0 iosw biklmnopstv bklov
+[09/09/2017 00:52:32]  -> :stable.nictitate.net 005 cryptobot AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,l,imnpst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 MAXPARA=32 :are supported by this server
+[09/09/2017 00:52:32]  -> :stable.nictitate.net 005 cryptobot MAXTARGETS=20 MODES=20 NETWORK=nictitate NICKLEN=32 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+[09/09/2017 00:52:32]  -> :stable.nictitate.net 042 cryptobot 00AAAAADO :your unique ID
+[09/09/2017 00:52:32]  -> :stable.nictitate.net 375 cryptobot :stable.nictitate.net message of the day
+[09/09/2017 00:52:32]  -> :stable.nictitate.net 376 cryptobot :End of message of the day.
+[09/09/2017 00:52:32]  -> :stable.nictitate.net 251 cryptobot :There are 2 users and 1 invisible on 1 servers
+[09/09/2017 00:52:32]  -> :stable.nictitate.net 252 cryptobot 1 :operator(s) online
+[09/09/2017 00:52:32]  -> :stable.nictitate.net 254 cryptobot 5 :channels formed
+[09/09/2017 00:52:32]  -> :stable.nictitate.net 255 cryptobot :I have 3 clients and 0 servers
+[09/09/2017 00:52:32]  -> :stable.nictitate.net 265 cryptobot :Current Local Users: 3  Max: 3
+[09/09/2017 00:52:32]  -> :stable.nictitate.net 266 cryptobot :Current Global Users: 3  Max: 3
+[09/09/2017 00:52:32]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 00:52:34]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 00:52:36]  -> :cryptobot!crypto@local.damian.id.au JOIN :#nerdhacks
+[09/09/2017 00:52:36]  <- MODE #nerdhacks 
+[09/09/2017 00:52:36]  -> :stable.nictitate.net 353 cryptobot = #nerdhacks :damian steven cryptobot 
+[09/09/2017 00:52:36]  <- WHO damian
+[09/09/2017 00:52:36]  <- WHO steven
+[09/09/2017 00:52:36]  <- WHO cryptobot
+[09/09/2017 00:52:36]  -> :stable.nictitate.net 366 cryptobot #nerdhacks :End of /NAMES list.
+[09/09/2017 00:52:37]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.crypto
+[09/09/2017 00:52:37]  <- NOTICE damian :*** Top 15 list of cryptocurrencies (AUD) ***
+[09/09/2017 00:52:37]  <- NOTICE damian :SYM    NAME                MARKET CAP         PRICE(AUD)             SUPPLY     1HR      1D      7D
+[09/09/2017 00:52:37]  <- NOTICE damian :BTC    Bitcoin             $  87,718,214,617  $       5,299      16,552,412   -3.64   -7.28  -10.65
+[09/09/2017 00:52:37]  <- NOTICE damian :ETH    Ethereum            $  34,635,267,464  $         367      94,501,141   -3.73  -10.11  -23.54
+[09/09/2017 00:52:37]  <- NOTICE damian :BCH    Bitcoin Cash        $  12,097,547,920  $         730      16,567,725   -4.39   -9.49   -2.94
+[09/09/2017 00:52:37]  <- NOTICE damian :XRP    Ripple              $  10,064,889,666  $           0  99,994,523,265   -1.61    -5.3  -15.12
+[09/09/2017 00:52:37]  <- NOTICE damian :LTC    Litecoin            $   4,496,516,512  $          85      52,839,357   -3.53  -13.86  -12.72
+[09/09/2017 00:52:37]  <- NOTICE damian :DASH   Dash                $   3,131,405,797  $         415       7,545,242    -2.0   -2.67  -12.38
+[09/09/2017 00:52:37]  <- NOTICE damian :XEM    NEM                 $   3,003,304,003  $           0   8,999,999,999   -3.82   -9.08  -17.42
+[09/09/2017 00:52:37]  <- NOTICE damian :XMR    Monero              $   2,193,229,708  $         146      15,053,628   -1.24   -1.56  -17.15
+[09/09/2017 00:52:37]  <- NOTICE damian :ETC    Ethereum Classic    $   1,814,600,966  $          19      95,317,476   -5.21  -15.03  -19.89
+[09/09/2017 00:52:37]  <- NOTICE damian :MIOTA  IOTA                $   1,801,432,644  $           1   2,779,530,283   -5.78  -24.37  -37.51
+[09/09/2017 00:52:37]  <- NOTICE damian :NEO    NEO                 $   1,593,982,074  $          32     100,000,000   -1.73  -15.59  -18.91
+[09/09/2017 00:52:37]  <- NOTICE damian :OMG    OmiseGO             $   1,411,530,221  $          14     140,245,398   -1.46  -11.26   -4.45
+[09/09/2017 00:52:37]  <- NOTICE damian :BCC    BitConnect          $   1,056,443,713  $         159       7,677,649   -3.23   -6.83   -6.62
+[09/09/2017 00:52:37]  <- NOTICE damian :LSK    Lisk                $     939,687,656  $           8     111,972,300   -3.49   -8.18  -11.51
+[09/09/2017 00:52:37]  <- NOTICE damian :QTUM   Qtum                $     936,601,046  $          16     100,000,000    -3.6    3.82  -26.08
+[09/09/2017 00:52:37]  <- NOTICE damian :*** End of List ***
+[09/09/2017 00:52:38]  -> :stable.nictitate.net 324 cryptobot #nerdhacks +nt
+[09/09/2017 00:52:38]  -> :stable.nictitate.net 329 cryptobot #nerdhacks 1504868540
+[09/09/2017 00:52:39]  -> :stable.nictitate.net 352 cryptobot #opers damian local.damian.id.au stable.nictitate.net damian H*@ :0 damian
+[09/09/2017 00:52:39]  -> :stable.nictitate.net 315 cryptobot damian :End of /WHO list.
+[09/09/2017 00:52:40]  -> :stable.nictitate.net 352 cryptobot #nerdhacks steven CPE-1-122-210-35.wwl9.wel.bigpond.net.au stable.nictitate.net steven H :0 steven
+[09/09/2017 00:52:40]  -> :stable.nictitate.net 315 cryptobot steven :End of /WHO list.
+[09/09/2017 00:52:41]  -> :stable.nictitate.net 352 cryptobot #nerdhacks crypto local.damian.id.au stable.nictitate.net cryptobot H :0 a crypto currency bot
+[09/09/2017 00:52:41]  -> :stable.nictitate.net 315 cryptobot cryptobot :End of /WHO list.
+[09/09/2017 00:53:21]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.die
+[09/09/2017 00:53:21]  <- QUIT :damian said to quit! ()
+[09/09/2017 00:53:21]  -> ERROR :Closing link: (crypto@local.damian.id.au) [Quit: damian said to quit! ()]
+[09/09/2017 00:53:24]  <- NICK cryptobot
+[09/09/2017 00:53:24]  <- USER crypto 0 * :a crypto currency bot
+[09/09/2017 00:53:24]  -> :stable.nictitate.net NOTICE Auth :*** Looking up your hostname...
+[09/09/2017 00:53:24]  -> :stable.nictitate.net NOTICE Auth :*** Found your hostname (local.damian.id.au) -- cached
+[09/09/2017 00:53:25]  -> :stable.nictitate.net NOTICE Auth :Welcome to nictitate!
+[09/09/2017 00:53:25]  -> :stable.nictitate.net 001 cryptobot :Welcome to the nictitate IRC Network cryptobot!crypto@local.damian.id.au
+[09/09/2017 00:53:25]  <- PROTOCTL NAMESX
+[09/09/2017 00:53:25]  <- PROTOCTL UHNAMES
+[09/09/2017 00:53:25]  <- JOIN #nerdhacks
+[09/09/2017 00:53:25]  -> :stable.nictitate.net 002 cryptobot :Your host is stable.nictitate.net, running version InspIRCd-2.0
+[09/09/2017 00:53:25]  -> :stable.nictitate.net 003 cryptobot :This server was created 17:21:34 Sep  8 2017
+[09/09/2017 00:53:25]  -> :stable.nictitate.net 004 cryptobot stable.nictitate.net InspIRCd-2.0 iosw biklmnopstv bklov
+[09/09/2017 00:53:25]  -> :stable.nictitate.net 005 cryptobot AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,l,imnpst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 MAXPARA=32 :are supported by this server
+[09/09/2017 00:53:25]  -> :stable.nictitate.net 005 cryptobot MAXTARGETS=20 MODES=20 NETWORK=nictitate NICKLEN=32 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+[09/09/2017 00:53:25]  -> :stable.nictitate.net 042 cryptobot 00AAAAADP :your unique ID
+[09/09/2017 00:53:25]  -> :stable.nictitate.net 375 cryptobot :stable.nictitate.net message of the day
+[09/09/2017 00:53:25]  -> :stable.nictitate.net 376 cryptobot :End of message of the day.
+[09/09/2017 00:53:25]  -> :stable.nictitate.net 251 cryptobot :There are 2 users and 1 invisible on 1 servers
+[09/09/2017 00:53:25]  -> :stable.nictitate.net 252 cryptobot 1 :operator(s) online
+[09/09/2017 00:53:25]  -> :stable.nictitate.net 254 cryptobot 5 :channels formed
+[09/09/2017 00:53:25]  -> :stable.nictitate.net 255 cryptobot :I have 3 clients and 0 servers
+[09/09/2017 00:53:25]  -> :stable.nictitate.net 265 cryptobot :Current Local Users: 3  Max: 3
+[09/09/2017 00:53:25]  -> :stable.nictitate.net 266 cryptobot :Current Global Users: 3  Max: 3
+[09/09/2017 00:53:25]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 00:53:27]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 00:53:29]  -> :cryptobot!crypto@local.damian.id.au JOIN :#nerdhacks
+[09/09/2017 00:53:29]  <- MODE #nerdhacks 
+[09/09/2017 00:53:29]  -> :stable.nictitate.net 353 cryptobot = #nerdhacks :damian steven cryptobot 
+[09/09/2017 00:53:29]  <- WHO damian
+[09/09/2017 00:53:29]  <- WHO steven
+[09/09/2017 00:53:29]  <- WHO cryptobot
+[09/09/2017 00:53:29]  -> :stable.nictitate.net 366 cryptobot #nerdhacks :End of /NAMES list.
+[09/09/2017 00:53:30]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.crypto
+[09/09/2017 00:53:30]  <- NOTICE damian :*** Top 15 list of cryptocurrencies (AUD) ***
+[09/09/2017 00:53:30]  <- NOTICE damian :SYM    NAME                MARKET CAP         PRICE(AUD)             SUPPLY     1HR      1D      7D
+[09/09/2017 00:53:30]  <- NOTICE damian :BTC    Bitcoin             $  87,718,214,617  $    5,299      16,552,412   -3.64   -7.28  -10.65
+[09/09/2017 00:53:30]  <- NOTICE damian :ETH    Ethereum            $  34,635,267,464  $      367      94,501,141   -3.73  -10.11  -23.54
+[09/09/2017 00:53:30]  <- NOTICE damian :BCH    Bitcoin Cash        $  12,097,547,920  $      730      16,567,725   -4.39   -9.49   -2.94
+[09/09/2017 00:53:30]  <- NOTICE damian :XRP    Ripple              $  10,064,889,666  $        0  99,994,523,265   -1.61    -5.3  -15.12
+[09/09/2017 00:53:30]  <- NOTICE damian :LTC    Litecoin            $   4,496,516,512  $       85      52,839,357   -3.53  -13.86  -12.72
+[09/09/2017 00:53:30]  -> :stable.nictitate.net 324 cryptobot #nerdhacks +nt
+[09/09/2017 00:53:30]  <- NOTICE damian :DASH   Dash                $   3,131,405,797  $      415       7,545,242    -2.0   -2.67  -12.38
+[09/09/2017 00:53:30]  -> :stable.nictitate.net 329 cryptobot #nerdhacks 1504868540
+[09/09/2017 00:53:30]  <- NOTICE damian :XEM    NEM                 $   3,003,304,003  $        0   8,999,999,999   -3.82   -9.08  -17.42
+[09/09/2017 00:53:30]  <- NOTICE damian :XMR    Monero              $   2,193,229,708  $      146      15,053,628   -1.24   -1.56  -17.15
+[09/09/2017 00:53:30]  <- NOTICE damian :ETC    Ethereum Classic    $   1,814,600,966  $       19      95,317,476   -5.21  -15.03  -19.89
+[09/09/2017 00:53:31]  <- NOTICE damian :MIOTA  IOTA                $   1,801,432,644  $        1   2,779,530,283   -5.78  -24.37  -37.51
+[09/09/2017 00:53:31]  <- NOTICE damian :NEO    NEO                 $   1,593,982,074  $       32     100,000,000   -1.73  -15.59  -18.91
+[09/09/2017 00:53:31]  <- NOTICE damian :OMG    OmiseGO             $   1,411,530,221  $       14     140,245,398   -1.46  -11.26   -4.45
+[09/09/2017 00:53:31]  <- NOTICE damian :BCC    BitConnect          $   1,056,443,713  $      159       7,677,649   -3.23   -6.83   -6.62
+[09/09/2017 00:53:31]  <- NOTICE damian :LSK    Lisk                $     939,687,656  $        8     111,972,300   -3.49   -8.18  -11.51
+[09/09/2017 00:53:31]  <- NOTICE damian :QTUM   Qtum                $     936,601,046  $       16     100,000,000    -3.6    3.82  -26.08
+[09/09/2017 00:53:31]  <- NOTICE damian :*** End of List ***
+[09/09/2017 00:53:32]  -> :stable.nictitate.net 352 cryptobot #opers damian local.damian.id.au stable.nictitate.net damian H*@ :0 damian
+[09/09/2017 00:53:32]  -> :stable.nictitate.net 315 cryptobot damian :End of /WHO list.
+[09/09/2017 00:53:33]  -> :stable.nictitate.net 352 cryptobot #nerdhacks steven CPE-1-122-210-35.wwl9.wel.bigpond.net.au stable.nictitate.net steven H :0 steven
+[09/09/2017 00:53:33]  -> :stable.nictitate.net 315 cryptobot steven :End of /WHO list.
+[09/09/2017 00:53:34]  -> :stable.nictitate.net 352 cryptobot #nerdhacks crypto local.damian.id.au stable.nictitate.net cryptobot H :0 a crypto currency bot
+[09/09/2017 00:53:34]  -> :stable.nictitate.net 315 cryptobot cryptobot :End of /WHO list.
+[09/09/2017 00:54:19]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.die
+[09/09/2017 00:54:19]  <- QUIT :damian said to quit! ()
+[09/09/2017 00:54:19]  -> ERROR :Closing link: (crypto@local.damian.id.au) [Quit: damian said to quit! ()]
+[09/09/2017 00:54:22]  <- NICK cryptobot
+[09/09/2017 00:54:22]  <- USER crypto 0 * :a crypto currency bot
+[09/09/2017 00:54:22]  -> :stable.nictitate.net NOTICE Auth :*** Looking up your hostname...
+[09/09/2017 00:54:22]  -> :stable.nictitate.net NOTICE Auth :*** Found your hostname (local.damian.id.au) -- cached
+[09/09/2017 00:54:23]  -> :stable.nictitate.net NOTICE Auth :Welcome to nictitate!
+[09/09/2017 00:54:23]  -> :stable.nictitate.net 001 cryptobot :Welcome to the nictitate IRC Network cryptobot!crypto@local.damian.id.au
+[09/09/2017 00:54:23]  <- PROTOCTL NAMESX
+[09/09/2017 00:54:23]  <- PROTOCTL UHNAMES
+[09/09/2017 00:54:23]  <- JOIN #nerdhacks
+[09/09/2017 00:54:23]  -> :stable.nictitate.net 002 cryptobot :Your host is stable.nictitate.net, running version InspIRCd-2.0
+[09/09/2017 00:54:23]  -> :stable.nictitate.net 003 cryptobot :This server was created 17:21:34 Sep  8 2017
+[09/09/2017 00:54:23]  -> :stable.nictitate.net 004 cryptobot stable.nictitate.net InspIRCd-2.0 iosw biklmnopstv bklov
+[09/09/2017 00:54:23]  -> :stable.nictitate.net 005 cryptobot AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,l,imnpst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 MAXPARA=32 :are supported by this server
+[09/09/2017 00:54:23]  -> :stable.nictitate.net 005 cryptobot MAXTARGETS=20 MODES=20 NETWORK=nictitate NICKLEN=32 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+[09/09/2017 00:54:23]  -> :stable.nictitate.net 042 cryptobot 00AAAAADQ :your unique ID
+[09/09/2017 00:54:23]  -> :stable.nictitate.net 375 cryptobot :stable.nictitate.net message of the day
+[09/09/2017 00:54:23]  -> :stable.nictitate.net 376 cryptobot :End of message of the day.
+[09/09/2017 00:54:23]  -> :stable.nictitate.net 251 cryptobot :There are 2 users and 1 invisible on 1 servers
+[09/09/2017 00:54:23]  -> :stable.nictitate.net 252 cryptobot 1 :operator(s) online
+[09/09/2017 00:54:23]  -> :stable.nictitate.net 254 cryptobot 5 :channels formed
+[09/09/2017 00:54:23]  -> :stable.nictitate.net 255 cryptobot :I have 3 clients and 0 servers
+[09/09/2017 00:54:23]  -> :stable.nictitate.net 265 cryptobot :Current Local Users: 3  Max: 3
+[09/09/2017 00:54:23]  -> :stable.nictitate.net 266 cryptobot :Current Global Users: 3  Max: 3
+[09/09/2017 00:54:23]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 00:54:25]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 00:54:27]  -> :cryptobot!crypto@local.damian.id.au JOIN :#nerdhacks
+[09/09/2017 00:54:27]  <- MODE #nerdhacks 
+[09/09/2017 00:54:27]  -> :stable.nictitate.net 353 cryptobot = #nerdhacks :damian steven cryptobot 
+[09/09/2017 00:54:27]  <- WHO damian
+[09/09/2017 00:54:27]  <- WHO steven
+[09/09/2017 00:54:27]  <- WHO cryptobot
+[09/09/2017 00:54:27]  -> :stable.nictitate.net 366 cryptobot #nerdhacks :End of /NAMES list.
+[09/09/2017 00:54:28]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.crypto
+[09/09/2017 00:54:28]  <- NOTICE damian :*** Top 15 list of cryptocurrencies (AUD) ***
+[09/09/2017 00:54:28]  <- NOTICE damian :SYM    NAME                MARKET CAP         PRICE(AUD)          SUPPLY     1HR      1D      7D
+[09/09/2017 00:54:28]  <- NOTICE damian :BTC    Bitcoin             $  87,718,214,617  $    5,299       16,552,412   -3.64   -7.28  -10.65
+[09/09/2017 00:54:28]  <- NOTICE damian :ETH    Ethereum            $  34,635,267,464  $      367       94,501,141   -3.73  -10.11  -23.54
+[09/09/2017 00:54:28]  <- NOTICE damian :BCH    Bitcoin Cash        $  12,097,547,920  $      730       16,567,725   -4.39   -9.49   -2.94
+[09/09/2017 00:54:28]  <- NOTICE damian :XRP    Ripple              $  10,064,889,666  $        0   99,994,523,265   -1.61    -5.3  -15.12
+[09/09/2017 00:54:28]  <- NOTICE damian :LTC    Litecoin            $   4,496,516,512  $       85       52,839,357   -3.53  -13.86  -12.72
+[09/09/2017 00:54:28]  <- NOTICE damian :DASH   Dash                $   3,131,405,797  $      415        7,545,242    -2.0   -2.67  -12.38
+[09/09/2017 00:54:28]  <- NOTICE damian :XEM    NEM                 $   3,003,304,003  $        0    8,999,999,999   -3.82   -9.08  -17.42
+[09/09/2017 00:54:28]  <- NOTICE damian :XMR    Monero              $   2,193,229,708  $      146       15,053,628   -1.24   -1.56  -17.15
+[09/09/2017 00:54:28]  <- NOTICE damian :ETC    Ethereum Classic    $   1,814,600,966  $       19       95,317,476   -5.21  -15.03  -19.89
+[09/09/2017 00:54:28]  <- NOTICE damian :MIOTA  IOTA                $   1,801,432,644  $        1    2,779,530,283   -5.78  -24.37  -37.51
+[09/09/2017 00:54:28]  <- NOTICE damian :NEO    NEO                 $   1,593,982,074  $       32      100,000,000   -1.73  -15.59  -18.91
+[09/09/2017 00:54:28]  <- NOTICE damian :OMG    OmiseGO             $   1,411,530,221  $       14      140,245,398   -1.46  -11.26   -4.45
+[09/09/2017 00:54:28]  <- NOTICE damian :BCC    BitConnect          $   1,056,443,713  $      159        7,677,649   -3.23   -6.83   -6.62
+[09/09/2017 00:54:28]  <- NOTICE damian :LSK    Lisk                $     939,687,656  $        8      111,972,300   -3.49   -8.18  -11.51
+[09/09/2017 00:54:28]  <- NOTICE damian :QTUM   Qtum                $     936,601,046  $       16      100,000,000    -3.6    3.82  -26.08
+[09/09/2017 00:54:28]  <- NOTICE damian :*** End of List ***
+[09/09/2017 00:54:29]  -> :stable.nictitate.net 324 cryptobot #nerdhacks +nt
+[09/09/2017 00:54:29]  -> :stable.nictitate.net 329 cryptobot #nerdhacks 1504868540
+[09/09/2017 00:54:30]  -> :stable.nictitate.net 352 cryptobot #opers damian local.damian.id.au stable.nictitate.net damian H*@ :0 damian
+[09/09/2017 00:54:30]  -> :stable.nictitate.net 315 cryptobot damian :End of /WHO list.
+[09/09/2017 00:54:31]  -> :stable.nictitate.net 352 cryptobot #nerdhacks steven CPE-1-122-210-35.wwl9.wel.bigpond.net.au stable.nictitate.net steven H :0 steven
+[09/09/2017 00:54:31]  -> :stable.nictitate.net 315 cryptobot steven :End of /WHO list.
+[09/09/2017 00:54:32]  -> :stable.nictitate.net 352 cryptobot #nerdhacks crypto local.damian.id.au stable.nictitate.net cryptobot H :0 a crypto currency bot
+[09/09/2017 00:54:32]  -> :stable.nictitate.net 315 cryptobot cryptobot :End of /WHO list.
+[09/09/2017 00:55:37]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.die
+[09/09/2017 00:55:37]  <- QUIT :damian said to quit! ()
+[09/09/2017 00:55:37]  -> ERROR :Closing link: (crypto@local.damian.id.au) [Quit: damian said to quit! ()]
+[09/09/2017 00:55:39]  <- NICK cryptobot
+[09/09/2017 00:55:39]  <- USER crypto 0 * :a crypto currency bot
+[09/09/2017 00:55:39]  -> :stable.nictitate.net NOTICE Auth :*** Looking up your hostname...
+[09/09/2017 00:55:39]  -> :stable.nictitate.net NOTICE Auth :*** Found your hostname (local.damian.id.au)
+[09/09/2017 00:55:40]  -> :stable.nictitate.net NOTICE Auth :Welcome to nictitate!
+[09/09/2017 00:55:40]  -> :stable.nictitate.net 001 cryptobot :Welcome to the nictitate IRC Network cryptobot!crypto@local.damian.id.au
+[09/09/2017 00:55:40]  <- PROTOCTL NAMESX
+[09/09/2017 00:55:40]  <- PROTOCTL UHNAMES
+[09/09/2017 00:55:40]  <- JOIN #nerdhacks
+[09/09/2017 00:55:40]  -> :stable.nictitate.net 002 cryptobot :Your host is stable.nictitate.net, running version InspIRCd-2.0
+[09/09/2017 00:55:40]  -> :stable.nictitate.net 003 cryptobot :This server was created 17:21:34 Sep  8 2017
+[09/09/2017 00:55:40]  -> :stable.nictitate.net 004 cryptobot stable.nictitate.net InspIRCd-2.0 iosw biklmnopstv bklov
+[09/09/2017 00:55:40]  -> :stable.nictitate.net 005 cryptobot AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,l,imnpst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 MAXPARA=32 :are supported by this server
+[09/09/2017 00:55:40]  -> :stable.nictitate.net 005 cryptobot MAXTARGETS=20 MODES=20 NETWORK=nictitate NICKLEN=32 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+[09/09/2017 00:55:40]  -> :stable.nictitate.net 042 cryptobot 00AAAAADR :your unique ID
+[09/09/2017 00:55:40]  -> :stable.nictitate.net 375 cryptobot :stable.nictitate.net message of the day
+[09/09/2017 00:55:40]  -> :stable.nictitate.net 376 cryptobot :End of message of the day.
+[09/09/2017 00:55:40]  -> :stable.nictitate.net 251 cryptobot :There are 2 users and 1 invisible on 1 servers
+[09/09/2017 00:55:40]  -> :stable.nictitate.net 252 cryptobot 1 :operator(s) online
+[09/09/2017 00:55:40]  -> :stable.nictitate.net 254 cryptobot 5 :channels formed
+[09/09/2017 00:55:40]  -> :stable.nictitate.net 255 cryptobot :I have 3 clients and 0 servers
+[09/09/2017 00:55:40]  -> :stable.nictitate.net 265 cryptobot :Current Local Users: 3  Max: 3
+[09/09/2017 00:55:40]  -> :stable.nictitate.net 266 cryptobot :Current Global Users: 3  Max: 3
+[09/09/2017 00:55:40]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 00:55:42]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 00:55:44]  -> :cryptobot!crypto@local.damian.id.au JOIN :#nerdhacks
+[09/09/2017 00:55:44]  <- MODE #nerdhacks 
+[09/09/2017 00:55:44]  -> :stable.nictitate.net 353 cryptobot = #nerdhacks :damian steven cryptobot 
+[09/09/2017 00:55:44]  <- WHO damian
+[09/09/2017 00:55:44]  <- WHO steven
+[09/09/2017 00:55:44]  <- WHO cryptobot
+[09/09/2017 00:55:44]  -> :stable.nictitate.net 366 cryptobot #nerdhacks :End of /NAMES list.
+[09/09/2017 00:55:46]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.crypto
+[09/09/2017 00:55:46]  -> :stable.nictitate.net 324 cryptobot #nerdhacks +nt
+[09/09/2017 00:55:46]  -> :stable.nictitate.net 329 cryptobot #nerdhacks 1504868540
+[09/09/2017 00:55:47]  -> :stable.nictitate.net 352 cryptobot #opers damian local.damian.id.au stable.nictitate.net damian H*@ :0 damian
+[09/09/2017 00:55:47]  -> :stable.nictitate.net 315 cryptobot damian :End of /WHO list.
+[09/09/2017 00:55:47]  <- NOTICE damian :*** Top 15 list of cryptocurrencies (AUD) ***
+[09/09/2017 00:55:47]  <- NOTICE damian :SYM    NAME                MARKET CAP         PRICE(AUD)           SUPPLY     1HR      1D      7D
+[09/09/2017 00:55:47]  <- NOTICE damian :BTC    Bitcoin             $  87,523,528,580  $    5,288       16,552,412   -3.56    -7.5  -10.85
+[09/09/2017 00:55:47]  <- NOTICE damian :ETH    Ethereum            $  34,639,232,952  $      367       94,501,141   -2.59  -10.12  -23.52
+[09/09/2017 00:55:47]  <- NOTICE damian :BCH    Bitcoin Cash        $  12,142,737,236  $      733       16,567,725   -3.08   -9.12   -2.61
+[09/09/2017 00:55:47]  <- NOTICE damian :XRP    Ripple              $  10,049,840,815  $        0   99,994,523,265   -1.32   -5.47  -15.24
+[09/09/2017 00:55:47]  <- NOTICE damian :LTC    Litecoin            $   4,427,116,204  $       84       52,839,357   -4.34  -15.19  -14.07
+[09/09/2017 00:55:47]  <- NOTICE damian :DASH   Dash                $   3,101,764,961  $      411        7,545,242   -2.15   -3.62  -13.21
+[09/09/2017 00:55:47]  <- NOTICE damian :XEM    NEM                 $   3,061,041,693  $        0    8,999,999,999   -1.62   -7.34  -15.83
+[09/09/2017 00:55:47]  <- NOTICE damian :XMR    Monero              $   2,203,188,040  $      146       15,053,628   -0.07   -1.09  -16.78
+[09/09/2017 00:55:47]  <- NOTICE damian :ETC    Ethereum Classic    $   1,806,095,630  $       19       95,317,476   -4.62  -15.41  -20.39
+[09/09/2017 00:55:47]  <- NOTICE damian :MIOTA  IOTA                $   1,791,244,186  $        1    2,779,530,283   -4.76  -24.78  -37.82
+[09/09/2017 00:55:47]  <- NOTICE damian :NEO    NEO                 $   1,618,011,675  $       32      100,000,000    1.53   -14.1  -17.66
+[09/09/2017 00:55:47]  <- NOTICE damian :OMG    OmiseGO             $   1,423,408,949  $       14      140,245,398    0.84  -10.55   -3.63
+[09/09/2017 00:55:47]  <- NOTICE damian :BCC    BitConnect          $   1,067,723,231  $      161        7,677,649   -1.64   -5.83   -5.63
+[09/09/2017 00:55:47]  <- NOTICE damian :LSK    Lisk                $     959,898,623  $        9      111,972,300    0.67   -6.14   -9.58
+[09/09/2017 00:55:47]  <- NOTICE damian :QTUM   Qtum                $     955,336,854  $       16      100,000,000   -0.06    5.86  -24.61
+[09/09/2017 00:55:47]  <- NOTICE damian :*** End of List ***
+[09/09/2017 00:55:48]  -> :stable.nictitate.net 352 cryptobot #nerdhacks steven CPE-1-122-210-35.wwl9.wel.bigpond.net.au stable.nictitate.net steven H :0 steven
+[09/09/2017 00:55:48]  -> :stable.nictitate.net 315 cryptobot steven :End of /WHO list.
+[09/09/2017 00:55:49]  -> :stable.nictitate.net 352 cryptobot #nerdhacks crypto local.damian.id.au stable.nictitate.net cryptobot H :0 a crypto currency bot
+[09/09/2017 00:55:49]  -> :stable.nictitate.net 315 cryptobot cryptobot :End of /WHO list.
+[09/09/2017 00:58:08]  -> PING :stable.nictitate.net
+[09/09/2017 00:58:08]  <- PONG :stable.nictitate.net
+[09/09/2017 01:00:09]  -> PING :stable.nictitate.net
+[09/09/2017 01:00:09]  <- PONG :stable.nictitate.net
+[09/09/2017 01:02:10]  -> PING :stable.nictitate.net
+[09/09/2017 01:02:10]  <- PONG :stable.nictitate.net
+[09/09/2017 01:04:11]  -> PING :stable.nictitate.net
+[09/09/2017 01:04:11]  <- PONG :stable.nictitate.net
+[09/09/2017 01:06:12]  -> PING :stable.nictitate.net
+[09/09/2017 01:06:12]  <- PONG :stable.nictitate.net
+[09/09/2017 01:06:56]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :yeah, that's my fault
+[09/09/2017 01:08:13]  -> PING :stable.nictitate.net
+[09/09/2017 01:08:13]  <- PONG :stable.nictitate.net
+[09/09/2017 01:08:45]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.die
+[09/09/2017 01:08:45]  <- QUIT :damian said to quit! ()
+[09/09/2017 01:08:45]  -> ERROR :Closing link: (crypto@local.damian.id.au) [Quit: damian said to quit! ()]
+[09/09/2017 01:09:03]  <- NICK cryptobot
+[09/09/2017 01:09:03]  <- USER crypto 0 * :a crypto currency bot
+[09/09/2017 01:09:03]  -> :stable.nictitate.net NOTICE Auth :*** Looking up your hostname...
+[09/09/2017 01:09:04]  -> :stable.nictitate.net NOTICE Auth :*** Found your hostname (local.damian.id.au)
+[09/09/2017 01:09:05]  -> :stable.nictitate.net NOTICE Auth :Welcome to nictitate!
+[09/09/2017 01:09:05]  -> :stable.nictitate.net 001 cryptobot :Welcome to the nictitate IRC Network cryptobot!crypto@local.damian.id.au
+[09/09/2017 01:09:05]  <- PROTOCTL NAMESX
+[09/09/2017 01:09:05]  <- PROTOCTL UHNAMES
+[09/09/2017 01:09:05]  <- JOIN #nerdhacks
+[09/09/2017 01:09:05]  -> :stable.nictitate.net 002 cryptobot :Your host is stable.nictitate.net, running version InspIRCd-2.0
+[09/09/2017 01:09:05]  -> :stable.nictitate.net 003 cryptobot :This server was created 17:21:34 Sep  8 2017
+[09/09/2017 01:09:05]  -> :stable.nictitate.net 004 cryptobot stable.nictitate.net InspIRCd-2.0 iosw biklmnopstv bklov
+[09/09/2017 01:09:05]  -> :stable.nictitate.net 005 cryptobot AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,l,imnpst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 MAXPARA=32 :are supported by this server
+[09/09/2017 01:09:05]  -> :stable.nictitate.net 005 cryptobot MAXTARGETS=20 MODES=20 NETWORK=nictitate NICKLEN=32 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+[09/09/2017 01:09:05]  -> :stable.nictitate.net 042 cryptobot 00AAAAADS :your unique ID
+[09/09/2017 01:09:05]  -> :stable.nictitate.net 375 cryptobot :stable.nictitate.net message of the day
+[09/09/2017 01:09:05]  -> :stable.nictitate.net 376 cryptobot :End of message of the day.
+[09/09/2017 01:09:05]  -> :stable.nictitate.net 251 cryptobot :There are 2 users and 1 invisible on 1 servers
+[09/09/2017 01:09:05]  -> :stable.nictitate.net 252 cryptobot 1 :operator(s) online
+[09/09/2017 01:09:05]  -> :stable.nictitate.net 254 cryptobot 5 :channels formed
+[09/09/2017 01:09:05]  -> :stable.nictitate.net 255 cryptobot :I have 3 clients and 0 servers
+[09/09/2017 01:09:05]  -> :stable.nictitate.net 265 cryptobot :Current Local Users: 3  Max: 3
+[09/09/2017 01:09:05]  -> :stable.nictitate.net 266 cryptobot :Current Global Users: 3  Max: 3
+[09/09/2017 01:09:05]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 01:09:07]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 01:09:09]  -> :cryptobot!crypto@local.damian.id.au JOIN :#nerdhacks
+[09/09/2017 01:09:09]  <- MODE #nerdhacks 
+[09/09/2017 01:09:09]  -> :stable.nictitate.net 353 cryptobot = #nerdhacks :damian steven cryptobot 
+[09/09/2017 01:09:09]  <- WHO damian
+[09/09/2017 01:09:09]  <- WHO steven
+[09/09/2017 01:09:09]  <- WHO cryptobot
+[09/09/2017 01:09:09]  -> :stable.nictitate.net 366 cryptobot #nerdhacks :End of /NAMES list.
+[09/09/2017 01:09:10]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.die
+[09/09/2017 01:09:10]  <- QUIT :damian said to quit! ()
+[09/09/2017 01:09:11]  -> :stable.nictitate.net 324 cryptobot #nerdhacks +nt
+[09/09/2017 01:09:11]  -> :stable.nictitate.net 329 cryptobot #nerdhacks 1504868540
+[09/09/2017 01:09:12]  -> :stable.nictitate.net 352 cryptobot #opers damian local.damian.id.au stable.nictitate.net damian H*@ :0 damian
+[09/09/2017 01:09:12]  -> :stable.nictitate.net 315 cryptobot damian :End of /WHO list.
+[09/09/2017 01:09:13]  -> :stable.nictitate.net 352 cryptobot #nerdhacks steven CPE-1-122-210-35.wwl9.wel.bigpond.net.au stable.nictitate.net steven H :0 steven
+[09/09/2017 01:09:13]  -> :stable.nictitate.net 315 cryptobot steven :End of /WHO list.
+[09/09/2017 01:09:14]  -> :stable.nictitate.net 352 cryptobot #nerdhacks crypto local.damian.id.au stable.nictitate.net cryptobot H :0 a crypto currency bot
+[09/09/2017 01:09:14]  -> :stable.nictitate.net 315 cryptobot cryptobot :End of /WHO list.
+[09/09/2017 01:09:15]  -> ERROR :Closing link: (crypto@local.damian.id.au) [Quit: damian said to quit! ()]
+[09/09/2017 01:09:21]  <- NICK cryptobot
+[09/09/2017 01:09:21]  <- USER crypto 0 * :a crypto currency bot
+[09/09/2017 01:09:21]  -> :stable.nictitate.net NOTICE Auth :*** Looking up your hostname...
+[09/09/2017 01:09:21]  -> :stable.nictitate.net NOTICE Auth :*** Found your hostname (local.damian.id.au) -- cached
+[09/09/2017 01:09:22]  -> :stable.nictitate.net NOTICE Auth :Welcome to nictitate!
+[09/09/2017 01:09:22]  -> :stable.nictitate.net 001 cryptobot :Welcome to the nictitate IRC Network cryptobot!crypto@local.damian.id.au
+[09/09/2017 01:09:22]  <- PROTOCTL NAMESX
+[09/09/2017 01:09:22]  <- PROTOCTL UHNAMES
+[09/09/2017 01:09:22]  <- JOIN #nerdhacks
+[09/09/2017 01:09:22]  -> :stable.nictitate.net 002 cryptobot :Your host is stable.nictitate.net, running version InspIRCd-2.0
+[09/09/2017 01:09:22]  -> :stable.nictitate.net 003 cryptobot :This server was created 17:21:34 Sep  8 2017
+[09/09/2017 01:09:22]  -> :stable.nictitate.net 004 cryptobot stable.nictitate.net InspIRCd-2.0 iosw biklmnopstv bklov
+[09/09/2017 01:09:22]  -> :stable.nictitate.net 005 cryptobot AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,l,imnpst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 MAXPARA=32 :are supported by this server
+[09/09/2017 01:09:22]  -> :stable.nictitate.net 005 cryptobot MAXTARGETS=20 MODES=20 NETWORK=nictitate NICKLEN=32 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+[09/09/2017 01:09:22]  -> :stable.nictitate.net 042 cryptobot 00AAAAADT :your unique ID
+[09/09/2017 01:09:22]  -> :stable.nictitate.net 375 cryptobot :stable.nictitate.net message of the day
+[09/09/2017 01:09:22]  -> :stable.nictitate.net 376 cryptobot :End of message of the day.
+[09/09/2017 01:09:22]  -> :stable.nictitate.net 251 cryptobot :There are 2 users and 1 invisible on 1 servers
+[09/09/2017 01:09:22]  -> :stable.nictitate.net 252 cryptobot 1 :operator(s) online
+[09/09/2017 01:09:22]  -> :stable.nictitate.net 254 cryptobot 5 :channels formed
+[09/09/2017 01:09:22]  -> :stable.nictitate.net 255 cryptobot :I have 3 clients and 0 servers
+[09/09/2017 01:09:22]  -> :stable.nictitate.net 265 cryptobot :Current Local Users: 3  Max: 3
+[09/09/2017 01:09:22]  -> :stable.nictitate.net 266 cryptobot :Current Global Users: 3  Max: 3
+[09/09/2017 01:09:22]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 01:09:24]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 01:09:26]  -> :cryptobot!crypto@local.damian.id.au JOIN :#nerdhacks
+[09/09/2017 01:09:26]  <- MODE #nerdhacks 
+[09/09/2017 01:09:26]  -> :stable.nictitate.net 353 cryptobot = #nerdhacks :damian steven cryptobot 
+[09/09/2017 01:09:26]  <- WHO damian
+[09/09/2017 01:09:26]  <- WHO steven
+[09/09/2017 01:09:26]  <- WHO cryptobot
+[09/09/2017 01:09:26]  -> :stable.nictitate.net 366 cryptobot #nerdhacks :End of /NAMES list.
+[09/09/2017 01:09:28]  -> :stable.nictitate.net 324 cryptobot #nerdhacks +nt
+[09/09/2017 01:09:28]  -> :stable.nictitate.net 329 cryptobot #nerdhacks 1504868540
+[09/09/2017 01:09:29]  -> :stable.nictitate.net 352 cryptobot #opers damian local.damian.id.au stable.nictitate.net damian H*@ :0 damian
+[09/09/2017 01:09:29]  -> :stable.nictitate.net 315 cryptobot damian :End of /WHO list.
+[09/09/2017 01:09:30]  -> :stable.nictitate.net 352 cryptobot #nerdhacks steven CPE-1-122-210-35.wwl9.wel.bigpond.net.au stable.nictitate.net steven H :0 steven
+[09/09/2017 01:09:30]  -> :stable.nictitate.net 315 cryptobot steven :End of /WHO list.
+[09/09/2017 01:09:31]  -> :stable.nictitate.net 352 cryptobot #nerdhacks crypto local.damian.id.au stable.nictitate.net cryptobot H :0 a crypto currency bot
+[09/09/2017 01:09:31]  -> :stable.nictitate.net 315 cryptobot cryptobot :End of /WHO list.
+[09/09/2017 01:09:33]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.crypto
+[09/09/2017 01:09:35]  <- NOTICE damian :*** Top 15 list of cryptocurrencies (AUD) ***
+[09/09/2017 01:09:35]  <- NOTICE damian :SYM    NAME                MARKET CAP         PRICE(AUD)           SUPPLY     1HR      1D      7D
+[09/09/2017 01:09:35]  <- NOTICE damian :BTC    Bitcoin             $  87,763,022,518  $  5302.12       16,552,425   -1.83   -7.26  -10.64
+[09/09/2017 01:09:35]  <- NOTICE damian :ETH    Ethereum            $  34,475,222,154  $   364.81       94,501,388    -1.3  -10.56  -23.88
+[09/09/2017 01:09:35]  <- NOTICE damian :BCH    Bitcoin Cash        $  12,115,039,805  $   731.24       16,567,738   -1.42   -9.27   -2.91
+[09/09/2017 01:09:35]  <- NOTICE damian :XRP    Ripple              $  10,036,164,343  $     0.26   99,994,523,265    0.77    -5.7  -15.35
+[09/09/2017 01:09:35]  <- NOTICE damian :LTC    Litecoin            $   4,431,223,501  $    83.86       52,839,732   -0.62  -15.13  -14.26
+[09/09/2017 01:09:35]  <- NOTICE damian :DASH   Dash                $   3,089,444,417  $   409.45        7,545,264   -0.07   -4.03  -13.58
+[09/09/2017 01:09:35]  <- NOTICE damian :XEM    NEM                 $   3,020,121,022  $     0.34    8,999,999,999   -0.87   -8.64  -16.94
+[09/09/2017 01:09:35]  <- NOTICE damian :XMR    Monero              $   2,201,892,227  $   146.27       15,053,661    1.61   -1.13  -16.88
+[09/09/2017 01:09:35]  <- NOTICE damian :MIOTA  IOTA                $   1,891,818,335  $     0.68    2,779,530,283     2.9  -20.54  -34.26
+[09/09/2017 01:09:35]  <- NOTICE damian :ETC    Ethereum Classic    $   1,812,160,927  $    19.01       95,317,837   -1.51  -15.11  -20.38
+[09/09/2017 01:09:35]  <- NOTICE damian :NEO    NEO                 $   1,616,802,173  $    32.34      100,000,000    6.43  -13.77  -17.68
+[09/09/2017 01:09:35]  <- NOTICE damian :OMG    OmiseGO             $   1,398,972,015  $    14.23      140,245,398    1.09  -12.01   -5.25
+[09/09/2017 01:09:35]  <- NOTICE damian :BCC    BitConnect          $   1,062,224,738  $   159.81        7,677,840   -1.38   -6.31   -6.15
+[09/09/2017 01:09:35]  <- NOTICE damian :QTUM   Qtum                $     975,543,564  $    16.53      100,000,000    3.39    8.05  -23.04
+[09/09/2017 01:09:35]  <- NOTICE damian :LSK    Lisk                $     966,024,440  $     8.63      111,972,900    4.09   -5.41   -8.96
+[09/09/2017 01:09:35]  <- NOTICE damian :*** End of List ***
+[09/09/2017 01:11:52]  -> PING :stable.nictitate.net
+[09/09/2017 01:11:52]  <- PONG :stable.nictitate.net
+[09/09/2017 01:12:51]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.die
+[09/09/2017 01:12:51]  <- QUIT :damian said to quit! ()
+[09/09/2017 01:12:51]  -> ERROR :Closing link: (crypto@local.damian.id.au) [Quit: damian said to quit! ()]
+[09/09/2017 01:12:53]  <- NICK cryptobot
+[09/09/2017 01:12:53]  <- USER crypto 0 * :a crypto currency bot
+[09/09/2017 01:12:53]  -> :stable.nictitate.net NOTICE Auth :*** Looking up your hostname...
+[09/09/2017 01:12:53]  -> :stable.nictitate.net NOTICE Auth :*** Found your hostname (local.damian.id.au) -- cached
+[09/09/2017 01:12:54]  -> :stable.nictitate.net NOTICE Auth :Welcome to nictitate!
+[09/09/2017 01:12:54]  -> :stable.nictitate.net 001 cryptobot :Welcome to the nictitate IRC Network cryptobot!crypto@local.damian.id.au
+[09/09/2017 01:12:54]  <- PROTOCTL NAMESX
+[09/09/2017 01:12:54]  <- PROTOCTL UHNAMES
+[09/09/2017 01:12:54]  <- JOIN #nerdhacks
+[09/09/2017 01:12:54]  -> :stable.nictitate.net 002 cryptobot :Your host is stable.nictitate.net, running version InspIRCd-2.0
+[09/09/2017 01:12:54]  -> :stable.nictitate.net 003 cryptobot :This server was created 17:21:34 Sep  8 2017
+[09/09/2017 01:12:54]  -> :stable.nictitate.net 004 cryptobot stable.nictitate.net InspIRCd-2.0 iosw biklmnopstv bklov
+[09/09/2017 01:12:54]  -> :stable.nictitate.net 005 cryptobot AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,l,imnpst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 MAXPARA=32 :are supported by this server
+[09/09/2017 01:12:54]  -> :stable.nictitate.net 005 cryptobot MAXTARGETS=20 MODES=20 NETWORK=nictitate NICKLEN=32 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+[09/09/2017 01:12:54]  -> :stable.nictitate.net 042 cryptobot 00AAAAADU :your unique ID
+[09/09/2017 01:12:54]  -> :stable.nictitate.net 375 cryptobot :stable.nictitate.net message of the day
+[09/09/2017 01:12:54]  -> :stable.nictitate.net 376 cryptobot :End of message of the day.
+[09/09/2017 01:12:54]  -> :stable.nictitate.net 251 cryptobot :There are 2 users and 1 invisible on 1 servers
+[09/09/2017 01:12:54]  -> :stable.nictitate.net 252 cryptobot 1 :operator(s) online
+[09/09/2017 01:12:54]  -> :stable.nictitate.net 254 cryptobot 5 :channels formed
+[09/09/2017 01:12:54]  -> :stable.nictitate.net 255 cryptobot :I have 3 clients and 0 servers
+[09/09/2017 01:12:54]  -> :stable.nictitate.net 265 cryptobot :Current Local Users: 3  Max: 3
+[09/09/2017 01:12:54]  -> :stable.nictitate.net 266 cryptobot :Current Global Users: 3  Max: 3
+[09/09/2017 01:12:54]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 01:12:56]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 01:12:58]  -> :cryptobot!crypto@local.damian.id.au JOIN :#nerdhacks
+[09/09/2017 01:12:58]  <- MODE #nerdhacks 
+[09/09/2017 01:12:58]  -> :stable.nictitate.net 353 cryptobot = #nerdhacks :damian steven cryptobot 
+[09/09/2017 01:12:58]  <- WHO damian
+[09/09/2017 01:12:58]  <- WHO steven
+[09/09/2017 01:12:58]  <- WHO cryptobot
+[09/09/2017 01:12:58]  -> :stable.nictitate.net 366 cryptobot #nerdhacks :End of /NAMES list.
+[09/09/2017 01:12:58]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.crypto
+[09/09/2017 01:12:59]  <- NOTICE damian :*** Top 15 list of cryptocurrencies (AUD) ***
+[09/09/2017 01:12:59]  <- NOTICE damian :SYM    NAME                MARKET CAP         PRICE(AUD)           SUPPLY     1HR      1D      7D
+[09/09/2017 01:12:59]  <- NOTICE damian :BTC    Bitcoin             $  87,731,357,923  $ 5,300.2100       16,552,425    -1.1   -7.29  -10.68
+[09/09/2017 01:12:59]  <- NOTICE damian :ETH    Ethereum            $  34,385,415,291  $ 363.8600       94,501,388   -0.74   -10.8  -24.07
+[09/09/2017 01:12:59]  <- NOTICE damian :BCH    Bitcoin Cash        $  12,050,650,093  $ 727.3600       16,567,738    0.09   -9.75   -3.45
+[09/09/2017 01:12:59]  <- NOTICE damian :XRP    Ripple              $  10,036,164,343  $   0.2600   99,994,523,265    0.77    -5.7  -15.35
+[09/09/2017 01:12:59]  <- NOTICE damian :LTC    Litecoin            $   4,431,223,501  $  83.8600       52,839,732   -0.62  -15.13  -14.26
+[09/09/2017 01:12:59]  <- NOTICE damian :DASH   Dash                $   3,089,444,417  $ 409.4500        7,545,264   -0.07   -4.03  -13.58
+[09/09/2017 01:12:59]  <- NOTICE damian :XEM    NEM                 $   3,020,121,022  $   0.3400    8,999,999,999   -0.87   -8.64  -16.94
+[09/09/2017 01:12:59]  <- NOTICE damian :XMR    Monero              $   2,201,892,227  $ 146.2700       15,053,661    1.61   -1.13  -16.88
+[09/09/2017 01:12:59]  <- NOTICE damian :MIOTA  IOTA                $   1,845,692,405  $   0.6600    2,779,530,283    1.85  -22.45  -35.82
+[09/09/2017 01:12:59]  <- NOTICE damian :ETC    Ethereum Classic    $   1,804,749,611  $  18.9300       95,317,837   -0.52  -15.42  -20.79
+[09/09/2017 01:12:59]  <- NOTICE damian :NEO    NEO                 $   1,543,750,703  $  30.8800      100,000,000    1.62  -17.53  -21.37
+[09/09/2017 01:12:59]  <- NOTICE damian :OMG    OmiseGO             $   1,408,957,912  $  14.3300      140,245,398    3.64  -11.36   -4.55
+[09/09/2017 01:12:59]  <- NOTICE damian :BCC    BitConnect          $   1,061,822,765  $ 159.7500        7,677,840   -0.72   -6.33    -6.2
+[09/09/2017 01:12:59]  <- NOTICE damian :LSK    Lisk                $     951,471,084  $   8.5000      111,972,900     4.9   -6.78   -10.3
+[09/09/2017 01:12:59]  <- NOTICE damian :QTUM   Qtum                $     948,208,072  $  16.0700      100,000,000    2.21    4.74   -25.2
+[09/09/2017 01:12:59]  <- NOTICE damian :*** End of List ***
+[09/09/2017 01:13:00]  -> :stable.nictitate.net 324 cryptobot #nerdhacks +nt
+[09/09/2017 01:13:00]  -> :stable.nictitate.net 329 cryptobot #nerdhacks 1504868540
+[09/09/2017 01:13:01]  -> :stable.nictitate.net 352 cryptobot #opers damian local.damian.id.au stable.nictitate.net damian H*@ :0 damian
+[09/09/2017 01:13:01]  -> :stable.nictitate.net 315 cryptobot damian :End of /WHO list.
+[09/09/2017 01:15:54]  <- NICK cryptobot
+[09/09/2017 01:15:54]  <- USER crypto 0 * :a crypto currency bot
+[09/09/2017 01:15:54]  -> :stable.nictitate.net NOTICE Auth :*** Looking up your hostname...
+[09/09/2017 01:15:54]  -> :stable.nictitate.net NOTICE Auth :*** Found your hostname (local.damian.id.au)
+[09/09/2017 01:15:55]  -> :stable.nictitate.net NOTICE Auth :Welcome to nictitate!
+[09/09/2017 01:15:55]  -> :stable.nictitate.net 001 cryptobot :Welcome to the nictitate IRC Network cryptobot!crypto@local.damian.id.au
+[09/09/2017 01:15:55]  <- PROTOCTL NAMESX
+[09/09/2017 01:15:55]  <- PROTOCTL UHNAMES
+[09/09/2017 01:15:55]  <- JOIN #nerdhacks
+[09/09/2017 01:15:55]  -> :stable.nictitate.net 002 cryptobot :Your host is stable.nictitate.net, running version InspIRCd-2.0
+[09/09/2017 01:15:55]  -> :stable.nictitate.net 003 cryptobot :This server was created 17:21:34 Sep  8 2017
+[09/09/2017 01:15:55]  -> :stable.nictitate.net 004 cryptobot stable.nictitate.net InspIRCd-2.0 iosw biklmnopstv bklov
+[09/09/2017 01:15:55]  -> :stable.nictitate.net 005 cryptobot AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,l,imnpst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 MAXPARA=32 :are supported by this server
+[09/09/2017 01:15:55]  -> :stable.nictitate.net 005 cryptobot MAXTARGETS=20 MODES=20 NETWORK=nictitate NICKLEN=32 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+[09/09/2017 01:15:55]  -> :stable.nictitate.net 042 cryptobot 00AAAAADV :your unique ID
+[09/09/2017 01:15:55]  -> :stable.nictitate.net 375 cryptobot :stable.nictitate.net message of the day
+[09/09/2017 01:15:55]  -> :stable.nictitate.net 376 cryptobot :End of message of the day.
+[09/09/2017 01:15:55]  -> :stable.nictitate.net 251 cryptobot :There are 2 users and 1 invisible on 1 servers
+[09/09/2017 01:15:55]  -> :stable.nictitate.net 252 cryptobot 1 :operator(s) online
+[09/09/2017 01:15:55]  -> :stable.nictitate.net 254 cryptobot 5 :channels formed
+[09/09/2017 01:15:55]  -> :stable.nictitate.net 255 cryptobot :I have 3 clients and 0 servers
+[09/09/2017 01:15:55]  -> :stable.nictitate.net 265 cryptobot :Current Local Users: 3  Max: 3
+[09/09/2017 01:15:55]  -> :stable.nictitate.net 266 cryptobot :Current Global Users: 3  Max: 3
+[09/09/2017 01:15:55]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 01:15:57]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 01:15:59]  -> :cryptobot!crypto@local.damian.id.au JOIN :#nerdhacks
+[09/09/2017 01:15:59]  <- MODE #nerdhacks 
+[09/09/2017 01:15:59]  -> :stable.nictitate.net 353 cryptobot = #nerdhacks :damian steven cryptobot 
+[09/09/2017 01:15:59]  <- WHO damian
+[09/09/2017 01:15:59]  <- WHO steven
+[09/09/2017 01:15:59]  <- WHO cryptobot
+[09/09/2017 01:15:59]  -> :stable.nictitate.net 366 cryptobot #nerdhacks :End of /NAMES list.
+[09/09/2017 01:16:00]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.crypto
+[09/09/2017 01:16:01]  <- NOTICE damian :*** Top 15 list of cryptocurrencies (AUD) ***
+[09/09/2017 01:16:01]  <- NOTICE damian :SYM    NAME                MARKET CAP         PRICE(AUD)           SUPPLY     1HR      1D      7D
+[09/09/2017 01:16:01]  <- NOTICE damian :BTC    Bitcoin             $  87,030,651,071  $ 5,257.8800       16,552,425   -1.89   -8.03  -11.41
+[09/09/2017 01:16:01]  -> :stable.nictitate.net 324 cryptobot #nerdhacks +nt
+[09/09/2017 01:16:01]  <- NOTICE damian :ETH    Ethereum            $  33,837,943,318  $ 358.0682       94,501,388   -1.89  -12.23  -25.28
+[09/09/2017 01:16:01]  -> :stable.nictitate.net 329 cryptobot #nerdhacks 1504868540
+[09/09/2017 01:16:01]  <- NOTICE damian :BCH    Bitcoin Cash        $  11,773,154,768  $ 710.6073       16,567,738   -2.21  -11.82   -5.71
+[09/09/2017 01:16:01]  <- NOTICE damian :XRP    Ripple              $   9,863,575,783  $   0.2572   99,994,523,265    0.02   -7.36   -16.8
+[09/09/2017 01:16:01]  <- NOTICE damian :LTC    Litecoin            $   4,320,940,008  $  81.7744       52,839,732   -1.06  -17.24  -16.57
+[09/09/2017 01:16:01]  <- NOTICE damian :DASH   Dash                $   3,042,007,769  $ 403.1678        7,545,264   -1.12   -5.52  -14.92
+[09/09/2017 01:16:01]  <- NOTICE damian :XEM    NEM                 $   2,952,875,164  $   0.3281    8,999,999,999   -1.99  -10.69  -18.79
+[09/09/2017 01:16:01]  <- NOTICE damian :XMR    Monero              $   2,164,325,454  $ 143.7740       15,053,661    0.15   -2.81  -18.32
+[09/09/2017 01:16:01]  <- NOTICE damian :ETC    Ethereum Classic    $   1,772,928,007  $  18.6002       95,317,837   -2.27  -16.89  -22.31
+[09/09/2017 01:16:01]  <- NOTICE damian :MIOTA  IOTA                $   1,770,702,607  $   0.6371    2,779,530,283   -2.29  -25.59  -38.39
+[09/09/2017 01:16:01]  <- NOTICE damian :NEO    NEO                 $   1,513,864,889  $  30.2773      100,000,000    0.69  -19.04  -22.86
+[09/09/2017 01:16:01]  <- NOTICE damian :OMG    OmiseGO             $   1,365,701,869  $  13.8915      140,245,398    0.46  -14.02   -7.46
+[09/09/2017 01:16:01]  <- NOTICE damian :BCC    BitConnect          $   1,053,405,953  $ 158.4806        7,677,840   -1.24   -7.07   -6.96
+[09/09/2017 01:16:01]  <- NOTICE damian :LSK    Lisk                $     925,833,076  $   8.2684      111,972,900    2.08   -9.28  -12.71
+[09/09/2017 01:16:01]  <- NOTICE damian :QTUM   Qtum                $     911,107,824  $  15.4425      100,000,000   -1.79     0.5  -28.14
+[09/09/2017 01:16:01]  <- NOTICE damian :*** End of List ***
+[09/09/2017 01:16:02]  -> :stable.nictitate.net 352 cryptobot #opers damian local.damian.id.au stable.nictitate.net damian H*@ :0 damian
+[09/09/2017 01:16:02]  -> :stable.nictitate.net 315 cryptobot damian :End of /WHO list.
+[09/09/2017 01:16:03]  -> :stable.nictitate.net 352 cryptobot #nerdhacks steven CPE-1-122-210-35.wwl9.wel.bigpond.net.au stable.nictitate.net steven H :0 steven
+[09/09/2017 01:16:03]  -> :stable.nictitate.net 315 cryptobot steven :End of /WHO list.
+[09/09/2017 01:16:04]  -> :stable.nictitate.net 352 cryptobot #nerdhacks crypto local.damian.id.au stable.nictitate.net cryptobot H :0 a crypto currency bot
+[09/09/2017 01:16:04]  -> :stable.nictitate.net 315 cryptobot cryptobot :End of /WHO list.
+[09/09/2017 01:17:01]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.die
+[09/09/2017 01:17:01]  <- QUIT :damian said to quit! ()
+[09/09/2017 01:17:01]  -> ERROR :Closing link: (crypto@local.damian.id.au) [Quit: damian said to quit! ()]
+[09/09/2017 01:17:04]  <- NICK cryptobot
+[09/09/2017 01:17:04]  <- USER crypto 0 * :a crypto currency bot
+[09/09/2017 01:17:04]  -> :stable.nictitate.net NOTICE Auth :*** Looking up your hostname...
+[09/09/2017 01:17:05]  -> :stable.nictitate.net NOTICE Auth :*** Found your hostname (local.damian.id.au) -- cached
+[09/09/2017 01:17:06]  -> :stable.nictitate.net NOTICE Auth :Welcome to nictitate!
+[09/09/2017 01:17:06]  -> :stable.nictitate.net 001 cryptobot :Welcome to the nictitate IRC Network cryptobot!crypto@local.damian.id.au
+[09/09/2017 01:17:06]  <- PROTOCTL NAMESX
+[09/09/2017 01:17:06]  <- PROTOCTL UHNAMES
+[09/09/2017 01:17:06]  <- JOIN #nerdhacks
+[09/09/2017 01:17:06]  -> :stable.nictitate.net 002 cryptobot :Your host is stable.nictitate.net, running version InspIRCd-2.0
+[09/09/2017 01:17:06]  -> :stable.nictitate.net 003 cryptobot :This server was created 17:21:34 Sep  8 2017
+[09/09/2017 01:17:06]  -> :stable.nictitate.net 004 cryptobot stable.nictitate.net InspIRCd-2.0 iosw biklmnopstv bklov
+[09/09/2017 01:17:06]  -> :stable.nictitate.net 005 cryptobot AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,l,imnpst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 MAXPARA=32 :are supported by this server
+[09/09/2017 01:17:06]  -> :stable.nictitate.net 005 cryptobot MAXTARGETS=20 MODES=20 NETWORK=nictitate NICKLEN=32 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+[09/09/2017 01:17:06]  -> :stable.nictitate.net 042 cryptobot 00AAAAADW :your unique ID
+[09/09/2017 01:17:06]  -> :stable.nictitate.net 375 cryptobot :stable.nictitate.net message of the day
+[09/09/2017 01:17:06]  -> :stable.nictitate.net 376 cryptobot :End of message of the day.
+[09/09/2017 01:17:06]  -> :stable.nictitate.net 251 cryptobot :There are 2 users and 1 invisible on 1 servers
+[09/09/2017 01:17:06]  -> :stable.nictitate.net 252 cryptobot 1 :operator(s) online
+[09/09/2017 01:17:06]  -> :stable.nictitate.net 254 cryptobot 5 :channels formed
+[09/09/2017 01:17:06]  -> :stable.nictitate.net 255 cryptobot :I have 3 clients and 0 servers
+[09/09/2017 01:17:06]  -> :stable.nictitate.net 265 cryptobot :Current Local Users: 3  Max: 3
+[09/09/2017 01:17:06]  -> :stable.nictitate.net 266 cryptobot :Current Global Users: 3  Max: 3
+[09/09/2017 01:17:06]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 01:17:08]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 01:17:10]  -> :cryptobot!crypto@local.damian.id.au JOIN :#nerdhacks
+[09/09/2017 01:17:10]  <- MODE #nerdhacks 
+[09/09/2017 01:17:10]  -> :stable.nictitate.net 353 cryptobot = #nerdhacks :damian steven cryptobot 
+[09/09/2017 01:17:10]  <- WHO damian
+[09/09/2017 01:17:10]  <- WHO steven
+[09/09/2017 01:17:10]  <- WHO cryptobot
+[09/09/2017 01:17:10]  -> :stable.nictitate.net 366 cryptobot #nerdhacks :End of /NAMES list.
+[09/09/2017 01:17:12]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.crypto
+[09/09/2017 01:17:12]  -> :stable.nictitate.net 324 cryptobot #nerdhacks +nt
+[09/09/2017 01:17:12]  -> :stable.nictitate.net 329 cryptobot #nerdhacks 1504868540
+[09/09/2017 01:17:13]  <- NOTICE damian :*** Top 15 list of cryptocurrencies (AUD) ***
+[09/09/2017 01:17:13]  <- NOTICE damian :SYM    NAME                MARKET CAP         PRICE(AUD)           SUPPLY     1HR      1D      7D
+[09/09/2017 01:17:13]  -> :stable.nictitate.net 352 cryptobot #opers damian local.damian.id.au stable.nictitate.net damian H*@ :0 damian
+[09/09/2017 01:17:13]  -> :stable.nictitate.net 315 cryptobot damian :End of /WHO list.
+[09/09/2017 01:17:14]  -> :stable.nictitate.net 352 cryptobot #nerdhacks steven CPE-1-122-210-35.wwl9.wel.bigpond.net.au stable.nictitate.net steven H :0 steven
+[09/09/2017 01:17:14]  -> :stable.nictitate.net 315 cryptobot steven :End of /WHO list.
+[09/09/2017 01:17:15]  -> :stable.nictitate.net 352 cryptobot #nerdhacks crypto local.damian.id.au stable.nictitate.net cryptobot H :0 a crypto currency bot
+[09/09/2017 01:17:15]  -> :stable.nictitate.net 315 cryptobot cryptobot :End of /WHO list.
+[09/09/2017 01:17:42]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.die
+[09/09/2017 01:17:42]  <- QUIT :damian said to quit! ()
+[09/09/2017 01:17:42]  -> ERROR :Closing link: (crypto@local.damian.id.au) [Quit: damian said to quit! ()]
+[09/09/2017 01:17:44]  <- NICK cryptobot
+[09/09/2017 01:17:44]  <- USER crypto 0 * :a crypto currency bot
+[09/09/2017 01:17:44]  -> :stable.nictitate.net NOTICE Auth :*** Looking up your hostname...
+[09/09/2017 01:17:44]  -> :stable.nictitate.net NOTICE Auth :*** Found your hostname (local.damian.id.au) -- cached
+[09/09/2017 01:17:45]  -> :stable.nictitate.net NOTICE Auth :Welcome to nictitate!
+[09/09/2017 01:17:45]  -> :stable.nictitate.net 001 cryptobot :Welcome to the nictitate IRC Network cryptobot!crypto@local.damian.id.au
+[09/09/2017 01:17:45]  <- PROTOCTL NAMESX
+[09/09/2017 01:17:45]  <- PROTOCTL UHNAMES
+[09/09/2017 01:17:45]  <- JOIN #nerdhacks
+[09/09/2017 01:17:45]  -> :stable.nictitate.net 002 cryptobot :Your host is stable.nictitate.net, running version InspIRCd-2.0
+[09/09/2017 01:17:45]  -> :stable.nictitate.net 003 cryptobot :This server was created 17:21:34 Sep  8 2017
+[09/09/2017 01:17:45]  -> :stable.nictitate.net 004 cryptobot stable.nictitate.net InspIRCd-2.0 iosw biklmnopstv bklov
+[09/09/2017 01:17:45]  -> :stable.nictitate.net 005 cryptobot AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,l,imnpst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 MAXPARA=32 :are supported by this server
+[09/09/2017 01:17:45]  -> :stable.nictitate.net 005 cryptobot MAXTARGETS=20 MODES=20 NETWORK=nictitate NICKLEN=32 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+[09/09/2017 01:17:45]  -> :stable.nictitate.net 042 cryptobot 00AAAAADX :your unique ID
+[09/09/2017 01:17:45]  -> :stable.nictitate.net 375 cryptobot :stable.nictitate.net message of the day
+[09/09/2017 01:17:45]  -> :stable.nictitate.net 376 cryptobot :End of message of the day.
+[09/09/2017 01:17:45]  -> :stable.nictitate.net 251 cryptobot :There are 2 users and 1 invisible on 1 servers
+[09/09/2017 01:17:45]  -> :stable.nictitate.net 252 cryptobot 1 :operator(s) online
+[09/09/2017 01:17:45]  -> :stable.nictitate.net 254 cryptobot 5 :channels formed
+[09/09/2017 01:17:45]  -> :stable.nictitate.net 255 cryptobot :I have 3 clients and 0 servers
+[09/09/2017 01:17:45]  -> :stable.nictitate.net 265 cryptobot :Current Local Users: 3  Max: 3
+[09/09/2017 01:17:45]  -> :stable.nictitate.net 266 cryptobot :Current Global Users: 3  Max: 3
+[09/09/2017 01:17:45]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 01:17:47]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 01:17:49]  -> :cryptobot!crypto@local.damian.id.au JOIN :#nerdhacks
+[09/09/2017 01:17:49]  <- MODE #nerdhacks 
+[09/09/2017 01:17:49]  -> :stable.nictitate.net 353 cryptobot = #nerdhacks :damian steven cryptobot 
+[09/09/2017 01:17:49]  <- WHO damian
+[09/09/2017 01:17:49]  <- WHO steven
+[09/09/2017 01:17:49]  <- WHO cryptobot
+[09/09/2017 01:17:49]  -> :stable.nictitate.net 366 cryptobot #nerdhacks :End of /NAMES list.
+[09/09/2017 01:17:51]  -> :stable.nictitate.net 324 cryptobot #nerdhacks +nt
+[09/09/2017 01:17:51]  -> :stable.nictitate.net 329 cryptobot #nerdhacks 1504868540
+[09/09/2017 01:17:52]  -> :stable.nictitate.net 352 cryptobot #opers damian local.damian.id.au stable.nictitate.net damian H*@ :0 damian
+[09/09/2017 01:17:52]  -> :stable.nictitate.net 315 cryptobot damian :End of /WHO list.
+[09/09/2017 01:17:53]  -> :stable.nictitate.net 352 cryptobot #nerdhacks steven CPE-1-122-210-35.wwl9.wel.bigpond.net.au stable.nictitate.net steven H :0 steven
+[09/09/2017 01:17:53]  -> :stable.nictitate.net 315 cryptobot steven :End of /WHO list.
+[09/09/2017 01:17:54]  -> :stable.nictitate.net 352 cryptobot #nerdhacks crypto local.damian.id.au stable.nictitate.net cryptobot H :0 a crypto currency bot
+[09/09/2017 01:17:54]  -> :stable.nictitate.net 315 cryptobot cryptobot :End of /WHO list.
+[09/09/2017 01:19:55]  -> PING :stable.nictitate.net
+[09/09/2017 01:19:55]  <- PONG :stable.nictitate.net
+[09/09/2017 01:20:23]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.crypto
+[09/09/2017 01:20:23]  <- NOTICE damian :*** Top 15 list of cryptocurrencies (AUD) ***
+[09/09/2017 01:20:23]  <- NOTICE damian :SYM    NAME                MARKET CAP         PRICE(AUD)           SUPPLY     1HR      1D      7D
+[09/09/2017 01:20:23]  <- NOTICE damian :BTC    Bitcoin             $  86,716,252,282  $ 5,238.8900       16,552,425   -0.99   -8.36  -11.74
+[09/09/2017 01:20:23]  <- NOTICE damian :ETH    Ethereum            $  34,071,074,402  $ 360.5341       94,501,665   -0.46  -11.63  -24.76
+[09/09/2017 01:20:23]  <- NOTICE damian :BCH    Bitcoin Cash        $  11,773,154,768  $ 710.6073       16,567,738   -2.21  -11.82   -5.71
+[09/09/2017 01:20:23]  <- NOTICE damian :XRP    Ripple              $   9,947,574,876  $   0.2594   99,994,523,265    0.74   -6.57  -16.09
+[09/09/2017 01:20:23]  <- NOTICE damian :LTC    Litecoin            $   4,376,965,932  $  82.8341       52,840,132    0.73  -16.16  -15.57
+[09/09/2017 01:20:23]  <- NOTICE damian :DASH   Dash                $   3,053,373,993  $ 404.6723        7,545,300   -0.17   -5.17  -14.61
+[09/09/2017 01:20:23]  <- NOTICE damian :XEM    NEM                 $   2,915,708,886  $   0.3240    8,999,999,999   -2.55  -11.82   -19.8
+[09/09/2017 01:20:23]  <- NOTICE damian :XMR    Monero              $   2,177,156,197  $ 144.6256       15,053,738    1.06   -2.23  -17.85
+[09/09/2017 01:20:23]  <- NOTICE damian :MIOTA  IOTA                $   1,843,435,164  $   0.6632    2,779,530,283    4.21  -22.52  -35.81
+[09/09/2017 01:20:23]  <- NOTICE damian :ETC    Ethereum Classic    $   1,779,523,666  $  18.6693       95,318,256   -0.48  -16.57   -22.2
+[09/09/2017 01:20:23]  <- NOTICE damian :NEO    NEO                 $   1,545,441,538  $  30.9088      100,000,000    4.08  -17.27  -21.22
+[09/09/2017 01:20:23]  <- NOTICE damian :OMG    OmiseGO             $   1,365,701,869  $  13.8915      140,245,398    0.46  -14.02   -7.46
+[09/09/2017 01:20:23]  <- NOTICE damian :BCC    BitConnect          $   1,043,876,532  $ 157.0452        7,677,912    -1.6   -7.91   -7.82
+[09/09/2017 01:20:23]  <- NOTICE damian :QTUM   Qtum                $     952,810,105  $  16.1493      100,000,000    4.13    4.94  -24.86
+[09/09/2017 01:20:23]  <- NOTICE damian :LSK    Lisk                $     928,510,750  $   8.2922      111,973,500    3.37   -9.01  -12.41
+[09/09/2017 01:20:23]  <- NOTICE damian :*** End of List ***
+[09/09/2017 01:22:42]  -> PING :stable.nictitate.net
+[09/09/2017 01:22:42]  <- PONG :stable.nictitate.net
+[09/09/2017 01:24:43]  -> PING :stable.nictitate.net
+[09/09/2017 01:24:43]  <- PONG :stable.nictitate.net
+[09/09/2017 01:26:44]  -> PING :stable.nictitate.net
+[09/09/2017 01:26:44]  <- PONG :stable.nictitate.net
+[09/09/2017 01:28:45]  -> PING :stable.nictitate.net
+[09/09/2017 01:28:45]  <- PONG :stable.nictitate.net
+[09/09/2017 01:28:46]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.die
+[09/09/2017 01:28:46]  <- QUIT :damian said to quit! ()
+[09/09/2017 01:28:46]  -> ERROR :Closing link: (crypto@local.damian.id.au) [Quit: damian said to quit! ()]
+[09/09/2017 01:28:48]  <- NICK cryptobot
+[09/09/2017 01:28:48]  <- USER crypto 0 * :a crypto currency bot
+[09/09/2017 01:28:48]  -> :stable.nictitate.net NOTICE Auth :*** Looking up your hostname...
+[09/09/2017 01:28:48]  -> :stable.nictitate.net NOTICE Auth :*** Found your hostname (local.damian.id.au)
+[09/09/2017 01:28:49]  -> :stable.nictitate.net NOTICE Auth :Welcome to nictitate!
+[09/09/2017 01:28:49]  -> :stable.nictitate.net 001 cryptobot :Welcome to the nictitate IRC Network cryptobot!crypto@local.damian.id.au
+[09/09/2017 01:28:49]  <- PROTOCTL NAMESX
+[09/09/2017 01:28:49]  <- PROTOCTL UHNAMES
+[09/09/2017 01:28:49]  <- JOIN #nerdhacks
+[09/09/2017 01:28:49]  -> :stable.nictitate.net 002 cryptobot :Your host is stable.nictitate.net, running version InspIRCd-2.0
+[09/09/2017 01:28:49]  -> :stable.nictitate.net 003 cryptobot :This server was created 17:21:34 Sep  8 2017
+[09/09/2017 01:28:49]  -> :stable.nictitate.net 004 cryptobot stable.nictitate.net InspIRCd-2.0 iosw biklmnopstv bklov
+[09/09/2017 01:28:49]  -> :stable.nictitate.net 005 cryptobot AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,l,imnpst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 MAXPARA=32 :are supported by this server
+[09/09/2017 01:28:49]  -> :stable.nictitate.net 005 cryptobot MAXTARGETS=20 MODES=20 NETWORK=nictitate NICKLEN=32 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+[09/09/2017 01:28:49]  -> :stable.nictitate.net 042 cryptobot 00AAAAADY :your unique ID
+[09/09/2017 01:28:49]  -> :stable.nictitate.net 375 cryptobot :stable.nictitate.net message of the day
+[09/09/2017 01:28:49]  -> :stable.nictitate.net 376 cryptobot :End of message of the day.
+[09/09/2017 01:28:49]  -> :stable.nictitate.net 251 cryptobot :There are 2 users and 1 invisible on 1 servers
+[09/09/2017 01:28:49]  -> :stable.nictitate.net 252 cryptobot 1 :operator(s) online
+[09/09/2017 01:28:49]  -> :stable.nictitate.net 254 cryptobot 5 :channels formed
+[09/09/2017 01:28:49]  -> :stable.nictitate.net 255 cryptobot :I have 3 clients and 0 servers
+[09/09/2017 01:28:49]  -> :stable.nictitate.net 265 cryptobot :Current Local Users: 3  Max: 3
+[09/09/2017 01:28:49]  -> :stable.nictitate.net 266 cryptobot :Current Global Users: 3  Max: 3
+[09/09/2017 01:28:49]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 01:28:51]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 01:28:53]  -> :cryptobot!crypto@local.damian.id.au JOIN :#nerdhacks
+[09/09/2017 01:28:53]  <- MODE #nerdhacks 
+[09/09/2017 01:28:53]  -> :stable.nictitate.net 353 cryptobot = #nerdhacks :damian steven cryptobot 
+[09/09/2017 01:28:53]  <- WHO damian
+[09/09/2017 01:28:53]  <- WHO steven
+[09/09/2017 01:28:53]  <- WHO cryptobot
+[09/09/2017 01:28:53]  -> :stable.nictitate.net 366 cryptobot #nerdhacks :End of /NAMES list.
+[09/09/2017 01:28:54]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.crypto
+[09/09/2017 01:28:55]  <- NOTICE damian :*** Top 15 list of cryptocurrencies (AUD) ***
+[09/09/2017 01:28:55]  <- NOTICE damian :SYM    NAME                MARKET CAP         PRICE(AUD)           SUPPLY     1HR      1D      7D
+[09/09/2017 01:28:55]  -> :stable.nictitate.net 324 cryptobot #nerdhacks +nt
+[09/09/2017 01:28:55]  <- NOTICE damian :BTC    Bitcoin             $  87,122,580,541  $  5,263.4330       16,552,425   -0.52   -7.93  -11.34
+[09/09/2017 01:28:55]  <- NOTICE damian :ETH    Ethereum            $  34,119,360,311  $    361.0451       94,501,665    0.18   -11.5  -24.66
+[09/09/2017 01:28:55]  -> :stable.nictitate.net 329 cryptobot #nerdhacks 1504868540
+[09/09/2017 01:28:55]  <- NOTICE damian :BCH    Bitcoin Cash        $  11,890,980,708  $    717.7174       16,567,775   -0.26  -10.96   -4.83
+[09/09/2017 01:28:55]  <- NOTICE damian :XRP    Ripple              $   9,934,324,315  $      0.2591   99,994,523,265     0.8   -6.74   -16.2
+[09/09/2017 01:28:55]  <- NOTICE damian :LTC    Litecoin            $   4,347,567,212  $     82.2778       52,840,132    0.72   -16.7  -16.21
+[09/09/2017 01:28:55]  <- NOTICE damian :DASH   Dash                $   3,050,580,302  $    404.3021        7,545,300    0.74   -5.27   -14.7
+[09/09/2017 01:28:55]  <- NOTICE damian :XEM    NEM                 $   2,953,774,885  $      0.3282    8,999,999,999   -0.46  -10.67  -18.75
+[09/09/2017 01:28:55]  <- NOTICE damian :XMR    Monero              $   2,178,029,415  $    144.6836       15,053,738    1.44   -2.18  -17.83
+[09/09/2017 01:28:55]  <- NOTICE damian :MIOTA  IOTA                $   1,834,152,346  $      0.6599    2,779,530,283    4.12   -22.9   -36.1
+[09/09/2017 01:28:55]  <- NOTICE damian :ETC    Ethereum Classic    $   1,756,701,418  $     18.4299       95,318,256   -1.76  -17.62  -23.33
+[09/09/2017 01:28:55]  <- NOTICE damian :NEO    NEO                 $   1,529,514,368  $     30.5903      100,000,000    1.33  -18.09   -22.0
+[09/09/2017 01:28:55]  <- NOTICE damian :OMG    OmiseGO             $   1,392,177,237  $     14.1608      140,245,398     2.3  -12.35   -5.63
+[09/09/2017 01:28:55]  <- NOTICE damian :BCC    BitConnect          $   1,059,323,929  $    159.3692        7,677,912    0.55   -6.53   -6.47
+[09/09/2017 01:28:55]  <- NOTICE damian :QTUM   Qtum                $     944,050,223  $     16.0009      100,000,000    3.35    3.82  -25.56
+[09/09/2017 01:28:55]  <- NOTICE damian :LSK    Lisk                $     943,645,990  $      8.4274      111,973,500    5.05   -7.52  -10.96
+[09/09/2017 01:28:55]  <- NOTICE damian :*** End of List ***
+[09/09/2017 01:28:56]  -> :stable.nictitate.net 352 cryptobot #opers damian local.damian.id.au stable.nictitate.net damian H*@ :0 damian
+[09/09/2017 01:28:56]  -> :stable.nictitate.net 315 cryptobot damian :End of /WHO list.
+[09/09/2017 01:28:57]  -> :stable.nictitate.net 352 cryptobot #nerdhacks steven CPE-1-122-210-35.wwl9.wel.bigpond.net.au stable.nictitate.net steven H :0 steven
+[09/09/2017 01:28:57]  -> :stable.nictitate.net 315 cryptobot steven :End of /WHO list.
+[09/09/2017 01:28:58]  -> :stable.nictitate.net 352 cryptobot #nerdhacks crypto local.damian.id.au stable.nictitate.net cryptobot H :0 a crypto currency bot
+[09/09/2017 01:28:58]  -> :stable.nictitate.net 315 cryptobot cryptobot :End of /WHO list.
+[09/09/2017 01:29:26]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.die
+[09/09/2017 01:29:26]  <- QUIT :damian said to quit! ()
+[09/09/2017 01:29:26]  -> ERROR :Closing link: (crypto@local.damian.id.au) [Quit: damian said to quit! ()]
+[09/09/2017 01:29:28]  <- NICK cryptobot
+[09/09/2017 01:29:28]  <- USER crypto 0 * :a crypto currency bot
+[09/09/2017 01:29:28]  -> :stable.nictitate.net NOTICE Auth :*** Looking up your hostname...
+[09/09/2017 01:29:28]  -> :stable.nictitate.net NOTICE Auth :*** Found your hostname (local.damian.id.au) -- cached
+[09/09/2017 01:29:29]  -> :stable.nictitate.net NOTICE Auth :Welcome to nictitate!
+[09/09/2017 01:29:29]  -> :stable.nictitate.net 001 cryptobot :Welcome to the nictitate IRC Network cryptobot!crypto@local.damian.id.au
+[09/09/2017 01:29:29]  <- PROTOCTL NAMESX
+[09/09/2017 01:29:29]  <- PROTOCTL UHNAMES
+[09/09/2017 01:29:29]  <- JOIN #nerdhacks
+[09/09/2017 01:29:29]  -> :stable.nictitate.net 002 cryptobot :Your host is stable.nictitate.net, running version InspIRCd-2.0
+[09/09/2017 01:29:29]  -> :stable.nictitate.net 003 cryptobot :This server was created 17:21:34 Sep  8 2017
+[09/09/2017 01:29:29]  -> :stable.nictitate.net 004 cryptobot stable.nictitate.net InspIRCd-2.0 iosw biklmnopstv bklov
+[09/09/2017 01:29:29]  -> :stable.nictitate.net 005 cryptobot AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,l,imnpst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 MAXPARA=32 :are supported by this server
+[09/09/2017 01:29:29]  -> :stable.nictitate.net 005 cryptobot MAXTARGETS=20 MODES=20 NETWORK=nictitate NICKLEN=32 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+[09/09/2017 01:29:29]  -> :stable.nictitate.net 042 cryptobot 00AAAAADZ :your unique ID
+[09/09/2017 01:29:29]  -> :stable.nictitate.net 375 cryptobot :stable.nictitate.net message of the day
+[09/09/2017 01:29:29]  -> :stable.nictitate.net 376 cryptobot :End of message of the day.
+[09/09/2017 01:29:29]  -> :stable.nictitate.net 251 cryptobot :There are 2 users and 1 invisible on 1 servers
+[09/09/2017 01:29:29]  -> :stable.nictitate.net 252 cryptobot 1 :operator(s) online
+[09/09/2017 01:29:29]  -> :stable.nictitate.net 254 cryptobot 5 :channels formed
+[09/09/2017 01:29:29]  -> :stable.nictitate.net 255 cryptobot :I have 3 clients and 0 servers
+[09/09/2017 01:29:29]  -> :stable.nictitate.net 265 cryptobot :Current Local Users: 3  Max: 3
+[09/09/2017 01:29:29]  -> :stable.nictitate.net 266 cryptobot :Current Global Users: 3  Max: 3
+[09/09/2017 01:29:29]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 01:29:31]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 01:29:33]  -> :cryptobot!crypto@local.damian.id.au JOIN :#nerdhacks
+[09/09/2017 01:29:33]  <- MODE #nerdhacks 
+[09/09/2017 01:29:33]  -> :stable.nictitate.net 353 cryptobot = #nerdhacks :damian steven cryptobot 
+[09/09/2017 01:29:33]  <- WHO damian
+[09/09/2017 01:29:33]  <- WHO steven
+[09/09/2017 01:29:33]  <- WHO cryptobot
+[09/09/2017 01:29:33]  -> :stable.nictitate.net 366 cryptobot #nerdhacks :End of /NAMES list.
+[09/09/2017 01:29:35]  -> :stable.nictitate.net 324 cryptobot #nerdhacks +nt
+[09/09/2017 01:29:35]  -> :stable.nictitate.net 329 cryptobot #nerdhacks 1504868540
+[09/09/2017 01:29:36]  -> :stable.nictitate.net 352 cryptobot #opers damian local.damian.id.au stable.nictitate.net damian H*@ :0 damian
+[09/09/2017 01:29:36]  -> :stable.nictitate.net 315 cryptobot damian :End of /WHO list.
+[09/09/2017 01:29:37]  -> :stable.nictitate.net 352 cryptobot #nerdhacks steven CPE-1-122-210-35.wwl9.wel.bigpond.net.au stable.nictitate.net steven H :0 steven
+[09/09/2017 01:29:37]  -> :stable.nictitate.net 315 cryptobot steven :End of /WHO list.
+[09/09/2017 01:29:37]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.crypto
+[09/09/2017 01:29:37]  <- NOTICE damian :*** Top 15 list of cryptocurrencies (AUD) ***
+[09/09/2017 01:29:37]  <- NOTICE damian :SYM    NAME                MARKET CAP         PRICE(AUD)              SUPPLY     1HR      1D      7D
+[09/09/2017 01:29:37]  <- NOTICE damian :BTC    Bitcoin             $  87,122,580,541  $  5,263.4330       16,552,425   -0.52   -7.93  -11.34
+[09/09/2017 01:29:37]  <- NOTICE damian :ETH    Ethereum            $  34,119,360,311  $    361.0451       94,501,665    0.18   -11.5  -24.66
+[09/09/2017 01:29:37]  <- NOTICE damian :BCH    Bitcoin Cash        $  11,890,980,708  $    717.7174       16,567,775   -0.26  -10.96   -4.83
+[09/09/2017 01:29:37]  <- NOTICE damian :XRP    Ripple              $   9,934,324,315  $      0.2591   99,994,523,265     0.8   -6.74   -16.2
+[09/09/2017 01:29:37]  <- NOTICE damian :LTC    Litecoin            $   4,347,567,212  $     82.2778       52,840,132    0.72   -16.7  -16.21
+[09/09/2017 01:29:37]  <- NOTICE damian :DASH   Dash                $   3,050,580,302  $    404.3021        7,545,300    0.74   -5.27   -14.7
+[09/09/2017 01:29:37]  <- NOTICE damian :XEM    NEM                 $   2,953,774,885  $      0.3282    8,999,999,999   -0.46  -10.67  -18.75
+[09/09/2017 01:29:37]  <- NOTICE damian :XMR    Monero              $   2,178,029,415  $    144.6836       15,053,738    1.44   -2.18  -17.83
+[09/09/2017 01:29:37]  <- NOTICE damian :MIOTA  IOTA                $   1,834,152,346  $      0.6599    2,779,530,283    4.12   -22.9   -36.1
+[09/09/2017 01:29:37]  <- NOTICE damian :ETC    Ethereum Classic    $   1,756,701,418  $     18.4299       95,318,256   -1.76  -17.62  -23.33
+[09/09/2017 01:29:37]  <- NOTICE damian :NEO    NEO                 $   1,529,514,368  $     30.5903      100,000,000    1.33  -18.09   -22.0
+[09/09/2017 01:29:37]  <- NOTICE damian :OMG    OmiseGO             $   1,392,177,237  $     14.1608      140,245,398     2.3  -12.35   -5.63
+[09/09/2017 01:29:37]  <- NOTICE damian :BCC    BitConnect          $   1,059,323,929  $    159.3692        7,677,912    0.55   -6.53   -6.47
+[09/09/2017 01:29:37]  <- NOTICE damian :QTUM   Qtum                $     944,050,223  $     16.0009      100,000,000    3.35    3.82  -25.56
+[09/09/2017 01:29:37]  <- NOTICE damian :LSK    Lisk                $     943,645,990  $      8.4274      111,973,500    5.05   -7.52  -10.96
+[09/09/2017 01:29:37]  <- NOTICE damian :*** End of List ***
+[09/09/2017 01:29:38]  -> :stable.nictitate.net 352 cryptobot #nerdhacks crypto local.damian.id.au stable.nictitate.net cryptobot H :0 a crypto currency bot
+[09/09/2017 01:29:38]  -> :stable.nictitate.net 315 cryptobot cryptobot :End of /WHO list.
+[09/09/2017 01:31:00]  -> :steven!steven@CPE-1-122-210-35.wwl9.wel.bigpond.net.au PRIVMSG #nerdhacks :.crypto
+[09/09/2017 01:31:01]  <- NOTICE steven :*** Top 15 list of cryptocurrencies (AUD) ***
+[09/09/2017 01:31:01]  <- NOTICE steven :SYM    NAME                MARKET CAP         PRICE(AUD)              SUPPLY     1HR      1D      7D
+[09/09/2017 01:31:01]  <- NOTICE steven :BTC    Bitcoin             $  87,099,700,317  $  5,262.0507       16,552,425   -0.27   -7.94  -11.38
+[09/09/2017 01:31:01]  <- NOTICE steven :ETH    Ethereum            $  34,145,019,490  $    361.3166       94,501,665    0.22  -11.42   -24.6
+[09/09/2017 01:31:01]  <- NOTICE steven :BCH    Bitcoin Cash        $  11,809,803,275  $    712.8177       16,567,775   -0.95  -11.58   -5.51
+[09/09/2017 01:31:01]  <- NOTICE steven :XRP    Ripple              $   9,916,294,087  $      0.2586   99,994,523,265    0.48   -6.92  -16.35
+[09/09/2017 01:31:01]  <- NOTICE steven :LTC    Litecoin            $   4,351,121,405  $     82.3450       52,840,132     0.8  -16.59  -16.18
+[09/09/2017 01:31:01]  <- NOTICE steven :DASH   Dash                $   3,055,376,138  $    404.9377        7,545,300    1.15   -5.12  -14.57
+[09/09/2017 01:31:01]  <- NOTICE steven :XEM    NEM                 $   2,944,466,654  $      0.3272    8,999,999,999   -0.99  -10.95  -19.01
+[09/09/2017 01:31:01]  <- NOTICE steven :XMR    Monero              $   2,178,512,472  $    144.7157       15,053,738    1.13   -2.14  -17.83
+[09/09/2017 01:31:01]  <- NOTICE steven :MIOTA  IOTA                $   1,866,220,262  $      0.6714    2,779,530,283    5.84  -21.54  -34.94
+[09/09/2017 01:31:01]  <- NOTICE steven :ETC    Ethereum Classic    $   1,767,430,227  $     18.5424       95,318,256   -1.37  -17.09   -23.0
+[09/09/2017 01:31:01]  <- NOTICE steven :NEO    NEO                 $   1,537,734,047  $     30.7547      100,000,000    1.87  -17.58  -21.56
+[09/09/2017 01:31:01]  <- NOTICE steven :OMG    OmiseGO             $   1,381,050,787  $     14.0476      140,245,398    1.48  -12.99   -6.37
+[09/09/2017 01:31:01]  <- NOTICE steven :BCC    BitConnect          $   1,057,568,356  $    159.1051        7,677,912    0.43   -6.67   -6.64
+[09/09/2017 01:31:01]  <- NOTICE steven :LSK    Lisk                $     944,855,206  $      8.4382      111,973,500    2.93   -7.36  -10.81
+[09/09/2017 01:31:01]  <- NOTICE steven :QTUM   Qtum                $     944,756,547  $     16.0128      100,000,000    2.81    3.79  -25.51
+[09/09/2017 01:31:01]  <- NOTICE steven :*** End of List ***
+[09/09/2017 01:31:40]  -> :steven!steven@CPE-1-122-210-35.wwl9.wel.bigpond.net.au PRIVMSG #nerdhacks :can we get the news plz
+[09/09/2017 01:31:43]  -> :steven!steven@CPE-1-122-210-35.wwl9.wel.bigpond.net.au PRIVMSG #nerdhacks :haha
+[09/09/2017 01:32:17]  -> :steven!steven@CPE-1-122-210-35.wwl9.wel.bigpond.net.au PRIVMSG #nerdhacks :layout of the weather for the whole of aus
+[09/09/2017 01:33:07]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :who needs that!
+[09/09/2017 01:33:18]  -> PING :stable.nictitate.net
+[09/09/2017 01:33:18]  <- PONG :stable.nictitate.net
+[09/09/2017 01:33:58]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.die
+[09/09/2017 01:33:58]  <- QUIT :damian said to quit! ()
+[09/09/2017 01:33:58]  -> ERROR :Closing link: (crypto@local.damian.id.au) [Quit: damian said to quit! ()]
+[09/09/2017 01:34:10]  <- NICK cryptobot
+[09/09/2017 01:34:10]  <- USER crypto 0 * :a crypto currency bot
+[09/09/2017 01:34:10]  -> :stable.nictitate.net NOTICE Auth :*** Looking up your hostname...
+[09/09/2017 01:34:10]  -> :stable.nictitate.net NOTICE Auth :*** Found your hostname (local.damian.id.au)
+[09/09/2017 01:34:11]  -> :stable.nictitate.net NOTICE Auth :Welcome to nictitate!
+[09/09/2017 01:34:11]  -> :stable.nictitate.net 001 cryptobot :Welcome to the nictitate IRC Network cryptobot!crypto@local.damian.id.au
+[09/09/2017 01:34:11]  <- PROTOCTL NAMESX
+[09/09/2017 01:34:11]  <- PROTOCTL UHNAMES
+[09/09/2017 01:34:11]  <- JOIN #nerdhacks
+[09/09/2017 01:34:11]  -> :stable.nictitate.net 002 cryptobot :Your host is stable.nictitate.net, running version InspIRCd-2.0
+[09/09/2017 01:34:11]  -> :stable.nictitate.net 003 cryptobot :This server was created 17:21:34 Sep  8 2017
+[09/09/2017 01:34:11]  -> :stable.nictitate.net 004 cryptobot stable.nictitate.net InspIRCd-2.0 iosw biklmnopstv bklov
+[09/09/2017 01:34:11]  -> :stable.nictitate.net 005 cryptobot AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,l,imnpst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 MAXPARA=32 :are supported by this server
+[09/09/2017 01:34:11]  -> :stable.nictitate.net 005 cryptobot MAXTARGETS=20 MODES=20 NETWORK=nictitate NICKLEN=32 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+[09/09/2017 01:34:11]  -> :stable.nictitate.net 042 cryptobot 00AAAAAD0 :your unique ID
+[09/09/2017 01:34:11]  -> :stable.nictitate.net 375 cryptobot :stable.nictitate.net message of the day
+[09/09/2017 01:34:11]  -> :stable.nictitate.net 376 cryptobot :End of message of the day.
+[09/09/2017 01:34:11]  -> :stable.nictitate.net 251 cryptobot :There are 2 users and 1 invisible on 1 servers
+[09/09/2017 01:34:11]  -> :stable.nictitate.net 252 cryptobot 1 :operator(s) online
+[09/09/2017 01:34:11]  -> :stable.nictitate.net 254 cryptobot 5 :channels formed
+[09/09/2017 01:34:11]  -> :stable.nictitate.net 255 cryptobot :I have 3 clients and 0 servers
+[09/09/2017 01:34:11]  -> :stable.nictitate.net 265 cryptobot :Current Local Users: 3  Max: 3
+[09/09/2017 01:34:11]  -> :stable.nictitate.net 266 cryptobot :Current Global Users: 3  Max: 3
+[09/09/2017 01:34:11]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 01:34:13]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 01:34:15]  -> :cryptobot!crypto@local.damian.id.au JOIN :#nerdhacks
+[09/09/2017 01:34:15]  <- MODE #nerdhacks 
+[09/09/2017 01:34:15]  -> :stable.nictitate.net 353 cryptobot = #nerdhacks :damian steven cryptobot 
+[09/09/2017 01:34:15]  <- WHO damian
+[09/09/2017 01:34:15]  <- WHO steven
+[09/09/2017 01:34:15]  <- WHO cryptobot
+[09/09/2017 01:34:15]  -> :stable.nictitate.net 366 cryptobot #nerdhacks :End of /NAMES list.
+[09/09/2017 01:34:17]  -> :stable.nictitate.net 324 cryptobot #nerdhacks +nt
+[09/09/2017 01:34:17]  -> :stable.nictitate.net 329 cryptobot #nerdhacks 1504868540
+[09/09/2017 01:34:18]  -> :stable.nictitate.net 352 cryptobot #opers damian local.damian.id.au stable.nictitate.net damian H*@ :0 damian
+[09/09/2017 01:34:18]  -> :stable.nictitate.net 315 cryptobot damian :End of /WHO list.
+[09/09/2017 01:34:19]  -> :stable.nictitate.net 352 cryptobot #nerdhacks steven CPE-1-122-210-35.wwl9.wel.bigpond.net.au stable.nictitate.net steven H :0 steven
+[09/09/2017 01:34:19]  -> :stable.nictitate.net 315 cryptobot steven :End of /WHO list.
+[09/09/2017 01:34:20]  -> :stable.nictitate.net 352 cryptobot #nerdhacks crypto local.damian.id.au stable.nictitate.net cryptobot H :0 a crypto currency bot
+[09/09/2017 01:34:20]  -> :stable.nictitate.net 315 cryptobot cryptobot :End of /WHO list.
+[09/09/2017 01:36:21]  -> PING :stable.nictitate.net
+[09/09/2017 01:36:21]  <- PONG :stable.nictitate.net
+[09/09/2017 01:37:26]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.die
+[09/09/2017 01:37:26]  <- QUIT :damian said to quit! ()
+[09/09/2017 01:37:26]  -> ERROR :Closing link: (crypto@local.damian.id.au) [Quit: damian said to quit! ()]
+[09/09/2017 01:37:28]  <- NICK cryptobot
+[09/09/2017 01:37:28]  <- USER crypto 0 * :a crypto currency bot
+[09/09/2017 01:37:28]  -> :stable.nictitate.net NOTICE Auth :*** Looking up your hostname...
+[09/09/2017 01:37:29]  -> :stable.nictitate.net NOTICE Auth :*** Found your hostname (local.damian.id.au) -- cached
+[09/09/2017 01:37:29]  -> :stable.nictitate.net NOTICE Auth :Welcome to nictitate!
+[09/09/2017 01:37:29]  -> :stable.nictitate.net 001 cryptobot :Welcome to the nictitate IRC Network cryptobot!crypto@local.damian.id.au
+[09/09/2017 01:37:29]  <- PROTOCTL NAMESX
+[09/09/2017 01:37:29]  <- PROTOCTL UHNAMES
+[09/09/2017 01:37:29]  <- JOIN #nerdhacks
+[09/09/2017 01:37:29]  -> :stable.nictitate.net 002 cryptobot :Your host is stable.nictitate.net, running version InspIRCd-2.0
+[09/09/2017 01:37:29]  -> :stable.nictitate.net 003 cryptobot :This server was created 17:21:34 Sep  8 2017
+[09/09/2017 01:37:29]  -> :stable.nictitate.net 004 cryptobot stable.nictitate.net InspIRCd-2.0 iosw biklmnopstv bklov
+[09/09/2017 01:37:29]  -> :stable.nictitate.net 005 cryptobot AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,l,imnpst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 MAXPARA=32 :are supported by this server
+[09/09/2017 01:37:29]  -> :stable.nictitate.net 005 cryptobot MAXTARGETS=20 MODES=20 NETWORK=nictitate NICKLEN=32 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+[09/09/2017 01:37:29]  -> :stable.nictitate.net 042 cryptobot 00AAAAAD1 :your unique ID
+[09/09/2017 01:37:29]  -> :stable.nictitate.net 375 cryptobot :stable.nictitate.net message of the day
+[09/09/2017 01:37:29]  -> :stable.nictitate.net 376 cryptobot :End of message of the day.
+[09/09/2017 01:37:29]  -> :stable.nictitate.net 251 cryptobot :There are 2 users and 1 invisible on 1 servers
+[09/09/2017 01:37:29]  -> :stable.nictitate.net 252 cryptobot 1 :operator(s) online
+[09/09/2017 01:37:29]  -> :stable.nictitate.net 254 cryptobot 5 :channels formed
+[09/09/2017 01:37:29]  -> :stable.nictitate.net 255 cryptobot :I have 3 clients and 0 servers
+[09/09/2017 01:37:29]  -> :stable.nictitate.net 265 cryptobot :Current Local Users: 3  Max: 3
+[09/09/2017 01:37:29]  -> :stable.nictitate.net 266 cryptobot :Current Global Users: 3  Max: 3
+[09/09/2017 01:37:29]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 01:37:31]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 01:37:33]  -> :cryptobot!crypto@local.damian.id.au JOIN :#nerdhacks
+[09/09/2017 01:37:33]  <- MODE #nerdhacks 
+[09/09/2017 01:37:33]  -> :stable.nictitate.net 353 cryptobot = #nerdhacks :damian steven cryptobot 
+[09/09/2017 01:37:33]  <- WHO damian
+[09/09/2017 01:37:33]  <- WHO steven
+[09/09/2017 01:37:33]  <- WHO cryptobot
+[09/09/2017 01:37:33]  -> :stable.nictitate.net 366 cryptobot #nerdhacks :End of /NAMES list.
+[09/09/2017 01:37:35]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.crypto
+[09/09/2017 01:37:35]  -> :stable.nictitate.net 324 cryptobot #nerdhacks +nt
+[09/09/2017 01:37:35]  -> :stable.nictitate.net 329 cryptobot #nerdhacks 1504868540
+[09/09/2017 01:37:35]  <- NOTICE damian :*** Top 15 list of cryptocurrencies (AUD) ***
+[09/09/2017 01:37:35]  <- NOTICE damian :SYM    NAME                MARKET CAP         PRICE(AUD)              SUPPLY     1HR      1D      7D
+[09/09/2017 01:37:35]  <- NOTICE damian :BTC    Bitcoin             $  86,908,282,731  $  5,250.4864       16,552,425   -0.31   -8.14  -11.58
+[09/09/2017 01:37:35]  <- NOTICE damian :ETH    Ethereum            $  33,995,379,823  $    359.7331       94,501,665   -0.79  -11.79  -24.93
+[09/09/2017 01:37:35]  <- NOTICE damian :BCH    Bitcoin Cash        $  11,720,814,816  $    707.4465       16,567,775   -2.37  -12.24   -6.25
+[09/09/2017 01:37:35]  <- NOTICE damian :XRP    Ripple              $   9,875,595,935  $      0.2576   99,994,523,265   -0.55    -7.3   -16.7
+[09/09/2017 01:37:35]  <- NOTICE damian :LTC    Litecoin            $   4,347,736,770  $     82.2810       52,840,132   -0.51  -16.63  -16.27
+[09/09/2017 01:37:35]  <- NOTICE damian :DASH   Dash                $   3,047,879,733  $    403.9441        7,545,300    0.27   -5.36  -14.78
+[09/09/2017 01:37:35]  <- NOTICE damian :XEM    NEM                 $   2,934,014,333  $      0.3260    8,999,999,999    -1.2  -11.26  -19.29
+[09/09/2017 01:37:35]  <- NOTICE damian :XMR    Monero              $   2,172,232,732  $    144.2986       15,053,738    0.75   -2.42  -18.06
+[09/09/2017 01:37:35]  <- NOTICE damian :MIOTA  IOTA                $   1,831,095,809  $      0.6588    2,779,530,283    4.06  -22.97  -36.12
+[09/09/2017 01:37:35]  <- NOTICE damian :ETC    Ethereum Classic    $   1,768,606,632  $     18.5548       95,318,256   -1.96  -17.03  -23.08
+[09/09/2017 01:37:35]  <- NOTICE damian :NEO    NEO                 $   1,494,926,305  $     29.8985      100,000,000   -2.27   -19.8  -23.73
+[09/09/2017 01:37:35]  <- NOTICE damian :OMG    OmiseGO             $   1,370,045,673  $     13.9357      140,245,398   -0.29  -13.71    -7.1
+[09/09/2017 01:37:35]  <- NOTICE damian :BCC    BitConnect          $   1,059,176,264  $    159.3470        7,677,912    0.63   -6.51   -6.51
+[09/09/2017 01:37:35]  <- NOTICE damian :LSK    Lisk                $     934,084,200  $      8.3420      111,973,500    1.15   -8.37  -11.82
+[09/09/2017 01:37:35]  <- NOTICE damian :QTUM   Qtum                $     932,246,591  $     15.8008      100,000,000    1.33    2.36   -26.5
+[09/09/2017 01:37:35]  <- NOTICE damian :*** End of List ***
+[09/09/2017 01:37:36]  -> :stable.nictitate.net 352 cryptobot #opers damian local.damian.id.au stable.nictitate.net damian H*@ :0 damian
+[09/09/2017 01:37:36]  -> :stable.nictitate.net 315 cryptobot damian :End of /WHO list.
+[09/09/2017 01:37:37]  -> :stable.nictitate.net 352 cryptobot #nerdhacks steven CPE-1-122-210-35.wwl9.wel.bigpond.net.au stable.nictitate.net steven H :0 steven
+[09/09/2017 01:37:37]  -> :stable.nictitate.net 315 cryptobot steven :End of /WHO list.
+[09/09/2017 01:37:38]  -> :stable.nictitate.net 352 cryptobot #nerdhacks crypto local.damian.id.au stable.nictitate.net cryptobot H :0 a crypto currency bot
+[09/09/2017 01:37:38]  -> :stable.nictitate.net 315 cryptobot cryptobot :End of /WHO list.
+[09/09/2017 01:37:44]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.crypto a b c d
+[09/09/2017 01:37:44]  <- NOTICE damian :*** Top 15 list of cryptocurrencies (AUD) ***
+[09/09/2017 01:37:44]  <- NOTICE damian :SYM    NAME                MARKET CAP         PRICE(AUD)              SUPPLY     1HR      1D      7D
+[09/09/2017 01:37:44]  <- NOTICE damian :BTC    Bitcoin             $  86,908,282,731  $  5,250.4864       16,552,425   -0.31   -8.14  -11.58
+[09/09/2017 01:37:44]  <- NOTICE damian :ETH    Ethereum            $  33,995,379,823  $    359.7331       94,501,665   -0.79  -11.79  -24.93
+[09/09/2017 01:37:44]  <- NOTICE damian :BCH    Bitcoin Cash        $  11,720,814,816  $    707.4465       16,567,775   -2.37  -12.24   -6.25
+[09/09/2017 01:37:44]  <- NOTICE damian :XRP    Ripple              $   9,875,595,935  $      0.2576   99,994,523,265   -0.55    -7.3   -16.7
+[09/09/2017 01:37:44]  <- NOTICE damian :LTC    Litecoin            $   4,347,736,770  $     82.2810       52,840,132   -0.51  -16.63  -16.27
+[09/09/2017 01:37:44]  <- NOTICE damian :DASH   Dash                $   3,047,879,733  $    403.9441        7,545,300    0.27   -5.36  -14.78
+[09/09/2017 01:37:44]  <- NOTICE damian :XEM    NEM                 $   2,934,014,333  $      0.3260    8,999,999,999    -1.2  -11.26  -19.29
+[09/09/2017 01:37:44]  <- NOTICE damian :XMR    Monero              $   2,172,232,732  $    144.2986       15,053,738    0.75   -2.42  -18.06
+[09/09/2017 01:37:44]  <- NOTICE damian :MIOTA  IOTA                $   1,831,095,809  $      0.6588    2,779,530,283    4.06  -22.97  -36.12
+[09/09/2017 01:37:44]  <- NOTICE damian :ETC    Ethereum Classic    $   1,768,606,632  $     18.5548       95,318,256   -1.96  -17.03  -23.08
+[09/09/2017 01:37:44]  <- NOTICE damian :NEO    NEO                 $   1,494,926,305  $     29.8985      100,000,000   -2.27   -19.8  -23.73
+[09/09/2017 01:37:44]  <- NOTICE damian :OMG    OmiseGO             $   1,370,045,673  $     13.9357      140,245,398   -0.29  -13.71    -7.1
+[09/09/2017 01:37:44]  <- NOTICE damian :BCC    BitConnect          $   1,059,176,264  $    159.3470        7,677,912    0.63   -6.51   -6.51
+[09/09/2017 01:37:44]  <- NOTICE damian :LSK    Lisk                $     934,084,200  $      8.3420      111,973,500    1.15   -8.37  -11.82
+[09/09/2017 01:37:44]  <- NOTICE damian :QTUM   Qtum                $     932,246,591  $     15.8008      100,000,000    1.33    2.36   -26.5
+[09/09/2017 01:37:44]  <- NOTICE damian :*** End of List ***
+[09/09/2017 01:37:55]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.crypto -something here
+[09/09/2017 01:37:56]  <- NOTICE damian :*** Top 15 list of cryptocurrencies (AUD) ***
+[09/09/2017 01:37:56]  <- NOTICE damian :SYM    NAME                MARKET CAP         PRICE(AUD)              SUPPLY     1HR      1D      7D
+[09/09/2017 01:37:56]  <- NOTICE damian :BTC    Bitcoin             $  86,908,282,731  $  5,250.4864       16,552,425   -0.31   -8.14  -11.58
+[09/09/2017 01:37:56]  <- NOTICE damian :ETH    Ethereum            $  33,995,379,823  $    359.7331       94,501,665   -0.79  -11.79  -24.93
+[09/09/2017 01:37:56]  <- NOTICE damian :BCH    Bitcoin Cash        $  11,720,814,816  $    707.4465       16,567,775   -2.37  -12.24   -6.25
+[09/09/2017 01:37:56]  <- NOTICE damian :XRP    Ripple              $   9,875,595,935  $      0.2576   99,994,523,265   -0.55    -7.3   -16.7
+[09/09/2017 01:37:56]  <- NOTICE damian :LTC    Litecoin            $   4,347,736,770  $     82.2810       52,840,132   -0.51  -16.63  -16.27
+[09/09/2017 01:37:56]  <- NOTICE damian :DASH   Dash                $   3,047,879,733  $    403.9441        7,545,300    0.27   -5.36  -14.78
+[09/09/2017 01:37:56]  <- NOTICE damian :XEM    NEM                 $   2,934,014,333  $      0.3260    8,999,999,999    -1.2  -11.26  -19.29
+[09/09/2017 01:37:56]  <- NOTICE damian :XMR    Monero              $   2,172,232,732  $    144.2986       15,053,738    0.75   -2.42  -18.06
+[09/09/2017 01:37:56]  <- NOTICE damian :MIOTA  IOTA                $   1,831,095,809  $      0.6588    2,779,530,283    4.06  -22.97  -36.12
+[09/09/2017 01:37:56]  <- NOTICE damian :ETC    Ethereum Classic    $   1,768,606,632  $     18.5548       95,318,256   -1.96  -17.03  -23.08
+[09/09/2017 01:37:56]  <- NOTICE damian :NEO    NEO                 $   1,494,926,305  $     29.8985      100,000,000   -2.27   -19.8  -23.73
+[09/09/2017 01:37:56]  <- NOTICE damian :OMG    OmiseGO             $   1,370,045,673  $     13.9357      140,245,398   -0.29  -13.71    -7.1
+[09/09/2017 01:37:56]  <- NOTICE damian :BCC    BitConnect          $   1,059,176,264  $    159.3470        7,677,912    0.63   -6.51   -6.51
+[09/09/2017 01:37:56]  <- NOTICE damian :LSK    Lisk                $     934,084,200  $      8.3420      111,973,500    1.15   -8.37  -11.82
+[09/09/2017 01:37:56]  <- NOTICE damian :QTUM   Qtum                $     932,246,591  $     15.8008      100,000,000    1.33    2.36   -26.5
+[09/09/2017 01:37:56]  <- NOTICE damian :*** End of List ***
+[09/09/2017 01:38:11]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.die
+[09/09/2017 01:38:11]  <- QUIT :damian said to quit! ()
+[09/09/2017 01:38:33]  -> ERROR :Closing link: (crypto@local.damian.id.au) [Quit: damian said to quit! ()]
+[09/09/2017 01:38:35]  <- NICK cryptobot
+[09/09/2017 01:38:35]  <- USER crypto 0 * :a crypto currency bot
+[09/09/2017 01:38:35]  -> :stable.nictitate.net NOTICE Auth :*** Looking up your hostname...
+[09/09/2017 01:38:35]  -> :stable.nictitate.net NOTICE Auth :*** Found your hostname (local.damian.id.au) -- cached
+[09/09/2017 01:38:36]  -> :stable.nictitate.net NOTICE Auth :Welcome to nictitate!
+[09/09/2017 01:38:36]  -> :stable.nictitate.net 001 cryptobot :Welcome to the nictitate IRC Network cryptobot!crypto@local.damian.id.au
+[09/09/2017 01:38:36]  <- PROTOCTL NAMESX
+[09/09/2017 01:38:36]  <- PROTOCTL UHNAMES
+[09/09/2017 01:38:36]  <- JOIN #nerdhacks
+[09/09/2017 01:38:36]  -> :stable.nictitate.net 002 cryptobot :Your host is stable.nictitate.net, running version InspIRCd-2.0
+[09/09/2017 01:38:36]  -> :stable.nictitate.net 003 cryptobot :This server was created 17:21:34 Sep  8 2017
+[09/09/2017 01:38:36]  -> :stable.nictitate.net 004 cryptobot stable.nictitate.net InspIRCd-2.0 iosw biklmnopstv bklov
+[09/09/2017 01:38:36]  -> :stable.nictitate.net 005 cryptobot AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,l,imnpst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 MAXPARA=32 :are supported by this server
+[09/09/2017 01:38:36]  -> :stable.nictitate.net 005 cryptobot MAXTARGETS=20 MODES=20 NETWORK=nictitate NICKLEN=32 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+[09/09/2017 01:38:36]  -> :stable.nictitate.net 042 cryptobot 00AAAAAD2 :your unique ID
+[09/09/2017 01:38:36]  -> :stable.nictitate.net 375 cryptobot :stable.nictitate.net message of the day
+[09/09/2017 01:38:36]  -> :stable.nictitate.net 376 cryptobot :End of message of the day.
+[09/09/2017 01:38:36]  -> :stable.nictitate.net 251 cryptobot :There are 2 users and 1 invisible on 1 servers
+[09/09/2017 01:38:36]  -> :stable.nictitate.net 252 cryptobot 1 :operator(s) online
+[09/09/2017 01:38:36]  -> :stable.nictitate.net 254 cryptobot 5 :channels formed
+[09/09/2017 01:38:36]  -> :stable.nictitate.net 255 cryptobot :I have 3 clients and 0 servers
+[09/09/2017 01:38:36]  -> :stable.nictitate.net 265 cryptobot :Current Local Users: 3  Max: 3
+[09/09/2017 01:38:36]  -> :stable.nictitate.net 266 cryptobot :Current Global Users: 3  Max: 3
+[09/09/2017 01:38:36]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 01:38:38]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 01:38:40]  -> :cryptobot!crypto@local.damian.id.au JOIN :#nerdhacks
+[09/09/2017 01:38:40]  <- MODE #nerdhacks 
+[09/09/2017 01:38:40]  -> :stable.nictitate.net 353 cryptobot = #nerdhacks :damian steven cryptobot 
+[09/09/2017 01:38:40]  <- WHO damian
+[09/09/2017 01:38:40]  <- WHO steven
+[09/09/2017 01:38:40]  <- WHO cryptobot
+[09/09/2017 01:38:40]  -> :stable.nictitate.net 366 cryptobot #nerdhacks :End of /NAMES list.
+[09/09/2017 01:38:42]  -> :stable.nictitate.net 324 cryptobot #nerdhacks +nt
+[09/09/2017 01:38:42]  -> :stable.nictitate.net 329 cryptobot #nerdhacks 1504868540
+[09/09/2017 01:38:43]  -> :stable.nictitate.net 352 cryptobot #opers damian local.damian.id.au stable.nictitate.net damian H*@ :0 damian
+[09/09/2017 01:38:43]  -> :stable.nictitate.net 315 cryptobot damian :End of /WHO list.
+[09/09/2017 01:38:44]  -> :stable.nictitate.net 352 cryptobot #nerdhacks steven CPE-1-122-210-35.wwl9.wel.bigpond.net.au stable.nictitate.net steven H :0 steven
+[09/09/2017 01:38:44]  -> :stable.nictitate.net 315 cryptobot steven :End of /WHO list.
+[09/09/2017 01:38:45]  -> :stable.nictitate.net 352 cryptobot #nerdhacks crypto local.damian.id.au stable.nictitate.net cryptobot H :0 a crypto currency bot
+[09/09/2017 01:38:45]  -> :stable.nictitate.net 315 cryptobot cryptobot :End of /WHO list.
+[09/09/2017 01:38:47]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.crypto -something here
+[09/09/2017 01:38:47]  <- NOTICE damian :*** Top 15 list of cryptocurrencies (AUD) ***
+[09/09/2017 01:38:47]  <- NOTICE damian :SYM    NAME                MARKET CAP         PRICE(AUD)              SUPPLY     1HR      1D      7D
+[09/09/2017 01:38:47]  <- NOTICE damian :BTC    Bitcoin             $  86,908,282,731  $  5,250.4864       16,552,425   -0.31   -8.14  -11.58
+[09/09/2017 01:38:47]  <- NOTICE damian :ETH    Ethereum            $  33,995,379,823  $    359.7331       94,501,665   -0.79  -11.79  -24.93
+[09/09/2017 01:38:47]  <- NOTICE damian :BCH    Bitcoin Cash        $  11,720,814,816  $    707.4465       16,567,775   -2.37  -12.24   -6.25
+[09/09/2017 01:38:47]  <- NOTICE damian :XRP    Ripple              $   9,875,595,935  $      0.2576   99,994,523,265   -0.55    -7.3   -16.7
+[09/09/2017 01:38:47]  <- NOTICE damian :LTC    Litecoin            $   4,347,736,770  $     82.2810       52,840,132   -0.51  -16.63  -16.27
+[09/09/2017 01:38:47]  <- NOTICE damian :DASH   Dash                $   3,047,879,733  $    403.9441        7,545,300    0.27   -5.36  -14.78
+[09/09/2017 01:38:47]  <- NOTICE damian :XEM    NEM                 $   2,934,014,333  $      0.3260    8,999,999,999    -1.2  -11.26  -19.29
+[09/09/2017 01:38:47]  <- NOTICE damian :XMR    Monero              $   2,172,232,732  $    144.2986       15,053,738    0.75   -2.42  -18.06
+[09/09/2017 01:38:47]  <- NOTICE damian :MIOTA  IOTA                $   1,831,095,809  $      0.6588    2,779,530,283    4.06  -22.97  -36.12
+[09/09/2017 01:38:47]  <- NOTICE damian :ETC    Ethereum Classic    $   1,768,606,632  $     18.5548       95,318,256   -1.96  -17.03  -23.08
+[09/09/2017 01:38:47]  <- NOTICE damian :NEO    NEO                 $   1,494,926,305  $     29.8985      100,000,000   -2.27   -19.8  -23.73
+[09/09/2017 01:38:47]  <- NOTICE damian :OMG    OmiseGO             $   1,370,045,673  $     13.9357      140,245,398   -0.29  -13.71    -7.1
+[09/09/2017 01:38:47]  <- NOTICE damian :BCC    BitConnect          $   1,059,176,264  $    159.3470        7,677,912    0.63   -6.51   -6.51
+[09/09/2017 01:38:47]  <- NOTICE damian :LSK    Lisk                $     934,084,200  $      8.3420      111,973,500    1.15   -8.37  -11.82
+[09/09/2017 01:38:47]  <- NOTICE damian :QTUM   Qtum                $     932,246,591  $     15.8008      100,000,000    1.33    2.36   -26.5
+[09/09/2017 01:38:47]  <- NOTICE damian :*** End of List ***
+[09/09/2017 01:41:05]  -> PING :stable.nictitate.net
+[09/09/2017 01:41:05]  <- PONG :stable.nictitate.net
+[09/09/2017 01:42:56]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.die
+[09/09/2017 01:42:56]  <- QUIT :damian said to quit! ()
+[09/09/2017 01:42:56]  -> ERROR :Closing link: (crypto@local.damian.id.au) [Quit: damian said to quit! ()]
+[09/09/2017 01:43:05]  <- NICK cryptobot
+[09/09/2017 01:43:05]  <- USER crypto 0 * :a crypto currency bot
+[09/09/2017 01:43:05]  -> :stable.nictitate.net NOTICE Auth :*** Looking up your hostname...
+[09/09/2017 01:43:05]  -> :stable.nictitate.net NOTICE Auth :*** Found your hostname (local.damian.id.au)
+[09/09/2017 01:43:06]  -> :stable.nictitate.net NOTICE Auth :Welcome to nictitate!
+[09/09/2017 01:43:06]  -> :stable.nictitate.net 001 cryptobot :Welcome to the nictitate IRC Network cryptobot!crypto@local.damian.id.au
+[09/09/2017 01:43:06]  <- PROTOCTL NAMESX
+[09/09/2017 01:43:06]  <- PROTOCTL UHNAMES
+[09/09/2017 01:43:06]  <- JOIN #nerdhacks
+[09/09/2017 01:43:06]  -> :stable.nictitate.net 002 cryptobot :Your host is stable.nictitate.net, running version InspIRCd-2.0
+[09/09/2017 01:43:06]  -> :stable.nictitate.net 003 cryptobot :This server was created 17:21:34 Sep  8 2017
+[09/09/2017 01:43:06]  -> :stable.nictitate.net 004 cryptobot stable.nictitate.net InspIRCd-2.0 iosw biklmnopstv bklov
+[09/09/2017 01:43:06]  -> :stable.nictitate.net 005 cryptobot AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,l,imnpst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 MAXPARA=32 :are supported by this server
+[09/09/2017 01:43:06]  -> :stable.nictitate.net 005 cryptobot MAXTARGETS=20 MODES=20 NETWORK=nictitate NICKLEN=32 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+[09/09/2017 01:43:06]  -> :stable.nictitate.net 042 cryptobot 00AAAAAD3 :your unique ID
+[09/09/2017 01:43:06]  -> :stable.nictitate.net 375 cryptobot :stable.nictitate.net message of the day
+[09/09/2017 01:43:06]  -> :stable.nictitate.net 376 cryptobot :End of message of the day.
+[09/09/2017 01:43:06]  -> :stable.nictitate.net 251 cryptobot :There are 2 users and 1 invisible on 1 servers
+[09/09/2017 01:43:06]  -> :stable.nictitate.net 252 cryptobot 1 :operator(s) online
+[09/09/2017 01:43:06]  -> :stable.nictitate.net 254 cryptobot 5 :channels formed
+[09/09/2017 01:43:06]  -> :stable.nictitate.net 255 cryptobot :I have 3 clients and 0 servers
+[09/09/2017 01:43:06]  -> :stable.nictitate.net 265 cryptobot :Current Local Users: 3  Max: 3
+[09/09/2017 01:43:06]  -> :stable.nictitate.net 266 cryptobot :Current Global Users: 3  Max: 3
+[09/09/2017 01:43:06]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 01:43:08]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 01:43:10]  -> :cryptobot!crypto@local.damian.id.au JOIN :#nerdhacks
+[09/09/2017 01:43:10]  <- MODE #nerdhacks 
+[09/09/2017 01:43:10]  -> :stable.nictitate.net 353 cryptobot = #nerdhacks :damian steven cryptobot 
+[09/09/2017 01:43:10]  <- WHO damian
+[09/09/2017 01:43:10]  <- WHO steven
+[09/09/2017 01:43:10]  <- WHO cryptobot
+[09/09/2017 01:43:10]  -> :stable.nictitate.net 366 cryptobot #nerdhacks :End of /NAMES list.
+[09/09/2017 01:43:12]  -> :stable.nictitate.net 324 cryptobot #nerdhacks +nt
+[09/09/2017 01:43:12]  -> :stable.nictitate.net 329 cryptobot #nerdhacks 1504868540
+[09/09/2017 01:43:13]  -> :stable.nictitate.net 352 cryptobot #opers damian local.damian.id.au stable.nictitate.net damian H*@ :0 damian
+[09/09/2017 01:43:13]  -> :stable.nictitate.net 315 cryptobot damian :End of /WHO list.
+[09/09/2017 01:43:14]  -> :stable.nictitate.net 352 cryptobot #nerdhacks steven CPE-1-122-210-35.wwl9.wel.bigpond.net.au stable.nictitate.net steven H :0 steven
+[09/09/2017 01:43:14]  -> :stable.nictitate.net 315 cryptobot steven :End of /WHO list.
+[09/09/2017 01:43:15]  -> :stable.nictitate.net 352 cryptobot #nerdhacks crypto local.damian.id.au stable.nictitate.net cryptobot H :0 a crypto currency bot
+[09/09/2017 01:43:15]  -> :stable.nictitate.net 315 cryptobot cryptobot :End of /WHO list.
+[09/09/2017 01:43:45]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.crypto -something here
+[09/09/2017 01:43:46]  <- NOTICE damian :*** Top 15 list of cryptocurrencies (AUD) ***
+[09/09/2017 01:43:46]  <- NOTICE damian :SYM    NAME                MARKET CAP         PRICE(AUD)              SUPPLY     1HR      1D      7D
+[09/09/2017 01:43:46]  <- NOTICE damian :BTC    Bitcoin             $  86,814,441,504  $  5,244.8092       16,552,450   -0.54   -8.21  -11.68
+[09/09/2017 01:43:46]  <- NOTICE damian :ETH    Ethereum            $  34,016,954,852  $    359.9602       94,501,984   -0.73  -11.74  -24.88
+[09/09/2017 01:43:46]  <- NOTICE damian :BCH    Bitcoin Cash        $  11,855,898,814  $    715.5983       16,567,813   -1.51  -11.22   -5.19
+[09/09/2017 01:43:46]  <- NOTICE damian :XRP    Ripple              $   9,851,224,367  $      0.2569   99,994,523,265   -0.97   -7.55   -16.9
+[09/09/2017 01:43:46]  <- NOTICE damian :LTC    Litecoin            $   4,417,039,266  $     83.5920       52,840,432    0.18  -15.19  -15.04
+[09/09/2017 01:43:46]  <- NOTICE damian :DASH   Dash                $   3,041,433,569  $    403.0889        7,545,318   -0.96   -5.55  -14.97
+[09/09/2017 01:43:46]  <- NOTICE damian :XEM    NEM                 $   2,869,645,362  $      0.3188    8,999,999,999   -3.94   -13.2  -21.05
+[09/09/2017 01:43:46]  <- NOTICE damian :XMR    Monero              $   2,168,138,841  $    144.0258       15,053,822    0.12   -2.58  -18.24
+[09/09/2017 01:43:46]  <- NOTICE damian :MIOTA  IOTA                $   1,850,927,283  $      0.6659    2,779,530,283    4.57  -22.08  -35.39
+[09/09/2017 01:43:46]  <- NOTICE damian :ETC    Ethereum Classic    $   1,803,101,784  $     18.9166       95,318,413   -0.25  -15.35  -21.63
+[09/09/2017 01:43:46]  <- NOTICE damian :NEO    NEO                 $   1,496,666,508  $     29.9333      100,000,000   -4.61  -19.45  -23.61
+[09/09/2017 01:43:46]  <- NOTICE damian :OMG    OmiseGO             $   1,363,772,637  $     13.8719      140,245,398   -2.18  -14.01   -7.51
+[09/09/2017 01:43:46]  <- NOTICE damian :BCC    BitConnect          $   1,042,777,095  $    156.8786        7,677,963   -1.19   -7.92   -7.97
+[09/09/2017 01:43:46]  <- NOTICE damian :QTUM   Qtum                $     942,710,390  $     15.9781      100,000,000    1.47    3.33  -25.69
+[09/09/2017 01:43:47]  <- NOTICE damian :LSK    Lisk                $     917,483,469  $      8.1937      111,974,100   -1.45  -10.01  -13.32
+[09/09/2017 01:43:47]  <- NOTICE damian :*** End of List ***
+[09/09/2017 01:43:54]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.crypto -aud here
+[09/09/2017 01:43:54]  <- NOTICE damian :*** Top 15 list of cryptocurrencies (AUD) ***
+[09/09/2017 01:43:54]  <- NOTICE damian :SYM    NAME                MARKET CAP         PRICE(AUD)              SUPPLY     1HR      1D      7D
+[09/09/2017 01:43:54]  <- NOTICE damian :BTC    Bitcoin             $  86,814,441,504  $  5,244.8092       16,552,450   -0.54   -8.21  -11.68
+[09/09/2017 01:43:54]  <- NOTICE damian :ETH    Ethereum            $  34,016,954,852  $    359.9602       94,501,984   -0.73  -11.74  -24.88
+[09/09/2017 01:43:54]  <- NOTICE damian :BCH    Bitcoin Cash        $  11,855,898,814  $    715.5983       16,567,813   -1.51  -11.22   -5.19
+[09/09/2017 01:43:54]  <- NOTICE damian :XRP    Ripple              $   9,851,224,367  $      0.2569   99,994,523,265   -0.97   -7.55   -16.9
+[09/09/2017 01:43:54]  <- NOTICE damian :LTC    Litecoin            $   4,417,039,266  $     83.5920       52,840,432    0.18  -15.19  -15.04
+[09/09/2017 01:43:54]  <- NOTICE damian :DASH   Dash                $   3,041,433,569  $    403.0889        7,545,318   -0.96   -5.55  -14.97
+[09/09/2017 01:43:54]  <- NOTICE damian :XEM    NEM                 $   2,869,645,362  $      0.3188    8,999,999,999   -3.94   -13.2  -21.05
+[09/09/2017 01:43:54]  <- NOTICE damian :XMR    Monero              $   2,168,138,841  $    144.0258       15,053,822    0.12   -2.58  -18.24
+[09/09/2017 01:43:54]  <- NOTICE damian :MIOTA  IOTA                $   1,850,927,283  $      0.6659    2,779,530,283    4.57  -22.08  -35.39
+[09/09/2017 01:43:54]  <- NOTICE damian :ETC    Ethereum Classic    $   1,803,101,784  $     18.9166       95,318,413   -0.25  -15.35  -21.63
+[09/09/2017 01:43:54]  <- NOTICE damian :NEO    NEO                 $   1,496,666,508  $     29.9333      100,000,000   -4.61  -19.45  -23.61
+[09/09/2017 01:43:54]  <- NOTICE damian :OMG    OmiseGO             $   1,363,772,637  $     13.8719      140,245,398   -2.18  -14.01   -7.51
+[09/09/2017 01:43:54]  <- NOTICE damian :BCC    BitConnect          $   1,042,777,095  $    156.8786        7,677,963   -1.19   -7.92   -7.97
+[09/09/2017 01:43:54]  <- NOTICE damian :QTUM   Qtum                $     942,710,390  $     15.9781      100,000,000    1.47    3.33  -25.69
+[09/09/2017 01:43:54]  <- NOTICE damian :LSK    Lisk                $     917,483,469  $      8.1937      111,974,100   -1.45  -10.01  -13.32
+[09/09/2017 01:43:54]  <- NOTICE damian :*** End of List ***
+[09/09/2017 01:43:58]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.crypto -AUD here
+[09/09/2017 01:43:59]  <- NOTICE damian :*** Top 15 list of cryptocurrencies (AUD) ***
+[09/09/2017 01:43:59]  <- NOTICE damian :SYM    NAME                MARKET CAP         PRICE(AUD)              SUPPLY     1HR      1D      7D
+[09/09/2017 01:43:59]  <- NOTICE damian :BTC    Bitcoin             $  86,814,441,504  $  5,244.8092       16,552,450   -0.54   -8.21  -11.68
+[09/09/2017 01:43:59]  <- NOTICE damian :ETH    Ethereum            $  34,016,954,852  $    359.9602       94,501,984   -0.73  -11.74  -24.88
+[09/09/2017 01:43:59]  <- NOTICE damian :BCH    Bitcoin Cash        $  11,855,898,814  $    715.5983       16,567,813   -1.51  -11.22   -5.19
+[09/09/2017 01:43:59]  <- NOTICE damian :XRP    Ripple              $   9,851,224,367  $      0.2569   99,994,523,265   -0.97   -7.55   -16.9
+[09/09/2017 01:43:59]  <- NOTICE damian :LTC    Litecoin            $   4,417,039,266  $     83.5920       52,840,432    0.18  -15.19  -15.04
+[09/09/2017 01:43:59]  <- NOTICE damian :DASH   Dash                $   3,041,433,569  $    403.0889        7,545,318   -0.96   -5.55  -14.97
+[09/09/2017 01:43:59]  <- NOTICE damian :XEM    NEM                 $   2,869,645,362  $      0.3188    8,999,999,999   -3.94   -13.2  -21.05
+[09/09/2017 01:43:59]  <- NOTICE damian :XMR    Monero              $   2,168,138,841  $    144.0258       15,053,822    0.12   -2.58  -18.24
+[09/09/2017 01:43:59]  <- NOTICE damian :MIOTA  IOTA                $   1,850,927,283  $      0.6659    2,779,530,283    4.57  -22.08  -35.39
+[09/09/2017 01:43:59]  <- NOTICE damian :ETC    Ethereum Classic    $   1,803,101,784  $     18.9166       95,318,413   -0.25  -15.35  -21.63
+[09/09/2017 01:43:59]  <- NOTICE damian :NEO    NEO                 $   1,496,666,508  $     29.9333      100,000,000   -4.61  -19.45  -23.61
+[09/09/2017 01:43:59]  <- NOTICE damian :OMG    OmiseGO             $   1,363,772,637  $     13.8719      140,245,398   -2.18  -14.01   -7.51
+[09/09/2017 01:43:59]  <- NOTICE damian :BCC    BitConnect          $   1,042,777,095  $    156.8786        7,677,963   -1.19   -7.92   -7.97
+[09/09/2017 01:43:59]  <- NOTICE damian :QTUM   Qtum                $     942,710,390  $     15.9781      100,000,000    1.47    3.33  -25.69
+[09/09/2017 01:43:59]  <- NOTICE damian :LSK    Lisk                $     917,483,469  $      8.1937      111,974,100   -1.45  -10.01  -13.32
+[09/09/2017 01:43:59]  <- NOTICE damian :*** End of List ***
+[09/09/2017 01:55:06]  <- NICK cryptobot
+[09/09/2017 01:55:06]  <- USER crypto 0 * :a crypto currency bot
+[09/09/2017 01:55:06]  -> :stable.nictitate.net NOTICE Auth :*** Looking up your hostname...
+[09/09/2017 01:55:06]  -> :stable.nictitate.net NOTICE Auth :*** Found your hostname (local.damian.id.au)
+[09/09/2017 01:55:07]  -> :stable.nictitate.net NOTICE Auth :Welcome to nictitate!
+[09/09/2017 01:55:07]  -> :stable.nictitate.net 001 cryptobot :Welcome to the nictitate IRC Network cryptobot!crypto@local.damian.id.au
+[09/09/2017 01:55:07]  <- PROTOCTL NAMESX
+[09/09/2017 01:55:07]  <- PROTOCTL UHNAMES
+[09/09/2017 01:55:07]  <- JOIN #nerdhacks
+[09/09/2017 01:55:07]  -> :stable.nictitate.net 002 cryptobot :Your host is stable.nictitate.net, running version InspIRCd-2.0
+[09/09/2017 01:55:07]  -> :stable.nictitate.net 003 cryptobot :This server was created 17:21:34 Sep  8 2017
+[09/09/2017 01:55:07]  -> :stable.nictitate.net 004 cryptobot stable.nictitate.net InspIRCd-2.0 iosw biklmnopstv bklov
+[09/09/2017 01:55:07]  -> :stable.nictitate.net 005 cryptobot AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,l,imnpst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 MAXPARA=32 :are supported by this server
+[09/09/2017 01:55:07]  -> :stable.nictitate.net 005 cryptobot MAXTARGETS=20 MODES=20 NETWORK=nictitate NICKLEN=32 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+[09/09/2017 01:55:07]  -> :stable.nictitate.net 042 cryptobot 00AAAAAD4 :your unique ID
+[09/09/2017 01:55:07]  -> :stable.nictitate.net 375 cryptobot :stable.nictitate.net message of the day
+[09/09/2017 01:55:07]  -> :stable.nictitate.net 376 cryptobot :End of message of the day.
+[09/09/2017 01:55:07]  -> :stable.nictitate.net 251 cryptobot :There are 2 users and 1 invisible on 1 servers
+[09/09/2017 01:55:07]  -> :stable.nictitate.net 252 cryptobot 1 :operator(s) online
+[09/09/2017 01:55:07]  -> :stable.nictitate.net 254 cryptobot 5 :channels formed
+[09/09/2017 01:55:07]  -> :stable.nictitate.net 255 cryptobot :I have 3 clients and 0 servers
+[09/09/2017 01:55:07]  -> :stable.nictitate.net 265 cryptobot :Current Local Users: 3  Max: 3
+[09/09/2017 01:55:07]  -> :stable.nictitate.net 266 cryptobot :Current Global Users: 3  Max: 3
+[09/09/2017 01:55:07]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 01:55:09]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 01:55:11]  -> :cryptobot!crypto@local.damian.id.au JOIN :#nerdhacks
+[09/09/2017 01:55:11]  <- MODE #nerdhacks 
+[09/09/2017 01:55:11]  -> :stable.nictitate.net 353 cryptobot = #nerdhacks :damian steven cryptobot 
+[09/09/2017 01:55:11]  <- WHO damian
+[09/09/2017 01:55:11]  <- WHO steven
+[09/09/2017 01:55:11]  <- WHO cryptobot
+[09/09/2017 01:55:11]  -> :stable.nictitate.net 366 cryptobot #nerdhacks :End of /NAMES list.
+[09/09/2017 01:55:13]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.crypto -AUD bitcoin
+[09/09/2017 01:55:13]  <- NOTICE damian :*** Current list price of bitcoin (AUD) ***
+[09/09/2017 01:55:13]  -> :stable.nictitate.net 324 cryptobot #nerdhacks +nt
+[09/09/2017 01:55:13]  <- NOTICE damian :SYM    NAME                MARKET CAP         PRICE(AUD)              SUPPLY     1HR      1D      7D
+[09/09/2017 01:55:13]  -> :stable.nictitate.net 329 cryptobot #nerdhacks 1504868540
+[09/09/2017 01:55:14]  -> :stable.nictitate.net 352 cryptobot #opers damian local.damian.id.au stable.nictitate.net damian H*@ :0 damian
+[09/09/2017 01:55:14]  -> :stable.nictitate.net 315 cryptobot damian :End of /WHO list.
+[09/09/2017 01:55:15]  -> :stable.nictitate.net 352 cryptobot #nerdhacks steven CPE-1-122-210-35.wwl9.wel.bigpond.net.au stable.nictitate.net steven H :0 steven
+[09/09/2017 01:55:15]  -> :stable.nictitate.net 315 cryptobot steven :End of /WHO list.
+[09/09/2017 01:55:16]  -> :stable.nictitate.net 352 cryptobot #nerdhacks crypto local.damian.id.au stable.nictitate.net cryptobot H :0 a crypto currency bot
+[09/09/2017 01:55:16]  -> :stable.nictitate.net 315 cryptobot cryptobot :End of /WHO list.
+[09/09/2017 01:55:31]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.crypto -AUD Bitcoin
+[09/09/2017 01:55:31]  <- NOTICE damian :*** Current list price of Bitcoin (AUD) ***
+[09/09/2017 01:55:31]  <- NOTICE damian :SYM    NAME                MARKET CAP         PRICE(AUD)              SUPPLY     1HR      1D      7D
+[09/09/2017 01:55:37]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.crypto -AUD BTC
+[09/09/2017 01:55:37]  <- NOTICE damian :*** Current list price of BTC (AUD) ***
+[09/09/2017 01:55:37]  <- NOTICE damian :SYM    NAME                MARKET CAP         PRICE(AUD)              SUPPLY     1HR      1D      7D
+[09/09/2017 01:57:04]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.die
+[09/09/2017 01:57:04]  <- QUIT :damian said to quit! ()
+[09/09/2017 01:57:04]  -> ERROR :Closing link: (crypto@local.damian.id.au) [Quit: damian said to quit! ()]
+[09/09/2017 01:57:20]  <- NICK cryptobot
+[09/09/2017 01:57:20]  <- USER crypto 0 * :a crypto currency bot
+[09/09/2017 01:57:20]  -> :stable.nictitate.net NOTICE Auth :*** Looking up your hostname...
+[09/09/2017 01:57:20]  -> :stable.nictitate.net NOTICE Auth :*** Found your hostname (local.damian.id.au) -- cached
+[09/09/2017 01:57:21]  -> :stable.nictitate.net NOTICE Auth :Welcome to nictitate!
+[09/09/2017 01:57:21]  -> :stable.nictitate.net 001 cryptobot :Welcome to the nictitate IRC Network cryptobot!crypto@local.damian.id.au
+[09/09/2017 01:57:21]  <- PROTOCTL NAMESX
+[09/09/2017 01:57:21]  <- PROTOCTL UHNAMES
+[09/09/2017 01:57:21]  <- JOIN #nerdhacks
+[09/09/2017 01:57:21]  -> :stable.nictitate.net 002 cryptobot :Your host is stable.nictitate.net, running version InspIRCd-2.0
+[09/09/2017 01:57:21]  -> :stable.nictitate.net 003 cryptobot :This server was created 17:21:34 Sep  8 2017
+[09/09/2017 01:57:21]  -> :stable.nictitate.net 004 cryptobot stable.nictitate.net InspIRCd-2.0 iosw biklmnopstv bklov
+[09/09/2017 01:57:21]  -> :stable.nictitate.net 005 cryptobot AWAYLEN=200 CASEMAPPING=rfc1459 CHANMODES=b,k,l,imnpst CHANNELLEN=64 CHANTYPES=# CHARSET=ascii ELIST=MU FNC KICKLEN=255 MAP MAXBANS=60 MAXCHANNELS=20 MAXPARA=32 :are supported by this server
+[09/09/2017 01:57:21]  -> :stable.nictitate.net 005 cryptobot MAXTARGETS=20 MODES=20 NETWORK=nictitate NICKLEN=32 PREFIX=(ov)@+ STATUSMSG=@+ TOPICLEN=307 VBANLIST WALLCHOPS WALLVOICES :are supported by this server
+[09/09/2017 01:57:21]  -> :stable.nictitate.net 042 cryptobot 00AAAAAD6 :your unique ID
+[09/09/2017 01:57:21]  -> :stable.nictitate.net 375 cryptobot :stable.nictitate.net message of the day
+[09/09/2017 01:57:21]  -> :stable.nictitate.net 376 cryptobot :End of message of the day.
+[09/09/2017 01:57:21]  -> :stable.nictitate.net 251 cryptobot :There are 3 users and 1 invisible on 1 servers
+[09/09/2017 01:57:21]  -> :stable.nictitate.net 252 cryptobot 1 :operator(s) online
+[09/09/2017 01:57:21]  -> :stable.nictitate.net 254 cryptobot 5 :channels formed
+[09/09/2017 01:57:21]  -> :stable.nictitate.net 255 cryptobot :I have 4 clients and 0 servers
+[09/09/2017 01:57:21]  -> :stable.nictitate.net 265 cryptobot :Current Local Users: 4  Max: 4
+[09/09/2017 01:57:21]  -> :stable.nictitate.net 266 cryptobot :Current Global Users: 4  Max: 4
+[09/09/2017 01:57:21]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 01:57:23]  -> :stable.nictitate.net 421 cryptobot PROTOCTL :Unknown command
+[09/09/2017 01:57:25]  -> :cryptobot!crypto@local.damian.id.au JOIN :#nerdhacks
+[09/09/2017 01:57:25]  <- MODE #nerdhacks 
+[09/09/2017 01:57:25]  -> :stable.nictitate.net 353 cryptobot = #nerdhacks :damian steven cryptobot Herb_Dean 
+[09/09/2017 01:57:25]  <- WHO damian
+[09/09/2017 01:57:25]  <- WHO steven
+[09/09/2017 01:57:25]  <- WHO cryptobot
+[09/09/2017 01:57:25]  <- WHO Herb_Dean
+[09/09/2017 01:57:25]  -> :stable.nictitate.net 366 cryptobot #nerdhacks :End of /NAMES list.
+[09/09/2017 01:57:27]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.crypto -AUD BTC
+[09/09/2017 01:57:27]  -> :stable.nictitate.net 324 cryptobot #nerdhacks +nt
+[09/09/2017 01:57:27]  -> :stable.nictitate.net 329 cryptobot #nerdhacks 1504868540
+[09/09/2017 01:57:28]  -> :stable.nictitate.net 352 cryptobot #opers damian local.damian.id.au stable.nictitate.net damian H*@ :0 damian
+[09/09/2017 01:57:28]  -> :stable.nictitate.net 315 cryptobot damian :End of /WHO list.
+[09/09/2017 01:57:29]  -> :stable.nictitate.net 352 cryptobot #nerdhacks steven CPE-1-122-210-35.wwl9.wel.bigpond.net.au stable.nictitate.net steven H :0 steven
+[09/09/2017 01:57:29]  -> :stable.nictitate.net 315 cryptobot steven :End of /WHO list.
+[09/09/2017 01:57:30]  -> :stable.nictitate.net 352 cryptobot #nerdhacks crypto local.damian.id.au stable.nictitate.net cryptobot H :0 a crypto currency bot
+[09/09/2017 01:57:30]  -> :stable.nictitate.net 315 cryptobot cryptobot :End of /WHO list.
+[09/09/2017 01:57:31]  -> :stable.nictitate.net 352 cryptobot #nerdhacks herbdean CPE-1-122-210-35.wwl9.wel.bigpond.net.au stable.nictitate.net Herb_Dean H :0 looooool
+[09/09/2017 01:57:31]  -> :stable.nictitate.net 315 cryptobot Herb_Dean :End of /WHO list.
+[09/09/2017 01:57:33]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.crypto -AUD bitcoin
+[09/09/2017 01:57:33]  <- NOTICE damian :*** Current list price of bitcoin (AUD) ***
+[09/09/2017 01:57:33]  <- NOTICE damian :SYM    NAME                MARKET CAP         PRICE(AUD)              SUPPLY     1HR      1D      7D
+[09/09/2017 01:57:33]  <- NOTICE damian :BTC    Bitcoin             $  88,119,229,091  $  5,323.6366       16,552,450     0.5   -6.79  -10.38
+[09/09/2017 01:57:33]  <- NOTICE damian :*** End of List ***
+[09/09/2017 01:57:42]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.crypto -AUD Bitcoin
+[09/09/2017 01:57:42]  <- NOTICE damian :*** Current list price of Bitcoin (AUD) ***
+[09/09/2017 01:57:42]  <- NOTICE damian :SYM    NAME                MARKET CAP         PRICE(AUD)              SUPPLY     1HR      1D      7D
+[09/09/2017 01:57:42]  <- NOTICE damian :BTC    Bitcoin             $  88,119,229,091  $  5,323.6366       16,552,450     0.5   -6.79  -10.38
+[09/09/2017 01:57:42]  <- NOTICE damian :*** End of List ***
+[09/09/2017 01:58:19]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.crypto -AUD ripple
+[09/09/2017 01:58:19]  <- NOTICE damian :*** Current list price of ripple (AUD) ***
+[09/09/2017 01:58:19]  <- NOTICE damian :SYM    NAME                MARKET CAP         PRICE(AUD)              SUPPLY     1HR      1D      7D
+[09/09/2017 01:58:19]  <- NOTICE damian :XRP    Ripple              $  10,163,700,994  $      0.2651   99,994,523,265    1.33   -4.62  -14.26
+[09/09/2017 01:58:19]  <- NOTICE damian :*** End of List ***
+[09/09/2017 01:58:25]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.crypto -AUD bitcoin cash
+[09/09/2017 01:58:39]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.crypto -AUD ethereum
+[09/09/2017 01:58:39]  <- NOTICE damian :*** Current list price of ethereum (AUD) ***
+[09/09/2017 01:58:39]  <- NOTICE damian :SYM    NAME                MARKET CAP         PRICE(AUD)              SUPPLY     1HR      1D      7D
+[09/09/2017 01:58:39]  <- NOTICE damian :ETH    Ethereum            $  34,812,975,249  $    368.3835       94,501,984    0.72   -9.62  -23.11
+[09/09/2017 01:58:39]  <- NOTICE damian :*** End of List ***
+[09/09/2017 01:59:25]  -> :damian!damian@local.damian.id.au PRIVMSG #nerdhacks :.crypto -AUD bitcoin-cash
+[09/09/2017 01:59:25]  <- NOTICE damian :*** Current list price of bitcoin-cash (AUD) ***
+[09/09/2017 01:59:25]  <- NOTICE damian :SYM    NAME                MARKET CAP         PRICE(AUD)              SUPPLY     1HR      1D      7D
+[09/09/2017 01:59:25]  <- NOTICE damian :BCH    Bitcoin Cash        $  12,312,906,300  $    743.1824       16,567,813    1.59   -7.73   -1.62
+[09/09/2017 01:59:25]  <- NOTICE damian :*** End of List ***

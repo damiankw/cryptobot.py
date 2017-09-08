@@ -10,6 +10,8 @@ import threading
 import traceback
 import logging
 import importlib
+import urllib.request
+import json
 
 # set up my import folders
 sys.path.insert(0, 'src')
@@ -19,6 +21,10 @@ from general import *
 from nicklist import *
 from nickchan import *
 from chanlist import *
+
+
+
+
 
 class boredbot():
   # default variables for use later
@@ -179,7 +185,46 @@ class boredbot():
 
   ###########################################################################################################
   # for sending data to the network
-  
+  def user_stats(self, nick, uhost, chan, text):
+    self.puts_msg(chan, "nick: %s" % self.NICKLIST.list())
+    self.puts_msg(chan, "chan: %s" % self.CHANLIST.list())
+    self.puts_msg(chan, "nickchan: %s" % self.NICKCHAN.list())
+    self.puts_msg(chan, "server: %s" % self.SERVER)
+    self.puts_msg(chan, "bot: %s" % self.BOT)
+    self.puts_msg(chan, "-------------------------------------------------------------------")
+    
+  def user_die(self, nick, uhost, chan, text):
+    self.puts_data("QUIT :%s said to quit! (%s)" % (nick, text))
+    
+  def user_crypto(self, nick, uhost, chan, text):
+    cur_list = {"AUD", "BRL", "CAD", "CHF", "CLP", "CNY", "CZK", "DKK", "EUR", "GBP", "HKD", "HUF", "IDR", "ILS", "INR", "JPY", "KRW", "MXN", "MYR", "NOK", "NZD", "PHP", "PKR", "PLN", "RUB", "SEK", "SGD", "THB", "TRY", "TWD", "ZAR"}
+    cur = None
+    cry = None
+    for arg in text.split(' '):
+      if (arg[0] == '-'):
+        #this is a -CUR
+        if arg[1:].upper() in cur_list:
+          cur = arg[1:].upper()
+      else:
+        #this is a CRY
+        cry = arg
+        
+    if (cur == None):
+      cur = 'AUD'
+        
+    if (cry == None):
+      items = self.get_crypto(cur)
+      head = 'Top 15 list of cryptocies'
+    else:
+      items = self.get_crypto(cur, 1, cry)
+      head = 'Current list price of %s' % cry
+      self.puts_notice(nick, "*** %s (AUD) ***" % head)
+      self.puts_notice(nick, "\x16SYM    NAME                MARKET CAP         PRICE(AUD)              SUPPLY     1HR      1D      7D\x16")
+      for item in items:
+        self.puts_notice(nick, "{0:6} {1:19} ${2:16,.0f}  $ {3:11,.4f} {4:16,.0f}  {5:6}  {6:6}  {7:6}".format(item['symbol'], item['name'], float(item['market_cap_aud']), float(item['price_aud']), float(item['total_supply']), float(item['percent_change_1h']), float(item['percent_change_24h']), float(item['percent_change_7d'])))
+      self.puts_notice(nick, "*** End of List ***")
+
+
   # puts_data(<socket>, <data>) - puts data to the socket, converts it to bytes from string
   def puts_data(self, data):
     self.IRCSOCK.send(bytes("%s\r\n" % data, "utf-8"))
@@ -238,7 +283,30 @@ class boredbot():
 
   #########################################################################################################
   # these are functions for generic purposes
-  
+  def get_crypto(self, cur="AUD", limit=15, cry=None):
+    # check for currency
+    # check for limit
+    # check for crypto
+    
+    if (cry == None):
+      http = urllib.request.urlopen('https://api.coinmarketcap.com/v1/ticker/?convert=%s&limit=%s' % (cur, limit))
+      html = http.read().decode('utf-8')
+      items = json.loads(html)
+      
+      return items
+    else:
+      http = urllib.request.urlopen('https://api.coinmarketcap.com/v1/ticker/%s/?convert=%s' % (cry, cur))
+      html = http.read().decode('utf-8')
+      items = json.loads(html)
+      
+      return items
+      
+#    else:
+#      http = urllib.request.urlopen('https://api.coinmarketcap.com/v1/ticker/%s/?convert=%s' % (cry, cur))
+#      html = http.readlines()
+#      output(html)
+    
+    
   
   #########################################################################################################
   # these functions will control the internal data; nicks, chans, etc
