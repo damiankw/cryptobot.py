@@ -1,0 +1,1 @@
+CONFIG['password'] = '43DA0887'

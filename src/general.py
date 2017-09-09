@@ -57,10 +57,13 @@ def write(file, data):
 
 
 def debug(text, level=0):
+  # -2 = don't do anything
   # -1 = server data, write to server.debug.log
   # 0 = information
   # 1 = warning
   # 2 = error
+  
+  print("!!DEBUG!! " text)
   
   if (level == -1):
     write("server.debug.log", "%s %s\r\n" % (time.strftime("[%d/%m/%Y %H:%M:%S]"), text))

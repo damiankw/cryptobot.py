@@ -1,6 +1,19 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
 
-# standard packages
+# cryptobot.py
+# Copyright (C) 2017 : Damian West - damian@damian.id.au
+#
+# This program is free software; you can redistribute it and/or modify
+# it under the terms of the GNU General Public License as published by
+# the Free Software Foundation; either version 3 of the License, or
+# (at your option) any later version.
+#
+# This program is distributed in the hope that it will be useful,
+# but WITHOUT ANY WARRANTY; without even the implied warranty of
+# MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
+# GNU General Public License for more details.
+#
+
 import sys
 import socket
 import string
@@ -324,6 +337,9 @@ class cryptobot():
     # tell the server what the bot can understand
     self.puts_data("PROTOCTL NAMESX")
     self.puts_data("PROTOCTL UHNAMES")
+    
+    # identify to the nickname service
+    self.puts_msg(self.CONFIG['nickserv'], "IDENTIFY " + self.CONFIG['nickpass'])
     
     # general things to do on connect
     for chan in self.CONFIG['channels']:

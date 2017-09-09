@@ -10,6 +10,8 @@ from cryptobot import *
 CONFIG = {
   'server': 'irc.austnet.org',
   'port': 6667,
+  'nickserv': 'NickOP',
+  'nickpass': 'TvemxLYKBYA23xwB',
   'channels': {
     '#nictitate',
     '#nerdhacks'
@@ -17,7 +19,7 @@ CONFIG = {
   'nick': 'cryptobot',
   'ident': 'crypto',
   'name': 'a crypto currency bot',
-  'cmd': '.'
+  'cmd': '.',
 }
 
 bot = cryptobot(CONFIG)
