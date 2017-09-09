@@ -23,6 +23,7 @@ CONFIG = {
 }
 
 bot = cryptobot(CONFIG)
+CONFIG['self'] = bot
 bot.connect()
 
 bot.catch()

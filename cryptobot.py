@@ -25,6 +25,7 @@ import logging
 import importlib
 import urllib.request
 import json
+from imp import reload
 
 # set up my import folders
 sys.path.insert(0, 'src')
@@ -569,7 +570,7 @@ class cryptobot():
           self.puts_msg(lindex(text, 1), lrange(text, 2, -1))
         
         elif (lindex(text, 0) == "/reload"):
-          reload(boredbot)
+          reload(cryptobot)
         else:
           print("ERROR: I don't have that command yet.")
     
