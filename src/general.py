@@ -63,7 +63,8 @@ def debug(text, level=0):
   # 1 = warning
   # 2 = error
   
-  print("!!DEBUG!! " text)
+  if (level >= 0):
+    print("!!DEBUG!! " + text)
   
   if (level == -1):
     write("server.debug.log", "%s %s\r\n" % (time.strftime("[%d/%m/%Y %H:%M:%S]"), text))
