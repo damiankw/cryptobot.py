@@ -4,19 +4,23 @@ import os # for changing the folder
 os.chdir(os.path.dirname(sys.argv[0]))
 
 # import custom
-from boredbot import *
+from cryptobot import *
 
 
 CONFIG = {
   'server': 'irc.austnet.org',
   'port': 6667,
+  'channels': {
+    '#nictitate',
+    '#nerdhacks'
+  },
   'nick': 'cryptobot',
   'ident': 'crypto',
   'name': 'a crypto currency bot',
   'cmd': '.'
 }
 
-bot = boredbot(CONFIG)
+bot = cryptobot(CONFIG)
 bot.connect()
 
 bot.catch()
