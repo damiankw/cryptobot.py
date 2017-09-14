@@ -1,3 +1,6 @@
+# required pip addons
+# - colorama
+
 # import common
 import sys
 import os # for changing the folder
